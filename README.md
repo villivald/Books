@@ -72,17 +72,21 @@
 - [The 2084 Report](https://www.amazon.com/2084-Report-History-Great-Warming/dp/1982150211) ⭐️⭐️⭐️⭐️ J. Powell @Sep 11, 2020
 - [Крестовые сестры](https://www.goodreads.com/book/show/34889270-sisters-of-the-cross) ⭐️⭐️⭐️	Ремизов	@Sep 13, 2020
 - [Карамора](https://en.wikipedia.org/wiki/Maxim_Gorky) ⭐️⭐️⭐️	Горький	@Sep 14, 2020
-- [Ослепление](https://en.wikipedia.org/wiki/Auto-da-F%C3%A9_(novel)) ⭐️⭐️⭐️⭐️	Канетти	@Nov 5, 2020
+- [Ослепление](https://en.wikipedia.org/wiki/Auto-da-F%C3%A9_(novel)) ⭐️⭐️⭐️⭐️ Канетти	@Nov 5, 2020
 - [Будущее](https://www.amazon.com/Futu-re-Dmitry-Glukhovsky/dp/1517679273) ⭐️⭐️⭐️ Глуховский	@Oct 25, 2020
 - [Любовница смерти](https://en.wikipedia.org/wiki/She_Lover_of_Death) ⭐️⭐️⭐️⭐️	Акунин @Oct 31, 2020
-- [Москва - Петушки](https://en.wikipedia.org/wiki/Moscow-Petushki) ⭐️⭐️⭐️⭐️⭐️	Ерофеев	@Nov 6, 2020
+- [Москва - Петушки](https://en.wikipedia.org/wiki/Moscow-Petushki) ⭐️⭐️⭐️⭐️⭐️ Ерофеев	@Nov 6, 2020
 - [Убик](https://en.wikipedia.org/wiki/Ubik) ⭐️⭐️⭐️⭐️ Ф. Дик @Nov 13, 2020
 - [Теоретический минимум по Computer Science](https://www.amazon.com/Computer-Science-Distilled-Computational-Problems-ebook/dp/B0731JG96F)	⭐️⭐️⭐️ В. Фило @Nov 18, 2020
-- [Москва и москвичи](https://www.amazon.com/Moscow-Muscovites-Vladimir-Gilyarovsky/dp/1880100827)	⭐️⭐️⭐️⭐️ Гиляровский @Nov 29, 2020
+- [Москва и москвичи](https://www.amazon.com/Moscow-Muscovites-Vladimir-Gilyarovsky/dp/1880100827) ⭐️⭐️⭐️⭐️ Гиляровский @Nov 29, 2020
 - [Котлован](https://en.wikipedia.org/wiki/The_Foundation_Pit) ⭐️⭐️	Платонов @Dec 10, 2020
+- [Все свободны](https://en.wikipedia.org/wiki/Mikhail_Zygar) ⭐️⭐️⭐️⭐️ Зыгарь @Dec 14, 2020
+- [Как работает пропаганда](https://neweasterneurope.eu/2018/12/11/propaganda-works-interview-tamara-eidelman/) ⭐️⭐️⭐️⭐️ Эйдельман @Dec 15, 2020
+- [В кварталах дальних и печальных](https://en.wikipedia.org/wiki/Boris_Ryzhy) ⭐️⭐️⭐️⭐️⭐️ Рыжий @Dec 16, 2020
 
 ### In progress
 
-- [Все свободны](https://en.wikipedia.org/wiki/Mikhail_Zygar) Зыгарь	
-- [Как работает пропаганда](https://neweasterneurope.eu/2018/12/11/propaganda-works-interview-tamara-eidelman/) Эйдельман
-- [В кварталах дальних и печальных](https://en.wikipedia.org/wiki/Boris_Ryzhy) Рыжий
+- [Любовник смерти](https://en.wikipedia.org/wiki/He_Lover_of_Death) Акунин
+- [Blood, Sweat, and Pixels](https://www.amazon.com/Blood-Sweat-Pixels-Triumphant-Turbulent/dp/0062651234) Schreier
+
+
