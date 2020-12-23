@@ -88,7 +88,7 @@
 ### In progress
 
 - [Blood, Sweat, and Pixels](https://www.amazon.com/Blood-Sweat-Pixels-Triumphant-Turbulent/dp/0062651234) Schreier
-- [Белые ночи] (https://en.wikipedia.org/wiki/White_Nights_(short_story)) Достоевский
-- [Несовременная страна] (https://www.goodreads.com/book/show/41671384-xxi) Иноземцев
+- [Белые ночи](https://en.wikipedia.org/wiki/White_Nights_(short_story)) Достоевский
+- [Несовременная страна](https://www.goodreads.com/book/show/41671384-xxi) Иноземцев
 
 
