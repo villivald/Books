@@ -84,11 +84,11 @@
 - [Как работает пропаганда](https://neweasterneurope.eu/2018/12/11/propaganda-works-interview-tamara-eidelman/) ⭐️⭐️⭐️⭐️ Эйдельман @Dec 15, 2020
 - [В кварталах дальних и печальных](https://en.wikipedia.org/wiki/Boris_Ryzhy) ⭐️⭐️⭐️⭐️⭐️ Рыжий @Dec 16, 2020
 - [Любовник смерти](https://en.wikipedia.org/wiki/He_Lover_of_Death) ⭐️⭐️⭐️⭐️ Акунин @Dec 20, 2020
+- [Белые ночи](https://en.wikipedia.org/wiki/White_Nights_(short_story)) ⭐️⭐️⭐️ Достоевский @Dec 30, 2020
 
 ### In progress
 
 - [Blood, Sweat, and Pixels](https://www.amazon.com/Blood-Sweat-Pixels-Triumphant-Turbulent/dp/0062651234) Schreier
-- [Белые ночи](https://en.wikipedia.org/wiki/White_Nights_(short_story)) Достоевский
 - [Несовременная страна](https://www.goodreads.com/book/show/41671384-xxi) Иноземцев
 
 
