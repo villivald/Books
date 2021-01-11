@@ -86,10 +86,13 @@
 - [Любовник смерти](https://en.wikipedia.org/wiki/He_Lover_of_Death) ⭐️⭐️⭐️⭐️ Акунин @Dec 20, 2020
 - [Белые ночи](https://en.wikipedia.org/wiki/White_Nights_(short_story)) ⭐️⭐️⭐️ Достоевский @Dec 30, 2020
 
+### 2021
+
+- [Несовременная страна](https://www.goodreads.com/book/show/41671384-xxi) ⭐️⭐️⭐️⭐️ Иноземцев @Jan 10, 2021
+
 ### In progress
 
 - [Blood, Sweat, and Pixels](https://www.amazon.com/Blood-Sweat-Pixels-Triumphant-Turbulent/dp/0062651234) Schreier
-- [Несовременная страна](https://www.goodreads.com/book/show/41671384-xxi) Иноземцев
 - [Третий Рейх](https://en.wikipedia.org/wiki/The_Third_Reich_(novel)) Боланьо
 
 
