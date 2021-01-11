@@ -2,10 +2,10 @@
 
 ### 2019
 
-- [Обломов](https://en.wikipedia.org/wiki/Oblomov)	⭐️⭐️⭐️⭐️ Гончаров @Nov 16, 2019
+- [Обломов](https://en.wikipedia.org/wiki/Oblomov) ⭐️⭐️⭐️⭐️ Гончаров @Nov 16, 2019
 - [Красный свет](https://en.wikipedia.org/wiki/Maxim_Kantor) ⭐️⭐️	Максим Кантор	@Nov 17, 2019
 - [Страна багровых туч](https://en.wikipedia.org/wiki/The_Land_of_Crimson_Clouds)	⭐️⭐️⭐️⭐️⭐️ Стругацкие	@Dec 1, 2019
-- [Путь на Амальтею](https://en.wikipedia.org/wiki/The_Way_to_Amalthea) ⭐️⭐️⭐️⭐️	Стругацкие @Dec 2, 2019
+- [Путь на Амальтею](https://en.wikipedia.org/wiki/The_Way_to_Amalthea) ⭐️⭐️⭐️⭐️ Стругацкие @Dec 2, 2019
 - [Стажеры](https://en.wikipedia.org/wiki/Space_Apprentice)	⭐️⭐️⭐️⭐️ Стругацкие	@Dec 8, 2019
 - [Хищные вещи века](https://en.wikipedia.org/wiki/The_Final_Circle_of_Paradise) ⭐️⭐️⭐️⭐️ Стругацкие @Dec 13, 2019
 - [Октябрь](https://www.versobooks.com/books/2731-october) ⭐️⭐️⭐️ Мьевиль @Dec 17, 2019
@@ -17,7 +17,7 @@
 ### 2020
 
 - [Попытка к бегству](https://en.wikipedia.org/wiki/Escape_Attempt)	⭐️⭐️⭐️ Стругацкие	@Jan 2, 2020
-- [Далекая радуга](https://en.wikipedia.org/wiki/Far_Rainbow) ⭐️⭐️	Стругацкие @Jan 3, 2020
+- [Далекая радуга](https://en.wikipedia.org/wiki/Far_Rainbow) ⭐️⭐️ Стругацкие @Jan 3, 2020
 - [Оттепель](https://en.wikipedia.org/wiki/The_Thaw_(novel)) ⭐️⭐️⭐️⭐️⭐️	Эренбург @Jan 9, 2020
 - [Нормальная история](https://en.wikipedia.org/wiki/Vladimir_Sorokin) ⭐️⭐️⭐️⭐️	Сорокин	@Jan 12, 2020
 - [Обитаемый остров](https://en.wikipedia.org/wiki/Prisoners_of_Power) ⭐️⭐️⭐️⭐️	Стругацкие @Jan 19, 2020
@@ -25,19 +25,19 @@
 - [Парень из прейсподней](https://en.wikipedia.org/wiki/The_Kid_from_Hell) ⭐️⭐️⭐️ Стругацкие	@Jan 24, 2020
 - [Жук в муравейнике](https://en.wikipedia.org/wiki/Beetle_in_the_Anthill) ⭐️⭐️⭐️⭐️ Стругацкие @Feb 2, 2020
 - [Волны гасят ветер](https://en.wikipedia.org/wiki/The_Time_Wanderers) ⭐️⭐️⭐️⭐️ Стругацкие @Feb 4, 2020
-- [Лавр](https://en.wikipedia.org/wiki/Laurus_(book)) ⭐️	Водолазкин @Feb 9, 2020
-- [Карта и территория](https://en.wikipedia.org/wiki/The_Map_and_the_Territory) ⭐️⭐️⭐️	Мишель Уельбек @Feb 10, 2020
+- [Лавр](https://en.wikipedia.org/wiki/Laurus_(book)) ⭐️ Водолазкин @Feb 9, 2020
+- [Карта и территория](https://en.wikipedia.org/wiki/The_Map_and_the_Territory) ⭐️⭐️⭐️ Мишель Уельбек @Feb 10, 2020
 - [Норма](https://www.srkn.ru/criticism/talvet.shtml) ⭐️⭐️⭐️ Сорокин @Feb 21, 2020
 - [Sapiens. краткая история человечества](https://en.wikipedia.org/wiki/Sapiens:_A_Brief_History_of_Humankind) ⭐️⭐️⭐️⭐️ Харари	@Feb 23, 2020
 - [Необычайные похождения Хулио Хуренито](http://www.elkost.com/authors/ehrenburg/books/888-juliojurenito) ⭐️⭐️⭐️⭐️ Эренбург @Feb 29, 2020
 - [Соглядатай](http://www.postmodernmystery.com/the_voyeur.html) ⭐️⭐️⭐️⭐️	Роб-Грийе	@Mar 21, 2020
 - [Палач](https://en.wikipedia.org/wiki/Eduard_Limonov) ⭐️⭐️⭐️⭐️	Лимонов	@Mar 29, 2020
-- [Воры](https://www.amazon.com/Vory-Russias-Super-Mafia/dp/0300186827) ⭐️⭐️⭐️⭐️	Галеотти @Mar 29, 2020
+- [Воры](https://www.amazon.com/Vory-Russias-Super-Mafia/dp/0300186827) ⭐️⭐️⭐️⭐️ Галеотти @Mar 29, 2020
 - [Зарубежная Россия](https://chernaya100.com/kovalevsky-foreignrussia) ⭐️⭐️⭐️⭐️ Ковалевский @Apr 6, 2020
-- [Почему распался СССР](https://www.labirint.ru/books/671998/) ⭐️⭐️⭐️	А. Дубнов	@Apr 11, 2020
+- [Почему распался СССР](https://www.labirint.ru/books/671998/) ⭐️⭐️⭐️ А. Дубнов	@Apr 11, 2020
 - [Frontend developer handbook](https://frontendmasters.com/books/front-end-handbook/2019/) ⭐️⭐️⭐️⭐️⭐️ Frontendmasters @Apr 19, 2020
 - [Дневник неудачника](http://www.tout-sur-limonov.fr/371489335) ⭐️⭐️⭐️⭐️	Лимонов	@Apr 30, 2020
-- [Refactoring UI](https://refactoringui.com/book/) ⭐️⭐️⭐️⭐️⭐️	Wathan & Schoger @May 3, 2020
+- [Refactoring UI](https://refactoringui.com/book/) ⭐️⭐️⭐️⭐️⭐️ Wathan & Schoger @May 3, 2020
 - [Торжество метафизики](https://en.wikipedia.org/wiki/Eduard_Limonov) ⭐️⭐️⭐️⭐️⭐️	Лимонов	@May 6, 2020
 - [Ководство](https://www.artlebedev.ru/kovodstvo/sections/) ⭐️⭐️⭐️⭐️ Лебедев @May 12, 2020
 - [The Complete Software Developer's Career Guide](https://www.amazon.com/Complete-Software-Developers-Career-Guide-ebook/dp/B073X6GNJ1) ⭐️⭐️⭐️⭐️	Sonmez @May 13, 2020
@@ -60,24 +60,24 @@
 - [Статский советник](https://en.wikipedia.org/wiki/The_State_Counsellor) ⭐️⭐️⭐️⭐️ Акунин	@Jul 26, 2020
 - [Беседы с дочерью об экономике](https://www.amazon.com/Talking-Daughter-about-Economy-Capitalism/dp/1847924441) ⭐️⭐️⭐️ Варуфакис @Jul 30, 2020
 - [Lingo](https://languagewriter.com/lingo/) ⭐️⭐️⭐️⭐️ G. Dorren @Aug 2, 2020		
-- [If Hemingway Wrote JavaScript](https://www.amazon.com/Hemingway-Wrote-JavaScript-Angus-Croll/dp/1593275854) ⭐️⭐️⭐️ A.Croll @Oct 25, 2020
-- [The Four](http://www.thefourbook.com/) ⭐️⭐️⭐️	S. Galloway	@Sep 1, 2020
-- [Коронация](https://en.wikipedia.org/wiki/The_Coronation_(novel)) ⭐️⭐️⭐️⭐️ Акунин	@Aug 19, 2020
-- [Век тревожности](https://www.amazon.com/My-Age-Anxiety-Dread-Search/dp/0307269876) ⭐️⭐️⭐️ С. Стоссел	@Aug 30, 2020
 - [Elon Musk](https://en.wikipedia.org/wiki/Elon_Musk:_Tesla,_SpaceX,_and_the_Quest_for_a_Fantastic_Future) ⭐️⭐️⭐️ A. Vance	@Aug 7, 2020
+- [Коронация](https://en.wikipedia.org/wiki/The_Coronation_(novel)) ⭐️⭐️⭐️⭐️ Акунин	@Aug 19, 2020
 - [Juoppohullun päiväkirja](https://www.diktaattori.fi/kirja/totally-smashed-the-hangover-diaries-vol-1/) ⭐️⭐️⭐️⭐️ Vuorinen	@Aug 29, 2020
+- [Век тревожности](https://www.amazon.com/My-Age-Anxiety-Dread-Search/dp/0307269876) ⭐️⭐️⭐️ С. Стоссел	@Aug 30, 2020
 - [Горький](https://en.wikipedia.org/wiki/Dmitry_Bykov) ⭐️⭐️⭐️⭐️ Быков	@Aug 30, 2020
 - [Шум времени](https://www.amazon.com/noise-time-prose-Osip-Mandelstam/dp/0865472386) ⭐️⭐️ Мандельштам @Aug 30, 2020
-- [Babel](https://www.amazon.com/Babel-Around-World-Twenty-Languages/dp/0802128793) ⭐️⭐️⭐️⭐️ G. Dorren @Nov 22, 2020
+- [The Four](http://www.thefourbook.com/) ⭐️⭐️⭐️	S. Galloway	@Sep 1, 2020
 - [The 2084 Report](https://www.amazon.com/2084-Report-History-Great-Warming/dp/1982150211) ⭐️⭐️⭐️⭐️ J. Powell @Sep 11, 2020
 - [Крестовые сестры](https://www.goodreads.com/book/show/34889270-sisters-of-the-cross) ⭐️⭐️⭐️	Ремизов	@Sep 13, 2020
 - [Карамора](https://en.wikipedia.org/wiki/Maxim_Gorky) ⭐️⭐️⭐️	Горький	@Sep 14, 2020
-- [Ослепление](https://en.wikipedia.org/wiki/Auto-da-F%C3%A9_(novel)) ⭐️⭐️⭐️⭐️ Канетти	@Nov 5, 2020
+- [If Hemingway Wrote JavaScript](https://www.amazon.com/Hemingway-Wrote-JavaScript-Angus-Croll/dp/1593275854) ⭐️⭐️⭐️ A.Croll @Oct 25, 2020
 - [Будущее](https://www.amazon.com/Futu-re-Dmitry-Glukhovsky/dp/1517679273) ⭐️⭐️⭐️ Глуховский	@Oct 25, 2020
 - [Любовница смерти](https://en.wikipedia.org/wiki/She_Lover_of_Death) ⭐️⭐️⭐️⭐️	Акунин @Oct 31, 2020
+- [Ослепление](https://en.wikipedia.org/wiki/Auto-da-F%C3%A9_(novel)) ⭐️⭐️⭐️⭐️ Канетти	@Nov 5, 2020
 - [Москва - Петушки](https://en.wikipedia.org/wiki/Moscow-Petushki) ⭐️⭐️⭐️⭐️⭐️ Ерофеев	@Nov 6, 2020
 - [Убик](https://en.wikipedia.org/wiki/Ubik) ⭐️⭐️⭐️⭐️ Ф. Дик @Nov 13, 2020
 - [Теоретический минимум по Computer Science](https://www.amazon.com/Computer-Science-Distilled-Computational-Problems-ebook/dp/B0731JG96F)	⭐️⭐️⭐️ В. Фило @Nov 18, 2020
+- [Babel](https://www.amazon.com/Babel-Around-World-Twenty-Languages/dp/0802128793) ⭐️⭐️⭐️⭐️ G. Dorren @Nov 22, 2020
 - [Москва и москвичи](https://www.amazon.com/Moscow-Muscovites-Vladimir-Gilyarovsky/dp/1880100827) ⭐️⭐️⭐️⭐️ Гиляровский @Nov 29, 2020
 - [Котлован](https://en.wikipedia.org/wiki/The_Foundation_Pit) ⭐️⭐️	Платонов @Dec 10, 2020
 - [Все свободны](https://en.wikipedia.org/wiki/Mikhail_Zygar) ⭐️⭐️⭐️⭐️ Зыгарь @Dec 14, 2020
