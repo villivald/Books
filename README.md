@@ -94,5 +94,6 @@
 
 - [Blood, Sweat, and Pixels](https://www.amazon.com/Blood-Sweat-Pixels-Triumphant-Turbulent/dp/0062651234) Schreier
 - [Третий Рейх](https://en.wikipedia.org/wiki/The_Third_Reich_(novel)) Боланьо
+- [Апокалипсис от Кобы. Иосиф Сталин. Начало](https://www.goodreads.com/book/show/17885102) Радзинский
 
 
