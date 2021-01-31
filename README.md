@@ -95,3 +95,5 @@
 ### In progress
 
 - [Третий Рейх](https://en.wikipedia.org/wiki/The_Third_Reich_(novel)) Боланьо
+- [The Body](https://www.goodreads.com/book/show/43582376-the-body) Bryson
+- [Алмазная колесница](https://en.wikipedia.org/wiki/The_Diamond_Chariot) Акунин
