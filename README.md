@@ -91,9 +91,9 @@
 - [Несовременная страна](https://www.goodreads.com/book/show/41671384-xxi) ⭐️⭐️⭐️⭐️ Иноземцев @Jan 10, 2021
 - [Апокалипсис от Кобы. Иосиф Сталин. Начало](https://www.goodreads.com/book/show/17885102) ⭐️⭐️⭐️⭐️ Радзинский @Jan 26, 2021
 - [Blood, Sweat, and Pixels](https://www.amazon.com/Blood-Sweat-Pixels-Triumphant-Turbulent/dp/0062651234) ⭐️⭐️⭐️⭐️ Schreier @Jan 29, 2021
+- [Третий Рейх](https://en.wikipedia.org/wiki/The_Third_Reich_(novel)) ⭐️⭐️⭐️⭐️⭐️ Боланьо @Feb 06, 2021
 
 ### In progress
 
-- [Третий Рейх](https://en.wikipedia.org/wiki/The_Third_Reich_(novel)) Боланьо
 - [The Body](https://www.goodreads.com/book/show/43582376-the-body) Bryson
 - [Алмазная колесница](https://en.wikipedia.org/wiki/The_Diamond_Chariot) Акунин
