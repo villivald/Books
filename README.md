@@ -98,3 +98,5 @@
 
 - [The Body](https://www.goodreads.com/book/show/43582376-the-body) Bryson
 - [Debugging CSS](https://debuggingcss.com/) Shadeed
+- [10 дней которые потрясли мир](https://en.wikipedia.org/wiki/Ten_Days_That_Shook_the_World) Д. Рид
+- [Автостопом по галактике](https://en.wikipedia.org/wiki/The_Hitchhiker%27s_Guide_to_the_Galaxy_(novel))	Д. Адамс
