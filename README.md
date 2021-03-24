@@ -93,10 +93,10 @@
 - [Blood, Sweat, and Pixels](https://www.amazon.com/Blood-Sweat-Pixels-Triumphant-Turbulent/dp/0062651234) ⭐️⭐️⭐️⭐️ Schreier @Jan 29, 2021
 - [Третий Рейх](https://en.wikipedia.org/wiki/The_Third_Reich_(novel)) ⭐️⭐️⭐️⭐️⭐️ Боланьо @Feb 06, 2021
 - [Алмазная колесница](https://en.wikipedia.org/wiki/The_Diamond_Chariot) ⭐️⭐️⭐️⭐️ Акунин @Mar 04, 2021
+- [10 дней которые потрясли мир](https://en.wikipedia.org/wiki/Ten_Days_That_Shook_the_World) ⭐️⭐️⭐️ Д. Рид @Mar 21, 2021
 
 ### In progress
 
 - [The Body](https://www.goodreads.com/book/show/43582376-the-body) Bryson
 - [Debugging CSS](https://debuggingcss.com/) Shadeed
-- [10 дней которые потрясли мир](https://en.wikipedia.org/wiki/Ten_Days_That_Shook_the_World) Д. Рид
 - [Автостопом по галактике](https://en.wikipedia.org/wiki/The_Hitchhiker%27s_Guide_to_the_Galaxy_(novel))	Д. Адамс
