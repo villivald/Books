@@ -94,6 +94,7 @@
 - [Третий Рейх](https://en.wikipedia.org/wiki/The_Third_Reich_(novel)) ⭐️⭐️⭐️⭐️⭐️ Боланьо @Feb 06, 2021
 - [Алмазная колесница](https://en.wikipedia.org/wiki/The_Diamond_Chariot) ⭐️⭐️⭐️⭐️ Акунин @Mar 04, 2021
 - [10 дней которые потрясли мир](https://en.wikipedia.org/wiki/Ten_Days_That_Shook_the_World) ⭐️⭐️⭐️ Д. Рид @Mar 21, 2021
+- [Инь и Ян](https://en.wikipedia.org/wiki/Ying_and_Yan) ⭐️⭐️⭐️⭐️ Акунин @Mar 25, 2021
 
 ### In progress
 
