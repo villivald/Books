@@ -95,9 +95,9 @@
 - [Алмазная колесница](https://en.wikipedia.org/wiki/The_Diamond_Chariot) ⭐️⭐️⭐️⭐️ Акунин @Mar 04, 2021
 - [10 дней которые потрясли мир](https://en.wikipedia.org/wiki/Ten_Days_That_Shook_the_World) ⭐️⭐️⭐️ Д. Рид @Mar 21, 2021
 - [Инь и Ян](https://en.wikipedia.org/wiki/Ying_and_Yan) ⭐️⭐️⭐️⭐️ Акунин @Mar 25, 2021
+- [The Body](https://www.goodreads.com/book/show/43582376-the-body) ⭐️⭐️⭐️⭐️ Bryson @Mar 28, 2021
 
 ### In progress
 
-- [The Body](https://www.goodreads.com/book/show/43582376-the-body) Bryson
 - [Debugging CSS](https://debuggingcss.com/) Shadeed
 - [Автостопом по галактике](https://en.wikipedia.org/wiki/The_Hitchhiker%27s_Guide_to_the_Galaxy_(novel))	Д. Адамс
