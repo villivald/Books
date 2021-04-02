@@ -101,3 +101,4 @@
 
 - [Debugging CSS](https://debuggingcss.com/) Shadeed
 - [Автостопом по галактике](https://en.wikipedia.org/wiki/The_Hitchhiker%27s_Guide_to_the_Galaxy_(novel))	Д. Адамс
+- [Clean Code](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882) R. Martin
