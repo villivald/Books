@@ -97,6 +97,7 @@
 - [Инь и Ян](https://en.wikipedia.org/wiki/Ying_and_Yan) ⭐️⭐️⭐️⭐️ Акунин @Mar 25, 2021
 - [The Body](https://www.goodreads.com/book/show/43582376-the-body) ⭐️⭐️⭐️⭐️ Bryson @Mar 28, 2021
 - [Автостопом по галактике](https://en.wikipedia.org/wiki/The_Hitchhiker%27s_Guide_to_the_Galaxy_(novel)) ⭐️⭐️⭐️⭐️	Д. Адамс @Apr 14, 2021
+- [Ресторан в конце Вселенной] (https://en.wikipedia.org/wiki/The_Restaurant_at_the_End_of_the_Universe) ⭐️⭐️⭐️⭐️	Д. Адамс @Apr 14, 2021
 
 ### In progress
 
