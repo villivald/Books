@@ -96,9 +96,11 @@
 - [10 дней которые потрясли мир](https://en.wikipedia.org/wiki/Ten_Days_That_Shook_the_World) ⭐️⭐️⭐️ Д. Рид @Mar 21, 2021
 - [Инь и Ян](https://en.wikipedia.org/wiki/Ying_and_Yan) ⭐️⭐️⭐️⭐️ Акунин @Mar 25, 2021
 - [The Body](https://www.goodreads.com/book/show/43582376-the-body) ⭐️⭐️⭐️⭐️ Bryson @Mar 28, 2021
+- [Автостопом по галактике](https://en.wikipedia.org/wiki/The_Hitchhiker%27s_Guide_to_the_Galaxy_(novel)) ⭐️⭐️⭐️⭐️	Д. Адамс @Apr 14, 2021
 
 ### In progress
 
 - [Debugging CSS](https://debuggingcss.com/) Shadeed
-- [Автостопом по галактике](https://en.wikipedia.org/wiki/The_Hitchhiker%27s_Guide_to_the_Galaxy_(novel))	Д. Адамс
 - [Clean Code](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882) R. Martin
+- [Дорогая редакция](https://www.goodreads.com/book/show/23354301) Тимченко
+- [Нефритовые четки](https://www.amazon.com/Jade-Rosary-Beads-B-Akunin/dp/B00271S18I) Акунин
