@@ -99,9 +99,10 @@
 - [Автостопом по галактике](https://en.wikipedia.org/wiki/The_Hitchhiker%27s_Guide_to_the_Galaxy_(novel)) ⭐️⭐️⭐️⭐️	Д. Адамс @Apr 14, 2021
 - [Ресторан в конце Вселенной](https://en.wikipedia.org/wiki/The_Restaurant_at_the_End_of_the_Universe) ⭐️⭐️⭐️⭐️	Д. Адамс @Apr 14, 2021
 - [Дорогая редакция](https://www.goodreads.com/book/show/23354301) ⭐️⭐️⭐️⭐️	Тимченко @Apr 24, 2021
+- [Нефритовые четки](https://www.amazon.com/Jade-Rosary-Beads-B-Akunin/dp/B00271S18I) Акунин @Apr 28, 2021
 
 ### In progress
 
 - [Debugging CSS](https://debuggingcss.com/) Shadeed
 - [Clean Code](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882) R. Martin
-- [Нефритовые четки](https://www.amazon.com/Jade-Rosary-Beads-B-Akunin/dp/B00271S18I) Акунин
+- [Средневековая Англия](https://en.wikipedia.org/wiki/The_Time_Traveller%27s_Guide_to_Medieval_England) Мортимер
