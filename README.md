@@ -108,3 +108,4 @@
 - [Debugging CSS](https://debuggingcss.com/) Shadeed
 - [Clean Code](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882) R. Martin
 - [Средневековая Англия](https://en.wikipedia.org/wiki/The_Time_Traveller%27s_Guide_to_Medieval_England) Мортимер
+- [Солнце мертвых](https://www.amazon.com/Sun-dead-Russian-Shmelev-I/dp/5519586926) Шмелев
