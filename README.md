@@ -89,7 +89,7 @@
 ### 2021
 
 - [Несовременная страна](https://www.goodreads.com/book/show/41671384-xxi) ⭐️⭐️⭐️⭐️ Иноземцев @Jan 10, 2021
-- [Апокалипсис от Кобы. Иосиф Сталин. Начало](https://www.goodreads.com/book/show/17885102) ⭐️⭐️⭐️⭐️ Радзинский @Jan 26, 2021
+- [Иосиф Сталин. Начало](https://www.goodreads.com/book/show/17885102) ⭐️⭐️⭐️⭐️ Радзинский @Jan 26, 2021
 - [Blood, Sweat, and Pixels](https://www.amazon.com/Blood-Sweat-Pixels-Triumphant-Turbulent/dp/0062651234) ⭐️⭐️⭐️⭐️ Schreier @Jan 29, 2021
 - [Третий Рейх](https://en.wikipedia.org/wiki/The_Third_Reich_(novel)) ⭐️⭐️⭐️⭐️⭐️ Боланьо @Feb 06, 2021
 - [Алмазная колесница](https://en.wikipedia.org/wiki/The_Diamond_Chariot) ⭐️⭐️⭐️⭐️ Акунин @Mar 04, 2021
@@ -105,7 +105,7 @@
 - [Clean Code](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882) ⭐️⭐️ R. Martin @May 9, 2021
 - [Средневековая Англия](https://en.wikipedia.org/wiki/The_Time_Traveller%27s_Guide_to_Medieval_England) ⭐️⭐️⭐️⭐️⭐️ Я. Мортимер @May 14, 2021
 - [Солнце мертвых](https://www.amazon.com/Sun-dead-Russian-Shmelev-I/dp/5519586926) ⭐️⭐️ Шмелев @May 15, 2021
-- [Апокалипсис от кобы: Гибель богов](https://www.litres.ru/edvard-radzinskiy/iosif-stalin-gibel-bogov/) ⭐️⭐️⭐️⭐️ Радзинский @May 23, 2021
+- [Иосиф Сталин. Гибель богов](https://www.litres.ru/edvard-radzinskiy/iosif-stalin-gibel-bogov/) ⭐️⭐️⭐️⭐️ Радзинский @May 23, 2021
 
 ### In progress
 
