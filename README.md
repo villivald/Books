@@ -105,10 +105,11 @@
 - [Clean Code](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882) ⭐️⭐️ R. Martin @May 9, 2021
 - [Средневековая Англия](https://en.wikipedia.org/wiki/The_Time_Traveller%27s_Guide_to_Medieval_England) ⭐️⭐️⭐️⭐️⭐️ Я. Мортимер @May 14, 2021
 - [Солнце мертвых](https://www.amazon.com/Sun-dead-Russian-Shmelev-I/dp/5519586926) ⭐️⭐️ Шмелев @May 15, 2021
+- [Апокалипсис от кобы: Гибель богов](https://www.litres.ru/edvard-radzinskiy/iosif-stalin-gibel-bogov/) ⭐️⭐️⭐️⭐️ Радзинский @May 23, 2021
 
 ### In progress
 
 - [Debugging CSS](https://debuggingcss.com/) Shadeed
 - [Unelmien NBA](https://www.lukuhetki.fi/unelmien-nba-hanno-mottolan-mukana-maailman-kovimpaan-urheilusarjaan/63345) Häyrinen, Möttölä
 - [Русский дневник](https://en.wikipedia.org/wiki/A_Russian_Journal) Стейнбек
-- [Апокалипсис от кобы: Гибель богов](https://www.litres.ru/edvard-radzinskiy/iosif-stalin-gibel-bogov/) Радзинский
+- [Планета Вода](https://ru.wikipedia.org/wiki/%D0%9F%D0%BB%D0%B0%D0%BD%D0%B5%D1%82%D0%B0_%D0%92%D0%BE%D0%B4%D0%B0) Акунин
