@@ -91,8 +91,8 @@
 - [Несовременная страна](https://www.goodreads.com/book/show/41671384-xxi) ⭐️⭐️⭐️⭐️ Иноземцев @Jan 10, 2021
 - [Иосиф Сталин. Начало](https://www.goodreads.com/book/show/17885102) ⭐️⭐️⭐️⭐️ Радзинский @Jan 26, 2021
 - [Blood, Sweat, and Pixels](https://www.amazon.com/Blood-Sweat-Pixels-Triumphant-Turbulent/dp/0062651234) ⭐️⭐️⭐️⭐️ Schreier @Jan 29, 2021
-- [Третий Рейх](https://en.wikipedia.org/wiki/The_Third_Reich_(novel)) ⭐️⭐️⭐️⭐️⭐️ Боланьо @Feb 06, 2021
-- [Алмазная колесница](https://en.wikipedia.org/wiki/The_Diamond_Chariot) ⭐️⭐️⭐️⭐️ Акунин @Mar 04, 2021
+- [Третий Рейх](https://en.wikipedia.org/wiki/The_Third_Reich_(novel)) ⭐️⭐️⭐️⭐️⭐️ Боланьо @Feb 6, 2021
+- [Алмазная колесница](https://en.wikipedia.org/wiki/The_Diamond_Chariot) ⭐️⭐️⭐️⭐️ Акунин @Mar 4, 2021
 - [10 дней которые потрясли мир](https://en.wikipedia.org/wiki/Ten_Days_That_Shook_the_World) ⭐️⭐️⭐️ Д. Рид @Mar 21, 2021
 - [Инь и Ян](https://en.wikipedia.org/wiki/Ying_and_Yan) ⭐️⭐️⭐️⭐️ Акунин @Mar 25, 2021
 - [The Body](https://www.goodreads.com/book/show/43582376-the-body) ⭐️⭐️⭐️⭐️ Bryson @Mar 28, 2021
@@ -107,9 +107,10 @@
 - [Солнце мертвых](https://www.amazon.com/Sun-dead-Russian-Shmelev-I/dp/5519586926) ⭐️⭐️ Шмелев @May 15, 2021
 - [Иосиф Сталин. Гибель богов](https://www.litres.ru/edvard-radzinskiy/iosif-stalin-gibel-bogov/) ⭐️⭐️⭐️⭐️ Радзинский @May 23, 2021
 - [Debugging CSS](https://debuggingcss.com/) ⭐️⭐️⭐️⭐️ Shadeed @May 25, 2021
+- [Планета Вода](https://ru.wikipedia.org/wiki/%D0%9F%D0%BB%D0%B0%D0%BD%D0%B5%D1%82%D0%B0_%D0%92%D0%BE%D0%B4%D0%B0) ⭐️⭐️⭐️ Акунин @Jun 5, 2021
 
 ### In progress
 
 - [Unelmien NBA](https://www.lukuhetki.fi/unelmien-nba-hanno-mottolan-mukana-maailman-kovimpaan-urheilusarjaan/63345) Häyrinen, Möttölä
 - [Русский дневник](https://en.wikipedia.org/wiki/A_Russian_Journal) Стейнбек
-- [Планета Вода](https://ru.wikipedia.org/wiki/%D0%9F%D0%BB%D0%B0%D0%BD%D0%B5%D1%82%D0%B0_%D0%92%D0%BE%D0%B4%D0%B0) Акунин
+- [Парус одинокий](https://www.livelib.ru/book/1001256020-parus-odinokij-nostalgicheskij-detektiv-boris-akunin) Акунин
