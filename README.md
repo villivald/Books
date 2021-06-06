@@ -108,9 +108,10 @@
 - [Иосиф Сталин. Гибель богов](https://www.litres.ru/edvard-radzinskiy/iosif-stalin-gibel-bogov/) ⭐️⭐️⭐️⭐️ Радзинский @May 23, 2021
 - [Debugging CSS](https://debuggingcss.com/) ⭐️⭐️⭐️⭐️ Shadeed @May 25, 2021
 - [Планета Вода](https://ru.wikipedia.org/wiki/%D0%9F%D0%BB%D0%B0%D0%BD%D0%B5%D1%82%D0%B0_%D0%92%D0%BE%D0%B4%D0%B0) ⭐️⭐️⭐️ Акунин @Jun 5, 2021
+- [Парус одинокий](https://www.livelib.ru/book/1001256020-parus-odinokij-nostalgicheskij-detektiv-boris-akunin) ⭐️⭐️⭐️ Акунин @Jun 6, 2021
 
 ### In progress
 
 - [Unelmien NBA](https://www.lukuhetki.fi/unelmien-nba-hanno-mottolan-mukana-maailman-kovimpaan-urheilusarjaan/63345) Häyrinen, Möttölä
 - [Русский дневник](https://en.wikipedia.org/wiki/A_Russian_Journal) Стейнбек
-- [Парус одинокий](https://www.livelib.ru/book/1001256020-parus-odinokij-nostalgicheskij-detektiv-boris-akunin) Акунин
+- [Иосиф Сталин. Последняя загадка](https://www.litres.ru/edvard-radzinskiy/iosif-stalin-poslednyaya-zagadka/) Радзинский
