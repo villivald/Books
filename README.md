@@ -117,3 +117,4 @@
 
 - [Вы хотите поговорить об этом?](https://en.wikipedia.org/wiki/Maybe_You_Should_Talk_to_Someone) Л. Готтлиб
 - [Revolutions](https://thamesandhudson.com/revolutions-how-they-changed-history-and-what-they-mean-today-9780500022412) P. Furtado
+- [Преступление и наказание](https://en.wikipedia.org/wiki/Crime_and_Punishment) Достоевский
