@@ -112,9 +112,9 @@
 - [Русский дневник](https://en.wikipedia.org/wiki/A_Russian_Journal) ⭐️⭐️⭐️⭐️ Стейнбек @Jun 7, 2021
 - [Unelmien NBA](https://www.lukuhetki.fi/unelmien-nba-hanno-mottolan-mukana-maailman-kovimpaan-urheilusarjaan/63345) ⭐️⭐️⭐️⭐️ Häyrinen, Möttölä @Jun 11, 2021
 - [Иосиф Сталин. Последняя загадка](https://www.litres.ru/edvard-radzinskiy/iosif-stalin-poslednyaya-zagadka/) ⭐️⭐️⭐️⭐️ Радзинский @Jun 12, 2021
+- [Преступление и наказание](https://en.wikipedia.org/wiki/Crime_and_Punishment) ⭐️⭐️⭐️⭐️⭐️ Достоевский @Jul 4, 2021
 
 ### In progress
 
 - [Вы хотите поговорить об этом?](https://en.wikipedia.org/wiki/Maybe_You_Should_Talk_to_Someone) Л. Готтлиб
 - [Revolutions](https://thamesandhudson.com/revolutions-how-they-changed-history-and-what-they-mean-today-9780500022412) P. Furtado
-- [Преступление и наказание](https://en.wikipedia.org/wiki/Crime_and_Punishment) Достоевский
