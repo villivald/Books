@@ -118,3 +118,4 @@
 
 - [Вы хотите поговорить об этом?](https://en.wikipedia.org/wiki/Maybe_You_Should_Talk_to_Someone) Л. Готтлиб
 - [Revolutions](https://thamesandhudson.com/revolutions-how-they-changed-history-and-what-they-mean-today-9780500022412) P. Furtado
+- [Доктор Гарин](https://ru.wikipedia.org/wiki/%D0%94%D0%BE%D0%BA%D1%82%D0%BE%D1%80_%D0%93%D0%B0%D1%80%D0%B8%D0%BD) Сорокин
