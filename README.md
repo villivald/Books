@@ -113,9 +113,9 @@
 - [Unelmien NBA](https://www.lukuhetki.fi/unelmien-nba-hanno-mottolan-mukana-maailman-kovimpaan-urheilusarjaan/63345) ⭐️⭐️⭐️⭐️ Häyrinen, Möttölä @Jun 11, 2021
 - [Иосиф Сталин. Последняя загадка](https://www.litres.ru/edvard-radzinskiy/iosif-stalin-poslednyaya-zagadka/) ⭐️⭐️⭐️⭐️ Радзинский @Jun 12, 2021
 - [Преступление и наказание](https://en.wikipedia.org/wiki/Crime_and_Punishment) ⭐️⭐️⭐️⭐️⭐️ Достоевский @Jul 4, 2021
+- [Вы хотите поговорить об этом?](https://en.wikipedia.org/wiki/Maybe_You_Should_Talk_to_Someone) ⭐️⭐️⭐️⭐️⭐️ Л. Готтлиб @Jul 12, 2021
 
 ### In progress
 
-- [Вы хотите поговорить об этом?](https://en.wikipedia.org/wiki/Maybe_You_Should_Talk_to_Someone) Л. Готтлиб
 - [Revolutions](https://thamesandhudson.com/revolutions-how-they-changed-history-and-what-they-mean-today-9780500022412) P. Furtado
 - [Доктор Гарин](https://ru.wikipedia.org/wiki/%D0%94%D0%BE%D0%BA%D1%82%D0%BE%D1%80_%D0%93%D0%B0%D1%80%D0%B8%D0%BD) Сорокин
