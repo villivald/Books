@@ -121,3 +121,4 @@
 
 - [Revolutions](https://thamesandhudson.com/revolutions-how-they-changed-history-and-what-they-mean-today-9780500022412) P. Furtado
 - [Герои книг на приеме у психотерапевта](https://www.amazon.com/%D0%93%D0%B5%D1%80%D0%BE%D0%B8-%D0%BA%D0%BD%D0%B8%D0%B3-%D0%BF%D1%80%D0%B8%D0%B5%D0%BC%D0%B5-%D0%BF%D1%81%D0%B8%D1%85%D0%BE%D1%82%D0%B5%D1%80%D0%B0%D0%BF%D0%B5%D0%B2%D1%82%D0%B0-Literaturgeschichte-ebook/dp/B0919ZKLCK) A. Боттлингер
+- [Думай медленно… решай быстро](https://en.wikipedia.org/wiki/Thinking,_Fast_and_Slow) Канеман
