@@ -124,3 +124,4 @@
 - [Думай медленно… решай быстро](https://en.wikipedia.org/wiki/Thinking,_Fast_and_Slow) Канеман
 - [Намедни 1921-1930](https://namednibook.ru/volumes/1921-1930/) Парфенов
 - [Eloquent JavaScript](https://eloquentjavascript.net/) Haverbeke
+- [Птица за птицей](https://www.amazon.com/Bird-Some-Instructions-Writing-Life/dp/0385480016) Ламотт
