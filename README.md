@@ -120,10 +120,10 @@
 - [Герои книг на приеме у психотерапевта](https://www.amazon.com/%D0%93%D0%B5%D1%80%D0%BE%D0%B8-%D0%BA%D0%BD%D0%B8%D0%B3-%D0%BF%D1%80%D0%B8%D0%B5%D0%BC%D0%B5-%D0%BF%D1%81%D0%B8%D1%85%D0%BE%D1%82%D0%B5%D1%80%D0%B0%D0%BF%D0%B5%D0%B2%D1%82%D0%B0-Literaturgeschichte-ebook/dp/B0919ZKLCK) ⭐️⭐️⭐️ A. Боттлингер @Aug 2, 2021
 - [Думай медленно… решай быстро](https://en.wikipedia.org/wiki/Thinking,_Fast_and_Slow) ⭐️⭐️⭐️ Канеман @Aug 15, 2021
 - [Черный город](https://ru.wikipedia.org/wiki/%D0%A7%D1%91%D1%80%D0%BD%D1%8B%D0%B9_%D0%B3%D0%BE%D1%80%D0%BE%D0%B4) ⭐️⭐️⭐️⭐️ Акунин @Aug 19, 2021
+- [Намедни 1921-1930](https://namednibook.ru/volumes/1921-1930/) ⭐️⭐️⭐️⭐️ Парфенов @Aug 21, 2021
 
 ### In progress
 
-- [Намедни 1921-1930](https://namednibook.ru/volumes/1921-1930/) Парфенов
 - [Eloquent JavaScript](https://eloquentjavascript.net/) Haverbeke
 - [Птица за птицей](https://www.amazon.com/Bird-Some-Instructions-Writing-Life/dp/0385480016) Ламотт
 - [Не прощаюсь](https://ru.wikipedia.org/wiki/%D0%9D%D0%B5_%D0%BF%D1%80%D0%BE%D1%89%D0%B0%D1%8E%D1%81%D1%8C) Акунин
