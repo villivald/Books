@@ -122,8 +122,11 @@
 - [Черный город](https://ru.wikipedia.org/wiki/%D0%A7%D1%91%D1%80%D0%BD%D1%8B%D0%B9_%D0%B3%D0%BE%D1%80%D0%BE%D0%B4) ⭐️⭐️⭐️⭐️ Акунин @Aug 19, 2021
 - [Намедни 1921-1930](https://namednibook.ru/volumes/1921-1930/) ⭐️⭐️⭐️⭐️⭐️ Парфенов @Aug 21, 2021
 - [Птица за птицей](https://www.amazon.com/Bird-Some-Instructions-Writing-Life/dp/0385480016) ⭐️⭐️⭐️ Ламотт @Aug 27, 2021
+- [Не прощаюсь](https://ru.wikipedia.org/wiki/%D0%9D%D0%B5_%D0%BF%D1%80%D0%BE%D1%89%D0%B0%D1%8E%D1%81%D1%8C) ⭐️⭐️⭐️⭐️ Акунин @Aug 29, 2021
 
 ### In progress
 
 - [Eloquent JavaScript](https://eloquentjavascript.net/) Haverbeke
-- [Не прощаюсь](https://ru.wikipedia.org/wiki/%D0%9D%D0%B5_%D0%BF%D1%80%D0%BE%D1%89%D0%B0%D1%8E%D1%81%D1%8C) Акунин
+- [Пить или не пить?](https://www.goodreads.com/en/book/show/49094876-drink) Д. Натт
+- [Fullstack React](https://www.newline.co/fullstack-react/) Accomazzo
+- [Make VS Code Awesome](https://makevscodeawesome.com/) Porzio
