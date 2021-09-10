@@ -131,3 +131,4 @@
 - [Eloquent JavaScript](https://eloquentjavascript.net/) Haverbeke
 - [Fullstack React](https://www.newline.co/fullstack-react/) Accomazzo
 - [Дневники](https://gippius.com/doc/memory/) З. Гиппиус
+- [100 рассказов из истории медицины](https://alpinabook.ru/catalog/book-100-rasskazov-iz-istorii-meditsiny/) Шифрин
