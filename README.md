@@ -126,7 +126,7 @@
 - [Make VS Code Awesome](https://makevscodeawesome.com/) ⭐️⭐️⭐️⭐️ Porzio @Sep 01, 2021
 - [Пить или не пить?](https://www.goodreads.com/en/book/show/49094876-drink) ⭐️⭐️⭐️ Д. Натт @Sep 04, 2021
 - [Дневники](https://gippius.com/doc/memory/) ⭐️⭐️⭐️⭐️⭐️ З. Гиппиус @Sep 20, 2021
-- [100 рассказов из истории медицины](https://alpinabook.ru/catalog/book-100-rasskazov-iz-istorii-meditsiny/) Шифрин
+- [100 рассказов из истории медицины](https://alpinabook.ru/catalog/book-100-rasskazov-iz-istorii-meditsiny/) ⭐️⭐️⭐️ Шифрин @Sep 30, 2021
 
 ### In progress
 
