@@ -133,3 +133,4 @@
 
 - [Eloquent JavaScript](https://eloquentjavascript.net/) Haverbeke
 - [Язвительные заметки о Царе, Сталине и Муже](https://www.litres.ru/zinaida-gippius/yazvitelnye-zametki-o-care-staline-i-muzhe-6376393/chitat-onlayn/) З. Гиппиус
+- [Frontend Unicorn](https://www.frontendunicorn.com/) S. Adamiak
