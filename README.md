@@ -128,6 +128,7 @@
 - [Дневники](https://gippius.com/doc/memory/) ⭐️⭐️⭐️⭐️⭐️ З. Гиппиус @Sep 20, 2021
 - [100 рассказов из истории медицины](https://alpinabook.ru/catalog/book-100-rasskazov-iz-istorii-meditsiny/) ⭐️⭐️⭐️ Шифрин @Sep 30, 2021
 - [Собачье сердце](https://en.wikipedia.org/wiki/Heart_of_a_Dog) ⭐️⭐️⭐️⭐️ Булгаков @Oct 01, 2021
+- [Бывший сын](https://www.litres.ru/sasha-filipenko-10901725/byvshiy-syn/chitat-onlayn/) ⭐️⭐️⭐️⭐️ Филипенко @Oct 09, 2021
 
 ### In progress
 
