@@ -129,10 +129,10 @@
 - [100 рассказов из истории медицины](https://alpinabook.ru/catalog/book-100-rasskazov-iz-istorii-meditsiny/) ⭐️⭐️⭐️ Шифрин @Sep 30, 2021
 - [Собачье сердце](https://en.wikipedia.org/wiki/Heart_of_a_Dog) ⭐️⭐️⭐️⭐️ Булгаков @Oct 01, 2021
 - [Бывший сын](https://www.litres.ru/sasha-filipenko-10901725/byvshiy-syn/chitat-onlayn/) ⭐️⭐️⭐️⭐️ Филипенко @Oct 09, 2021
+- [Голем](https://en.wikipedia.org/wiki/The_Golem_(Meyrink_novel)) ⭐️⭐️⭐️⭐️ Майринк @Oct 17, 2021
 
 ### In progress
 
 - [Eloquent JavaScript](https://eloquentjavascript.net/) Haverbeke
 - [Язвительные заметки о Царе, Сталине и Муже](https://www.litres.ru/zinaida-gippius/yazvitelnye-zametki-o-care-staline-i-muzhe-6376393/chitat-onlayn/) З. Гиппиус
 - [Frontend Unicorn](https://www.frontendunicorn.com/) S. Adamiak
-- [Голем](https://en.wikipedia.org/wiki/The_Golem_(Meyrink_novel)) Майринк
