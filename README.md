@@ -132,11 +132,12 @@
 - [Голем](https://en.wikipedia.org/wiki/The_Golem_(Meyrink_novel)) ⭐️⭐️⭐️⭐️ Майринк @Oct 16, 2021
 - [Замыслы](https://www.litres.ru/sasha-filipenko-10901725/zamysly/chitat-onlayn/) ⭐️⭐️⭐️ Филипенко @Oct 17, 2021
 - [Swannin tie](https://en.wikipedia.org/wiki/In_Search_of_Lost_Time) ⭐️⭐️ Proust @Oct 22, 2021
+- [Макулатура](https://en.wikipedia.org/wiki/Pulp_(novel)) ⭐️⭐️⭐️⭐️ Буковски @Oct 30, 2021
+- [Язвительные заметки о Царе, Сталине и Муже](https://www.litres.ru/zinaida-gippius/yazvitelnye-zametki-o-care-staline-i-muzhe-6376393/chitat-onlayn/) ⭐️⭐️⭐️⭐️ З. Гиппиус @Oct 31, 2021
 
 ### In progress
 
 - [Eloquent JavaScript](https://eloquentjavascript.net/) Haverbeke
-- [Язвительные заметки о Царе, Сталине и Муже](https://www.litres.ru/zinaida-gippius/yazvitelnye-zametki-o-care-staline-i-muzhe-6376393/chitat-onlayn/) З. Гиппиус
 - [Frontend Unicorn](https://www.frontendunicorn.com/) S. Adamiak
-- [Макулатура](https://en.wikipedia.org/wiki/Pulp_(novel)) Буковски
 - [Бесконечная шутка](https://en.wikipedia.org/wiki/Infinite_Jest) Уоллес
+- [Иностранец в смутное время](https://www.labirint.ru/books/158062/) Лимонов
