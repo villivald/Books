@@ -141,3 +141,4 @@
 - [Frontend Unicorn](https://www.frontendunicorn.com/) S. Adamiak
 - [Бесконечная шутка](https://en.wikipedia.org/wiki/Infinite_Jest) Уоллес
 - [Иностранец в смутное время](https://www.labirint.ru/books/158062/) Лимонов
+- [Hytti nro 6](http://www.rosaliksom.com/books/novels/hytti-nro-6-compartment-number-6/) R. Liksom
