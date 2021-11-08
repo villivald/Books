@@ -134,6 +134,7 @@
 - [Swannin tie](https://en.wikipedia.org/wiki/In_Search_of_Lost_Time) ⭐️⭐️ Proust @Oct 22, 2021
 - [Макулатура](https://en.wikipedia.org/wiki/Pulp_(novel)) ⭐️⭐️⭐️⭐️ Буковски @Oct 30, 2021
 - [Язвительные заметки о Царе, Сталине и Муже](https://www.litres.ru/zinaida-gippius/yazvitelnye-zametki-o-care-staline-i-muzhe-6376393/chitat-onlayn/) ⭐️⭐️⭐️⭐️ З. Гиппиус @Oct 31, 2021
+- [Hytti nro 6](http://www.rosaliksom.com/books/novels/hytti-nro-6-compartment-number-6/) ⭐️⭐️ R. Liksom @Nov 07, 2021
 
 ### In progress
 
@@ -141,4 +142,3 @@
 - [Frontend Unicorn](https://www.frontendunicorn.com/) S. Adamiak
 - [Бесконечная шутка](https://en.wikipedia.org/wiki/Infinite_Jest) Уоллес
 - [Иностранец в смутное время](https://www.labirint.ru/books/158062/) Лимонов
-- [Hytti nro 6](http://www.rosaliksom.com/books/novels/hytti-nro-6-compartment-number-6/) R. Liksom
