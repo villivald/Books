@@ -142,3 +142,4 @@
 - [Frontend Unicorn](https://www.frontendunicorn.com/) S. Adamiak
 - [Бесконечная шутка](https://en.wikipedia.org/wiki/Infinite_Jest) Уоллес
 - [Иностранец в смутное время](https://www.labirint.ru/books/158062/) Лимонов
+- [Yhden miehen enemmistö](https://otava.fi/kirjat/yhden-miehen-enemmisto/) T.Soini
