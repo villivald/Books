@@ -136,11 +136,11 @@
 - [Язвительные заметки о Царе, Сталине и Муже](https://www.litres.ru/zinaida-gippius/yazvitelnye-zametki-o-care-staline-i-muzhe-6376393/chitat-onlayn/) ⭐️⭐️⭐️⭐️ З. Гиппиус @Oct 31, 2021
 - [Hytti nro 6](http://www.rosaliksom.com/books/novels/hytti-nro-6-compartment-number-6/) ⭐️⭐️ R. Liksom @Nov 07, 2021
 - [Yhden miehen enemmistö](https://otava.fi/kirjat/yhden-miehen-enemmisto/) ⭐️⭐️⭐️⭐️ T.Soini @Nov 20, 2021
+- [Иностранец в смутное время](https://www.labirint.ru/books/158062/) ⭐️⭐️⭐️⭐️ Лимонов @Nov 22, 2021
 
 ### In progress
 
 - [Eloquent JavaScript](https://eloquentjavascript.net/) Haverbeke
 - [Frontend Unicorn](https://www.frontendunicorn.com/) S. Adamiak
 - [Бесконечная шутка](https://en.wikipedia.org/wiki/Infinite_Jest) Уоллес
-- [Иностранец в смутное время](https://www.labirint.ru/books/158062/) Лимонов
 - [Гарри Поттер и методы рационального мышления](https://en.wikipedia.org/wiki/Harry_Potter_and_the_Methods_of_Rationality) Э. Юдковский
