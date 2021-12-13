@@ -139,6 +139,7 @@
 - [Иностранец в смутное время](https://www.labirint.ru/books/158062/) ⭐️⭐️⭐️⭐️ Лимонов @Nov 22, 2021
 - [Kaikki elämästä(ni)](https://otava.fi/kirjat/kaikki-elamastani/) ⭐️⭐️⭐️ A. Holma @Dec 01, 2021
 - [Ход царем](https://alpinabook.ru/catalog/book-khod-tsarem/) ⭐️⭐️⭐️⭐️ И. Жегулев @Dec 08, 2021
+- [Frontend Unicorn](https://www.frontendunicorn.com/) ⭐️⭐️⭐️ S. Adamiak @Dec 13, 2021
 
 ### In progress
 
@@ -146,7 +147,6 @@
 - [Бесконечная шутка](https://en.wikipedia.org/wiki/Infinite_Jest) Уоллес
 - [Гарри Поттер и методы рационального мышления](https://en.wikipedia.org/wiki/Harry_Potter_and_the_Methods_of_Rationality) Э. Юдковский
 
-- [Frontend Unicorn](https://www.frontendunicorn.com/) S. Adamiak
 - [Опасные советские вещи](https://www.nlobooks.ru/books/kultura_povsednevnosti/23743/) А. Архипова
 - [The little ice age](https://www.amazon.com/Little-Ice-Age-Climate-1300-1850/dp/0465022723) B. Fagan
 - [Mielensäpahoittaja](https://www.adlibris.com/fi/kirja/mielensapahoittaja-9789510366264) T. Kyrö
