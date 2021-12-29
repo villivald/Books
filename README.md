@@ -150,3 +150,4 @@
 - [The little ice age](https://www.amazon.com/Little-Ice-Age-Climate-1300-1850/dp/0465022723) B. Fagan
 - [Ilosia aikoja, Mielensäpahoittaja](https://www.adlibris.com/fi/kirja/ilosia-aikoja-mielensapahoittaja-9789510407622) T. Kyrö
 - [Learning Patterns](https://www.patterns.dev/) A. Osmani
+- [1947. Год, в который все началось](https://admarginem.ru/product/1947/) Э. Осбринк
