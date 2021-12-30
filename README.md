@@ -143,11 +143,11 @@
 - [Опасные советские вещи](https://www.nlobooks.ru/books/kultura_povsednevnosti/23743/) ⭐️⭐️⭐️ А. Архипова @Dec 14, 2021
 - [Mielensäpahoittaja](https://www.adlibris.com/fi/kirja/mielensapahoittaja-9789510366264) ⭐️⭐️⭐️⭐️ T. Kyrö @Dec 19, 2021
 - [Mielensäpahoittaja ja ruskeakastike](https://www.wsoy.fi/kirja/tuomas-kyro/mielensapahoittaja-ja-ruskeakastike/9789510390795) ⭐️⭐️⭐️ T. Kyrö @Dec 20, 2021
+- [Ilosia aikoja, Mielensäpahoittaja](https://www.adlibris.com/fi/kirja/ilosia-aikoja-mielensapahoittaja-9789510407622) ⭐️⭐️⭐️ T. Kyrö @Dec 29, 2021
 
 ### In progress
 
 - [Бесконечная шутка](https://en.wikipedia.org/wiki/Infinite_Jest) Уоллес
 - [The little ice age](https://www.amazon.com/Little-Ice-Age-Climate-1300-1850/dp/0465022723) B. Fagan
-- [Ilosia aikoja, Mielensäpahoittaja](https://www.adlibris.com/fi/kirja/ilosia-aikoja-mielensapahoittaja-9789510407622) T. Kyrö
 - [Learning Patterns](https://www.patterns.dev/) A. Osmani
 - [1947. Год, в который все началось](https://admarginem.ru/product/1947/) Э. Осбринк
