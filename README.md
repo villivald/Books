@@ -148,11 +148,10 @@
 ### 2022
 
 - [1947. Год, в который все началось](https://admarginem.ru/product/1947/) ⭐️⭐️⭐️⭐️ Э. Осбринк @Jan 03, 2022
+- [Средневековье крупным планом](https://ekirjasto.kirjastot.fi/en/ekirjat/srednevekove-krupnym-planom) ⭐️⭐️⭐️ Воскобойников @Jan 14, 2022
 
 ### In progress
 
 - [Бесконечная шутка](https://en.wikipedia.org/wiki/Infinite_Jest) Уоллес
 - [The little ice age](https://www.amazon.com/Little-Ice-Age-Climate-1300-1850/dp/0465022723) B. Fagan
 - [Learning Patterns](https://www.patterns.dev/) A. Osmani
-- [Средневековье крупным планом](https://ekirjasto.kirjastot.fi/en/ekirjat/srednevekove-krupnym-planom) Воскобойников
-
