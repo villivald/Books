@@ -157,3 +157,4 @@
 - [Learning Patterns](https://www.patterns.dev/) A. Osmani
 - [Томас Манн](https://www.ozon.ru/product/tomas-mann-1091487/?sh=izi15wAAAA) С. Апт
 - [Икс](https://www.litres.ru/dmitriy-bykov/iks/chitat-onlayn/) Быков
+- [The History of Magic](https://www.penguin.co.uk/books/303/303993/the-history-of-magic/9780241979662.html) C. Gosden
