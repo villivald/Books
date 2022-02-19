@@ -150,11 +150,11 @@
 - [1947. Год, в который все началось](https://admarginem.ru/product/1947/) ⭐️⭐️⭐️⭐️ Э. Осбринк @Jan 03, 2022
 - [Средневековье крупным планом](https://ekirjasto.kirjastot.fi/en/ekirjat/srednevekove-krupnym-planom) ⭐️⭐️⭐️ Воскобойников @Jan 14, 2022
 - [The little ice age](https://www.amazon.com/Little-Ice-Age-Climate-1300-1850/dp/0465022723) ⭐️⭐️ B. Fagan @Jan 15, 2022
+- [Томас Манн](https://www.ozon.ru/product/tomas-mann-1091487/?sh=gLeHDQAAAA) ⭐️⭐️⭐️⭐️ С. Апт @Feb 19, 2022
 
 ### In progress
 
-- [Бесконечная шутка](https://en.wikipedia.org/wiki/Infinite_Jest) Уоллес
 - [Learning Patterns](https://www.patterns.dev/) A. Osmani
-- [Томас Манн](https://www.ozon.ru/product/tomas-mann-1091487/?sh=izi15wAAAA) С. Апт
 - [Икс](https://www.litres.ru/dmitriy-bykov/iks/chitat-onlayn/) Быков
 - [The History of Magic](https://www.penguin.co.uk/books/303/303993/the-history-of-magic/9780241979662.html) C. Gosden
+- [Старик путешествует](https://individuumbooks.ru/starik_puteshestvuet/) Лимонов
