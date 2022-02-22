@@ -158,3 +158,4 @@
 - [Икс](https://www.litres.ru/dmitriy-bykov/iks/chitat-onlayn/) Быков
 - [The History of Magic](https://www.penguin.co.uk/books/303/303993/the-history-of-magic/9780241979662.html) C. Gosden
 - [Старик путешествует](https://individuumbooks.ru/starik_puteshestvuet/) Лимонов
+- [Град обреченных](https://alpinabook.ru/catalog/book-grad-obrechennykh/) Меркачева
