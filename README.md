@@ -152,10 +152,10 @@
 - [The little ice age](https://www.amazon.com/Little-Ice-Age-Climate-1300-1850/dp/0465022723) ⭐️⭐️ B. Fagan @Jan 15, 2022
 - [Томас Манн](https://www.ozon.ru/product/tomas-mann-1091487/?sh=gLeHDQAAAA) ⭐️⭐️⭐️⭐️ С. Апт @Feb 19, 2022
 - [Старик путешествует](https://individuumbooks.ru/starik_puteshestvuet/) ⭐️⭐️⭐️⭐️⭐️ Лимонов @Feb 23, 2022
+- [Икс](https://www.litres.ru/dmitriy-bykov/iks/chitat-onlayn/) ⭐️⭐️⭐️ Быков @Feb 24, 2022
+- [Град обреченных](https://alpinabook.ru/catalog/book-grad-obrechennykh/) ⭐️⭐️⭐️⭐️ Меркачева @Feb 24, 2022
 
 ### In progress
 
 - [Learning Patterns](https://www.patterns.dev/) A. Osmani
-- [Икс](https://www.litres.ru/dmitriy-bykov/iks/chitat-onlayn/) Быков
 - [The History of Magic](https://www.penguin.co.uk/books/303/303993/the-history-of-magic/9780241979662.html) C. Gosden
-- [Град обреченных](https://alpinabook.ru/catalog/book-grad-obrechennykh/) Меркачева
