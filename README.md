@@ -159,3 +159,5 @@
 
 - [Learning Patterns](https://www.patterns.dev/) A. Osmani
 - [The History of Magic](https://www.penguin.co.uk/books/303/303993/the-history-of-magic/9780241979662.html) C. Gosden
+- [Двойная звезда](https://www.livelib.ru/book/1000088363-arkadij-i-boris-strugatskie-dvojnaya-zvezda-boris-vishnevskij) Б. Вишневский
+- [Филлэлин](https://www.labirint.ru/books/774953/) Л. Юзефович
