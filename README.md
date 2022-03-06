@@ -154,10 +154,10 @@
 - [Старик путешествует](https://individuumbooks.ru/starik_puteshestvuet/) ⭐️⭐️⭐️⭐️⭐️ Лимонов @Feb 23, 2022
 - [Икс](https://www.litres.ru/dmitriy-bykov/iks/chitat-onlayn/) ⭐️⭐️⭐️ Быков @Feb 24, 2022
 - [Град обреченных](https://alpinabook.ru/catalog/book-grad-obrechennykh/) ⭐️⭐️⭐️⭐️ Меркачева @Feb 24, 2022
+- [Двойная звезда](https://www.livelib.ru/book/1000088363-arkadij-i-boris-strugatskie-dvojnaya-zvezda-boris-vishnevskij) ⭐️⭐️⭐️⭐️ Б. Вишневский @Mar 06, 2022
 
 ### In progress
 
 - [Learning Patterns](https://www.patterns.dev/) A. Osmani
 - [The History of Magic](https://www.penguin.co.uk/books/303/303993/the-history-of-magic/9780241979662.html) C. Gosden
-- [Двойная звезда](https://www.livelib.ru/book/1000088363-arkadij-i-boris-strugatskie-dvojnaya-zvezda-boris-vishnevskij) Б. Вишневский
 - [Моя жизнь](https://en.m.wikipedia.org/wiki/My_Life_(Trotsky_autobiography)) Троцкий
