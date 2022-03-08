@@ -161,3 +161,4 @@
 - [Learning Patterns](https://www.patterns.dev/) A. Osmani
 - [The History of Magic](https://www.penguin.co.uk/books/303/303993/the-history-of-magic/9780241979662.html) C. Gosden
 - [Моя жизнь](https://en.m.wikipedia.org/wiki/My_Life_(Trotsky_autobiography)) Троцкий
+- [Navalny](https://www.amazon.com/Navalny-Putins-Nemesis-Russias-Future/dp/0197611702) J.M. Dollbaum
