@@ -163,3 +163,4 @@
 - [The History of Magic](https://www.penguin.co.uk/books/303/303993/the-history-of-magic/9780241979662.html) C. Gosden
 - [Navalny](https://www.amazon.com/Navalny-Putins-Nemesis-Russias-Future/dp/0197611702) J.M. Dollbaum
 - [Первая сверхдержава](https://www.litres.ru/boris-akunin/pervaya-s-48513502/) Акунин
+- [Триптих](https://www.livelib.ru/book/1000482693-triptih-sbornik-sasha-sokolov) С. Соколов
