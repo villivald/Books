@@ -157,10 +157,10 @@
 - [Двойная звезда](https://www.livelib.ru/book/1000088363-arkadij-i-boris-strugatskie-dvojnaya-zvezda-boris-vishnevskij) ⭐️⭐️⭐️⭐️ Б. Вишневский @Mar 06, 2022
 - [Моя жизнь](https://en.m.wikipedia.org/wiki/My_Life_(Trotsky_autobiography)) ⭐️⭐️⭐️⭐️ Троцкий @Mar 31, 2022
 - [Navalny](https://www.amazon.com/Navalny-Putins-Nemesis-Russias-Future/dp/0197611702) ⭐️⭐️⭐️ J.M. Dollbaum @Apr 06, 2022
+- [Первая сверхдержава](https://www.litres.ru/boris-akunin/pervaya-s-48513502/) ⭐️⭐️⭐️⭐️ Акунин @Apr 09, 2022
 
 ### In progress
 
 - [Learning Patterns](https://www.patterns.dev/) A. Osmani
 - [The History of Magic](https://www.penguin.co.uk/books/303/303993/the-history-of-magic/9780241979662.html) C. Gosden
-- [Первая сверхдержава](https://www.litres.ru/boris-akunin/pervaya-s-48513502/) Акунин
 - [Триптих](https://www.livelib.ru/book/1000482693-triptih-sbornik-sasha-sokolov) С. Соколов
