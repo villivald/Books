@@ -159,7 +159,7 @@
 - [Navalny](https://www.amazon.com/Navalny-Putins-Nemesis-Russias-Future/dp/0197611702) ⭐️⭐️⭐️ J.M. Dollbaum @Apr 06, 2022
 - [Первая сверхдержава](https://www.litres.ru/boris-akunin/pervaya-s-48513502/) ⭐️⭐️⭐️⭐️ Акунин @Apr 09, 2022
 - [Триптих](https://www.livelib.ru/book/1000482693-triptih-sbornik-sasha-sokolov) ⭐️⭐️⭐️ С. Соколов @Apr 10, 2022
-- 
+
 ### In progress
 
 - [Learning Patterns](https://www.patterns.dev/) A. Osmani
@@ -167,4 +167,3 @@
 - [Breathe](https://www.mrjamesnestor.com/) J. Nestor
 - [Программист-прагматик](https://pragprog.com/titles/tpp20/the-pragmatic-programmer-20th-anniversary-edition/) Д. Томас
 - [Тайные виды на гору Фудзи](https://ru.wikipedia.org/wiki/%D0%A2%D0%B0%D0%B9%D0%BD%D1%8B%D0%B5_%D0%B2%D0%B8%D0%B4%D1%8B_%D0%BD%D0%B0_%D0%B3%D0%BE%D1%80%D1%83_%D0%A4%D1%83%D0%B4%D0%B7%D0%B8) Пелевин
-
