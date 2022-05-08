@@ -160,12 +160,12 @@
 - [Первая сверхдержава](https://www.litres.ru/boris-akunin/pervaya-s-48513502/) ⭐️⭐️⭐️⭐️ Акунин @Apr 09, 2022
 - [Триптих](https://www.livelib.ru/book/1000482693-triptih-sbornik-sasha-sokolov) ⭐️⭐️⭐️ С. Соколов @Apr 10, 2022
 - [Тайные виды на гору Фудзи](https://ru.wikipedia.org/wiki/%D0%A2%D0%B0%D0%B9%D0%BD%D1%8B%D0%B5_%D0%B2%D0%B8%D0%B4%D1%8B_%D0%BD%D0%B0_%D0%B3%D0%BE%D1%80%D1%83_%D0%A4%D1%83%D0%B4%D0%B7%D0%B8) ⭐️⭐️⭐️ Пелевин @Apr 16, 2022
+- [Программист-прагматик](https://pragprog.com/titles/tpp20/the-pragmatic-programmer-20th-anniversary-edition/) ⭐️⭐️⭐️ Д. Томас @May 08, 2022
 
 ### In progress
 
 - [Learning Patterns](https://www.patterns.dev/) A. Osmani
 - [The History of Magic](https://www.penguin.co.uk/books/303/303993/the-history-of-magic/9780241979662.html) C. Gosden
 - [Breathe](https://www.mrjamesnestor.com/) J. Nestor
-- [Программист-прагматик](https://pragprog.com/titles/tpp20/the-pragmatic-programmer-20th-anniversary-edition/) Д. Томас
 - [Пост](https://ru.wikipedia.org/wiki/%D0%9F%D0%BE%D1%81%D1%82_(%D1%80%D0%BE%D0%BC%D0%B0%D0%BD)) Глуховский
 - [Spin Dictators](https://press.princeton.edu/books/hardcover/9780691211411/spin-dictators) S. Guriev & D. Treisman
