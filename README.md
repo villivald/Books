@@ -169,3 +169,4 @@
 - [Breathe](https://www.mrjamesnestor.com/) J. Nestor
 - [Пост](https://ru.wikipedia.org/wiki/%D0%9F%D0%BE%D1%81%D1%82_(%D1%80%D0%BE%D0%BC%D0%B0%D0%BD)) Глуховский
 - [Spin Dictators](https://press.princeton.edu/books/hardcover/9780691211411/spin-dictators) S. Guriev & D. Treisman
+- [Уравнение Бога](https://en.wikipedia.org/wiki/The_God_Equation) М. Каку 
