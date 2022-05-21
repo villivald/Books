@@ -169,4 +169,5 @@
 ### In progress
 
 - [Learning Patterns](https://www.patterns.dev/) A. Osmani
-- [The History of Magic](https://www.penguin.co.uk/books/303/303993/the-history-of-magic/9780241979662.html) C. Gosden 
+- [The History of Magic](https://www.penguin.co.uk/books/303/303993/the-history-of-magic/9780241979662.html) C. Gosden
+- [Марш Радецкого](https://en.wikipedia.org/wiki/Radetzky_March_(novel)) Й. Рот
