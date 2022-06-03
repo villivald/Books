@@ -172,3 +172,4 @@
 
 - [Learning Patterns](https://www.patterns.dev/) A. Osmani
 - [Библия: Что было на самом деле?](https://www.litres.ru/desnickiy-andrey-sergeevich/bibliya-chto-bylo-na-samom-dele/) Десницкий
+- [Не надо стесняться](https://nns.i-m-i.ru/) А. Горбачев
