@@ -167,9 +167,9 @@
 - [Уравнение Бога](https://en.wikipedia.org/wiki/The_God_Equation) ⭐️⭐️⭐️⭐️ М. Каку @May 19, 2022
 - [The History of Magic](https://www.penguin.co.uk/books/303/303993/the-history-of-magic/9780241979662.html) ⭐️⭐️ C. Gosden @May 27, 2022
 - [Марш Радецкого](https://en.wikipedia.org/wiki/Radetzky_March_(novel)) ⭐️⭐️⭐️⭐️⭐️ Й. Рот @May 31, 2022
+- [Не надо стесняться](https://nns.i-m-i.ru/) ⭐️⭐️⭐️⭐️ А. Горбачев @Jun 19, 2022
 
 ### In progress
 
 - [Learning Patterns](https://www.patterns.dev/) A. Osmani
 - [Библия: Что было на самом деле?](https://www.litres.ru/desnickiy-andrey-sergeevich/bibliya-chto-bylo-na-samom-dele/) Десницкий
-- [Не надо стесняться](https://nns.i-m-i.ru/) А. Горбачев
