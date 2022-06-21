@@ -173,3 +173,4 @@
 
 - [Learning Patterns](https://www.patterns.dev/) A. Osmani
 - [Библия: Что было на самом деле?](https://www.litres.ru/desnickiy-andrey-sergeevich/bibliya-chto-bylo-na-samom-dele/) Десницкий
+- [France: An Adventure History](https://www.panmacmillan.com/authors/graham-robb/france-an-adventure-history/9781529007626) G. Robb
