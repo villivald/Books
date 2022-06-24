@@ -174,3 +174,4 @@
 
 - [Learning Patterns](https://www.patterns.dev/) A. Osmani
 - [France: An Adventure History](https://www.panmacmillan.com/authors/graham-robb/france-an-adventure-history/9781529007626) G. Robb
+- [Доктор Фаустус](https://en.wikipedia.org/wiki/Doctor_Faustus_(novel)) Т. Манн
