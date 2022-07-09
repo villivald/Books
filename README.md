@@ -169,11 +169,11 @@
 - [Марш Радецкого](https://en.wikipedia.org/wiki/Radetzky_March_(novel)) ⭐️⭐️⭐️⭐️⭐️ Й. Рот @May 31, 2022
 - [Не надо стесняться](https://nns.i-m-i.ru/) ⭐️⭐️⭐️⭐️ А. Горбачев @Jun 19, 2022
 - [Библия: Что было на самом деле?](https://www.litres.ru/desnickiy-andrey-sergeevich/bibliya-chto-bylo-na-samom-dele/) ⭐️⭐️⭐️ Десницкий @Jun 23, 2022
+- [Пост 2](https://www.litres.ru/dmitriy-gluhovskiy/post-2-spastis-i-sohranit/) ⭐️⭐️⭐️⭐️ Глуховский @Jul 09, 2022
 
 ### In progress
 
 - [Learning Patterns](https://www.patterns.dev/) A. Osmani
 - [France: An Adventure History](https://www.panmacmillan.com/authors/graham-robb/france-an-adventure-history/9781529007626) G. Robb
 - [Доктор Фаустус](https://en.wikipedia.org/wiki/Doctor_Faustus_(novel)) Т. Манн
-- [Пост 2](https://www.litres.ru/dmitriy-gluhovskiy/post-2-spastis-i-sohranit/) Глуховский
 - [The adidas Archive](https://www.taschen.com/pages/en/catalogue/popculture/all/04687/facts.the_adidas_archive_the_footwear_collection.htm) C. Habermeier
