@@ -177,3 +177,4 @@
 - [France: An Adventure History](https://www.panmacmillan.com/authors/graham-robb/france-an-adventure-history/9781529007626) G. Robb
 - [Доктор Фаустус](https://en.wikipedia.org/wiki/Doctor_Faustus_(novel)) Т. Манн
 - [The adidas Archive](https://www.taschen.com/pages/en/catalogue/popculture/all/04687/facts.the_adidas_archive_the_footwear_collection.htm) C. Habermeier
+- [Время кометы](https://www.panmacmillan.com/authors/daniel-schonpflug/a-world-on-edge/9781509818495) Д. Шёнпфлуг
