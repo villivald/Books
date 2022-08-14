@@ -171,6 +171,7 @@
 - [Библия: Что было на самом деле?](https://www.litres.ru/desnickiy-andrey-sergeevich/bibliya-chto-bylo-na-samom-dele/) ⭐️⭐️⭐️ Десницкий @Jun 23, 2022
 - [Пост 2](https://www.litres.ru/dmitriy-gluhovskiy/post-2-spastis-i-sohranit/) ⭐️⭐️⭐️⭐️ Глуховский @Jul 09, 2022
 - [Время кометы](https://www.panmacmillan.com/authors/daniel-schonpflug/a-world-on-edge/9781509818495) ⭐️⭐️ Д. Шёнпфлуг @Jul 18, 2022
+- [Коллапс. Случайное падение Берлинской стены](https://www.goodreads.com/book/show/20344441-the-collapse#:~:text=On%20the%20night%20of%20November,Europe%E2%80%94seemed%20to%20be%20falling.) ⭐️⭐️⭐️ М. Саротт @Aug 14, 2022
 
 ### In progress
 
@@ -178,4 +179,3 @@
 - [France: An Adventure History](https://www.panmacmillan.com/authors/graham-robb/france-an-adventure-history/9781529007626) G. Robb
 - [Доктор Фаустус](https://en.wikipedia.org/wiki/Doctor_Faustus_(novel)) Т. Манн
 - [The adidas Archive](https://www.taschen.com/pages/en/catalogue/popculture/all/04687/facts.the_adidas_archive_the_footwear_collection.htm) C. Habermeier
-- [Коллапс. Случайное падение Берлинской стены](https://www.goodreads.com/book/show/20344441-the-collapse#:~:text=On%20the%20night%20of%20November,Europe%E2%80%94seemed%20to%20be%20falling.) М. Саротт
