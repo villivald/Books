@@ -174,8 +174,8 @@
 - [Коллапс. Случайное падение Берлинской стены](https://www.goodreads.com/book/show/20344441-the-collapse#:~:text=On%20the%20night%20of%20November,Europe%E2%80%94seemed%20to%20be%20falling.) ⭐️⭐️⭐️ М. Саротт @Aug 14, 2022
 - [Доктор Фаустус](https://en.wikipedia.org/wiki/Doctor_Faustus_(novel)) ⭐️⭐️⭐️⭐️⭐️ Т. Манн @Aug 21, 2022
 - [The adidas Archive](https://www.taschen.com/pages/en/catalogue/popculture/all/04687/facts.the_adidas_archive_the_footwear_collection.htm) ⭐️⭐️⭐️⭐️⭐️ C. Habermeier @Aug 22, 2022
+- [Похмелье](https://www.goodreads.com/en/book/show/36698525-hungover) ⭐️⭐️⭐️⭐️ Бишоп-Столл @Aug 25, 2022
 
 ### In progress
 
 - [France: An Adventure History](https://www.panmacmillan.com/authors/graham-robb/france-an-adventure-history/9781529007626) G. Robb
-- [Похмелье](https://www.goodreads.com/en/book/show/36698525-hungover) Бишоп-Столл
