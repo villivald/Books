@@ -181,3 +181,4 @@
 - [France: An Adventure History](https://www.panmacmillan.com/authors/graham-robb/france-an-adventure-history/9781529007626) G. Robb
 - [Egypti](https://www.kirjavinkit.fi/arvostelut/egypti-kala-sarkofagissa-muita-mysteereja/) M. Meri
 - [Путеводитель зоолога по Галактике](https://www.penguinrandomhouse.com/books/646643/the-zoologists-guide-to-the-galaxy-by-arik-kershenbaum/) А. Кершенбаум
+- [Детство](https://frenchculture.org/books-and-ideas/recently-published/1053-childhood) Н. Саррот
