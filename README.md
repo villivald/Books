@@ -176,9 +176,9 @@
 - [The adidas Archive](https://www.taschen.com/pages/en/catalogue/popculture/all/04687/facts.the_adidas_archive_the_footwear_collection.htm) ⭐️⭐️⭐️⭐️⭐️ C. Habermeier @Aug 22, 2022
 - [Похмелье](https://www.goodreads.com/en/book/show/36698525-hungover) ⭐️⭐️⭐️⭐️ Бишоп-Столл @Aug 25, 2022
 - [Путеводитель зоолога по Галактике](https://www.penguinrandomhouse.com/books/646643/the-zoologists-guide-to-the-galaxy-by-arik-kershenbaum/) ⭐️⭐️⭐️⭐️ А. Кершенбаум @Sep 21, 2022
+- [Egypti](https://www.kirjavinkit.fi/arvostelut/egypti-kala-sarkofagissa-muita-mysteereja/) ⭐️⭐️⭐️⭐️⭐️ M. Meri @Sep 23, 2022
 
 ### In progress
 
 - [France: An Adventure History](https://www.panmacmillan.com/authors/graham-robb/france-an-adventure-history/9781529007626) G. Robb
-- [Egypti](https://www.kirjavinkit.fi/arvostelut/egypti-kala-sarkofagissa-muita-mysteereja/) M. Meri
 - [Детство](https://frenchculture.org/books-and-ideas/recently-published/1053-childhood) Н. Саррот
