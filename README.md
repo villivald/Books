@@ -81,7 +81,8 @@
 - [Москва и москвичи](https://www.amazon.com/Moscow-Muscovites-Vladimir-Gilyarovsky/dp/1880100827) ⭐️⭐️⭐️⭐️ Гиляровский @Nov 29, 2020
 - [Котлован](https://en.wikipedia.org/wiki/The_Foundation_Pit) ⭐️⭐️	Платонов @Dec 10, 2020
 - [Все свободны](https://en.wikipedia.org/wiki/Mikhail_Zygar) ⭐️⭐️⭐️⭐️ Зыгарь @Dec 14, 2020
-- [Как работает пропаганда](https://neweasterneurope.eu/2018/12/11/propaganda-works-interview-tamara-eidelman/) ⭐️⭐️⭐️⭐️ Эйдельман @Dec 15, 2020
+- [Как работает пропаганда](https://neweasterneurope.eu/2018/12/11/propaganda-works-interview-tamara-eidelman/) ⭐️⭐️⭐️⭐️ 
+ман @Dec 15, 2020
 - [В кварталах дальних и печальных](https://en.wikipedia.org/wiki/Boris_Ryzhy) ⭐️⭐️⭐️⭐️⭐️ Рыжий @Dec 16, 2020
 - [Любовник смерти](https://en.wikipedia.org/wiki/He_Lover_of_Death) ⭐️⭐️⭐️⭐️ Акунин @Dec 20, 2020
 - [Белые ночи](https://en.wikipedia.org/wiki/White_Nights_(short_story)) ⭐️⭐️⭐️ Достоевский @Dec 30, 2020
@@ -182,3 +183,4 @@
 
 - [France: An Adventure History](https://www.panmacmillan.com/authors/graham-robb/france-an-adventure-history/9781529007626) G. Robb
 - [Детство](https://frenchculture.org/books-and-ideas/recently-published/1053-childhood) Н. Саррот
+- [Право на жизнь](https://alpinabook.ru/catalog/book-pravo-na-zhizn/) Эйдельман
