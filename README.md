@@ -178,9 +178,10 @@
 - [Похмелье](https://www.goodreads.com/en/book/show/36698525-hungover) ⭐️⭐️⭐️⭐️ Бишоп-Столл @Aug 25, 2022
 - [Путеводитель зоолога по Галактике](https://www.penguinrandomhouse.com/books/646643/the-zoologists-guide-to-the-galaxy-by-arik-kershenbaum/) ⭐️⭐️⭐️⭐️ А. Кершенбаум @Sep 21, 2022
 - [Egypti](https://www.kirjavinkit.fi/arvostelut/egypti-kala-sarkofagissa-muita-mysteereja/) ⭐️⭐️⭐️⭐️⭐️ M. Meri @Sep 23, 2022
+- [Детство](https://frenchculture.org/books-and-ideas/recently-published/1053-childhood) ⭐️⭐️⭐️⭐️⭐️ Н. Саррот @Sep 29, 2022
 
 ### In progress
 
 - [France: An Adventure History](https://www.panmacmillan.com/authors/graham-robb/france-an-adventure-history/9781529007626) G. Robb
-- [Детство](https://frenchculture.org/books-and-ideas/recently-published/1053-childhood) Н. Саррот
 - [Краткая история Европы](https://www.penguin.co.uk/books/306733/a-short-history-of-europe-by-jenkins-simon/9780241352526) С. Дженкинс
+- [Золотые плоды](https://www.themodernnovel.org/europe/w-europe/france/sarraute/fruits/) Н. Саррот
