@@ -182,8 +182,9 @@
 - [Tässä paikassa kauan sitten](https://hskauppa.eshop.fi/product/25434/tassa-paikassa-kauan-sitten) ⭐️⭐️⭐️⭐️ A. Nousiainen @Oct 09, 2022
 - [Suuri illusioni](https://en.wikipedia.org/wiki/Suuri_illusioni) ⭐️⭐️⭐️⭐️ M. Waltari @Oct 13, 2022
 - [Золотые плоды](https://www.themodernnovel.org/europe/w-europe/france/sarraute/fruits/) ⭐️⭐️⭐️ Н. Саррот @Oct 19, 2022
+- [Краткая история Европы](https://www.penguin.co.uk/books/306733/a-short-history-of-europe-by-jenkins-simon/9780241352526) ⭐️⭐️⭐️ С. Дженкинс @Oct 24, 2022
 
 ### In progress
 
 - [France: An Adventure History](https://www.panmacmillan.com/authors/graham-robb/france-an-adventure-history/9781529007626) G. Robb
-- [Краткая история Европы](https://www.penguin.co.uk/books/306733/a-short-history-of-europe-by-jenkins-simon/9780241352526) С. Дженкинс
+- [Французская революция](https://postnauka.ru/blog/155697) Чудинов, Бовыкин
