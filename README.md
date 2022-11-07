@@ -188,3 +188,4 @@
 
 - [France: An Adventure History](https://www.panmacmillan.com/authors/graham-robb/france-an-adventure-history/9781529007626) G. Robb
 - [Французская революция](https://postnauka.ru/blog/155697) Чудинов, Бовыкин
+- [Sinuhe egyptiläinen](https://en.wikipedia.org/wiki/The_Egyptian) M. Waltari
