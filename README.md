@@ -190,3 +190,4 @@
 - [France: An Adventure History](https://www.panmacmillan.com/authors/graham-robb/france-an-adventure-history/9781529007626) G. Robb
 - [Sinuhe egyptiläinen](https://en.wikipedia.org/wiki/The_Egyptian) M. Waltari
 - [Perussuomalaiset Halla-ahon ja Purran linjalla](https://otava.fi/kirjat/halla-ahon-perussuomalaiset/) M. Jokisipilä
+- [Проект "Феникс"](https://itrevolution.com/product/the-phoenix-project/) Джин Ким
