@@ -191,3 +191,4 @@
 - [Sinuhe egyptiläinen](https://en.wikipedia.org/wiki/The_Egyptian) M. Waltari
 - [Perussuomalaiset Halla-ahon ja Purran linjalla](https://otava.fi/kirjat/halla-ahon-perussuomalaiset/) M. Jokisipilä
 - [Проект "Феникс"](https://itrevolution.com/product/the-phoenix-project/) Джин Ким
+- [50 Art Movements You Should Know](https://prestelpublishing.penguinrandomhouse.de/paperback/50-Art-Movements-You-Should-Know/Rosalind-Ormiston/Prestel-com/e539914.rhd) R. Ormiston
