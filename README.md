@@ -185,10 +185,10 @@
 - [Краткая история Европы](https://www.penguin.co.uk/books/306733/a-short-history-of-europe-by-jenkins-simon/9780241352526) ⭐️⭐️⭐️ С. Дженкинс @Oct 24, 2022
 - [Французская революция](https://postnauka.ru/blog/155697) ⭐️⭐️⭐️⭐️ Чудинов, Бовыкин @Nov 13, 2022
 - [Проект "Феникс"](https://itrevolution.com/product/the-phoenix-project/) ⭐️⭐️⭐️⭐️⭐️ Джин Ким @Dec 10, 2022
+- [Perussuomalaiset Halla-ahon ja Purran linjalla](https://otava.fi/kirjat/halla-ahon-perussuomalaiset/) ⭐️⭐️⭐️⭐️ M. Jokisipilä @Dec 13, 2022
 
 ### In progress
 
 - [France: An Adventure History](https://www.panmacmillan.com/authors/graham-robb/france-an-adventure-history/9781529007626) G. Robb
 - [Sinuhe egyptiläinen](https://en.wikipedia.org/wiki/The_Egyptian) M. Waltari
-- [Perussuomalaiset Halla-ahon ja Purran linjalla](https://otava.fi/kirjat/halla-ahon-perussuomalaiset/) M. Jokisipilä
 - [50 Art Movements You Should Know](https://prestelpublishing.penguinrandomhouse.de/paperback/50-Art-Movements-You-Should-Know/Rosalind-Ormiston/Prestel-com/e539914.rhd) R. Ormiston
