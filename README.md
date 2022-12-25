@@ -187,9 +187,9 @@
 - [Проект "Феникс"](https://itrevolution.com/product/the-phoenix-project/) ⭐️⭐️⭐️⭐️⭐️ Джин Ким @Dec 10, 2022
 - [Perussuomalaiset Halla-ahon ja Purran linjalla](https://otava.fi/kirjat/halla-ahon-perussuomalaiset/) ⭐️⭐️⭐️⭐️ M. Jokisipilä @Dec 13, 2022
 - [Sinuhe egyptiläinen](https://en.wikipedia.org/wiki/The_Egyptian) ⭐️⭐️⭐️⭐️ M. Waltari @Dec 23, 2022
+- [France: An Adventure History](https://www.panmacmillan.com/authors/graham-robb/france-an-adventure-history/9781529007626) ⭐️⭐️⭐️ G. Robb @Dec 24, 2022
 
 ### In progress
 
-- [France: An Adventure History](https://www.panmacmillan.com/authors/graham-robb/france-an-adventure-history/9781529007626) G. Robb
 - [50 Art Movements You Should Know](https://prestelpublishing.penguinrandomhouse.de/paperback/50-Art-Movements-You-Should-Know/Rosalind-Ormiston/Prestel-com/e539914.rhd) R. Ormiston
 - [Недоверчивые умы](https://www.bloomsbury.com/us/suspicious-minds-9781472915641/) Р. Бразертон
