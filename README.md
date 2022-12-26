@@ -193,3 +193,4 @@
 
 - [50 Art Movements You Should Know](https://prestelpublishing.penguinrandomhouse.de/paperback/50-Art-Movements-You-Should-Know/Rosalind-Ormiston/Prestel-com/e539914.rhd) R. Ormiston
 - [Недоверчивые умы](https://www.bloomsbury.com/us/suspicious-minds-9781472915641/) Р. Бразертон
+- [Как убить дракона?](https://dragonbook.khodorkovsky.com/en/) Ходорковский
