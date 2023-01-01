@@ -189,8 +189,11 @@
 - [Sinuhe egyptiläinen](https://en.wikipedia.org/wiki/The_Egyptian) ⭐️⭐️⭐️⭐️ M. Waltari @Dec 23, 2022
 - [France: An Adventure History](https://www.panmacmillan.com/authors/graham-robb/france-an-adventure-history/9781529007626) ⭐️⭐️⭐️ G. Robb @Dec 24, 2022
 
+### 2023
+
+- [50 Art Movements You Should Know](https://prestelpublishing.penguinrandomhouse.de/paperback/50-Art-Movements-You-Should-Know/Rosalind-Ormiston/Prestel-com/e539914.rhd) ⭐️⭐️⭐️⭐️ R. Ormiston @Jan 01, 2023
+
 ### In progress
 
-- [50 Art Movements You Should Know](https://prestelpublishing.penguinrandomhouse.de/paperback/50-Art-Movements-You-Should-Know/Rosalind-Ormiston/Prestel-com/e539914.rhd) R. Ormiston
 - [Недоверчивые умы](https://www.bloomsbury.com/us/suspicious-minds-9781472915641/) Р. Бразертон
 - [Как убить дракона?](https://dragonbook.khodorkovsky.com/en/) Ходорковский
