@@ -197,3 +197,4 @@
 
 - [Недоверчивые умы](https://www.bloomsbury.com/us/suspicious-minds-9781472915641/) Р. Бразертон
 - [Как убить дракона?](https://dragonbook.khodorkovsky.com/en/) Ходорковский
+- [Code](https://en.wikipedia.org/wiki/Code:_The_Hidden_Language_of_Computer_Hardware_and_Software) Petzold
