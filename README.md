@@ -192,9 +192,9 @@
 ### 2023
 
 - [50 Art Movements You Should Know](https://prestelpublishing.penguinrandomhouse.de/paperback/50-Art-Movements-You-Should-Know/Rosalind-Ormiston/Prestel-com/e539914.rhd) ⭐️⭐️⭐️⭐️ R. Ormiston @Jan 01, 2023
+- [Недоверчивые умы](https://www.bloomsbury.com/us/suspicious-minds-9781472915641/) ⭐️⭐️⭐️ Р. Бразертон @Jan 05, 2023
 
 ### In progress
 
-- [Недоверчивые умы](https://www.bloomsbury.com/us/suspicious-minds-9781472915641/) Р. Бразертон
 - [Как убить дракона?](https://dragonbook.khodorkovsky.com/en/) Ходорковский
 - [Code](https://en.wikipedia.org/wiki/Code:_The_Hidden_Language_of_Computer_Hardware_and_Software) Petzold
