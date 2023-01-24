@@ -199,3 +199,4 @@
 
 - [Code](https://en.wikipedia.org/wiki/Code:_The_Hidden_Language_of_Computer_Hardware_and_Software) Petzold
 - [Лотта в Веймаре](https://en.wikipedia.org/wiki/Lotte_in_Weimar:_The_Beloved_Returns) Т. Манн
+- [Цивилизация запахов](https://www.goodreads.com/en/book/show/49829101-smells) Р. Мюшембле
