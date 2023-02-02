@@ -200,3 +200,4 @@
 
 - [Code](https://en.wikipedia.org/wiki/Code:_The_Hidden_Language_of_Computer_Hardware_and_Software) Petzold
 - [Цивилизация запахов](https://www.goodreads.com/en/book/show/49829101-smells) Р. Мюшембле
+- [Мобилизованная нация](https://en.wikipedia.org/wiki/The_German_War) Н. Старгардт
