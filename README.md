@@ -201,3 +201,5 @@
 
 - [Цивилизация запахов](https://www.goodreads.com/en/book/show/49829101-smells) Р. Мюшембле
 - [Мобилизованная нация](https://en.wikipedia.org/wiki/The_German_War) Н. Старгардт
+- [The Designer's Dictionary of Type](https://www.abramsbooks.com/product/designers-dictionary-of-type_9781419737183/) S. Abrams
+
