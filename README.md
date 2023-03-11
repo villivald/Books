@@ -203,3 +203,4 @@
 - [Цивилизация запахов](https://www.goodreads.com/en/book/show/49829101-smells) Р. Мюшембле
 - [Мобилизованная нация](https://en.wikipedia.org/wiki/The_German_War) Н. Старгардт
 - [New York](https://www.readme.fi/kirja/new-york-tripsteri-matkaopas/) A. Haapasalo
+- [Alussa oli… Ihmiskunnan uusi historia](https://en.wikipedia.org/wiki/The_Dawn_of_Everything) D. Graeber, D. Wengrow
