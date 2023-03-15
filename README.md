@@ -204,3 +204,4 @@
 - [Цивилизация запахов](https://www.goodreads.com/en/book/show/49829101-smells) Р. Мюшембле
 - [New York](https://www.readme.fi/kirja/new-york-tripsteri-matkaopas/) A. Haapasalo
 - [Alussa oli… Ihmiskunnan uusi historia](https://en.wikipedia.org/wiki/The_Dawn_of_Everything) D. Graeber, D. Wengrow
+- [Архипелаг ГУЛАГ](https://ru.wikipedia.org/wiki/%D0%90%D1%80%D1%85%D0%B8%D0%BF%D0%B5%D0%BB%D0%B0%D0%B3_%D0%93%D0%A3%D0%9B%D0%90%D0%93) Солженицын
