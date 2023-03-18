@@ -198,10 +198,10 @@
 - [Code](https://en.wikipedia.org/wiki/Code:_The_Hidden_Language_of_Computer_Hardware_and_Software) ⭐️⭐️⭐️ Petzold @Feb 23, 2023
 - [The Designer's Dictionary of Type](https://www.abramsbooks.com/product/designers-dictionary-of-type_9781419737183/) ⭐️⭐️⭐️⭐️⭐️ S. Abrams @Mar 6, 2023
 - [Мобилизованная нация](https://en.wikipedia.org/wiki/The_German_War) ⭐️⭐️⭐️⭐️ Н. Старгардт @Mar 11, 2023
+- [New York](https://www.readme.fi/kirja/new-york-tripsteri-matkaopas/) ⭐️⭐️⭐️⭐️ A. Haapasalo @Mar 18, 2023
 
 ### In progress
 
 - [Цивилизация запахов](https://www.goodreads.com/en/book/show/49829101-smells) Р. Мюшембле
-- [New York](https://www.readme.fi/kirja/new-york-tripsteri-matkaopas/) A. Haapasalo
 - [Alussa oli… Ihmiskunnan uusi historia](https://en.wikipedia.org/wiki/The_Dawn_of_Everything) D. Graeber, D. Wengrow
 - [Архипелаг ГУЛАГ](https://ru.wikipedia.org/wiki/%D0%90%D1%80%D1%85%D0%B8%D0%BF%D0%B5%D0%BB%D0%B0%D0%B3_%D0%93%D0%A3%D0%9B%D0%90%D0%93) Солженицын
