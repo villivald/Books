@@ -208,3 +208,4 @@
 - [Цивилизация запахов](https://www.goodreads.com/en/book/show/49829101-smells) Р. Мюшембле
 - [Alussa oli… Ihmiskunnan uusi historia](https://en.wikipedia.org/wiki/The_Dawn_of_Everything) D. Graeber, D. Wengrow
 - [The Road Book 2022](https://www.rouleur.cc/products/the-road-book-2022-signed-edition-ned-boulting) N. Boulding
+- [Immu – Vanki numero 1861](https://www.bazarkustannus.fi/kirja/immu-vanki-numero-1861/) M. Ilmen
