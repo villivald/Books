@@ -202,10 +202,10 @@
 - [New York City](https://www.dk.com/uk/book/9780241417331-dk-eyewitness-new-york-city/) ⭐️⭐️⭐️ DK Eyewitness @Apr 02, 2023
 - [Это я — Эдичка](https://en.wikipedia.org/wiki/It%27s_Me,_Eddie) ⭐️⭐️⭐️⭐️⭐️ Лимонов @Apr 06, 2023
 - [Архипелаг ГУЛАГ](https://ru.wikipedia.org/wiki/%D0%90%D1%80%D1%85%D0%B8%D0%BF%D0%B5%D0%BB%D0%B0%D0%B3_%D0%93%D0%A3%D0%9B%D0%90%D0%93) ⭐️⭐️⭐️⭐️ Солженицын @Apr 11, 2023
+- [Immu – Vanki numero 1861](https://www.bazarkustannus.fi/kirja/immu-vanki-numero-1861/) ⭐️ M. Ilmen @Apr 16, 2023
 
 ### In progress
 
 - [Цивилизация запахов](https://www.goodreads.com/en/book/show/49829101-smells) Р. Мюшембле
 - [Alussa oli… Ihmiskunnan uusi historia](https://en.wikipedia.org/wiki/The_Dawn_of_Everything) D. Graeber, D. Wengrow
 - [The Road Book 2022](https://www.rouleur.cc/products/the-road-book-2022-signed-edition-ned-boulting) N. Boulding
-- [Immu – Vanki numero 1861](https://www.bazarkustannus.fi/kirja/immu-vanki-numero-1861/) M. Ilmen
