@@ -206,7 +206,7 @@
 - [Цивилизация запахов](https://www.goodreads.com/en/book/show/49829101-smells) ⭐️⭐️ Р. Мюшембле @Apr 18, 2023
 - [Боги и лишние](https://www.corpus.ru/products/oleg-radzinskij-bogi-i-lishnie.htm) ⭐️⭐️⭐️⭐️ О. Радзинский @May 07, 2023
 - [The Road Book 2022](https://www.rouleur.cc/products/the-road-book-2022-signed-edition-ned-boulting) ⭐️⭐️⭐️⭐️ N. Boulding @May 23, 2023
-- 
+
 ### In progress
 
 - [Alussa oli… Ihmiskunnan uusi historia](https://en.wikipedia.org/wiki/The_Dawn_of_Everything) D. Graeber, D. Wengrow
