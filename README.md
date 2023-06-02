@@ -207,10 +207,10 @@
 - [Боги и лишние](https://www.corpus.ru/products/oleg-radzinskij-bogi-i-lishnie.htm) ⭐️⭐️⭐️⭐️ О. Радзинский @May 07, 2023
 - [The Road Book 2022](https://www.rouleur.cc/products/the-road-book-2022-signed-edition-ned-boulting) ⭐️⭐️⭐️⭐️ N. Boulding @May 23, 2023
 - [What if? 2](https://xkcd.com/what-if-2/) ⭐️⭐️⭐️ R. Munroe @May 25, 2023
+- [A11Y Unraveled](https://learning.oreilly.com/library/view/a11y-unraveled-become/9781484290859/) ⭐️⭐️⭐️ D. Georgakas @Jun 02, 2023
 
 ### In progress
 
 - [Alussa oli… Ihmiskunnan uusi historia](https://en.wikipedia.org/wiki/The_Dawn_of_Everything) D. Graeber, D. Wengrow
 - [Tuoksujen atlas](https://aulakustannus.fi/kirjat/tuoksujen-atlas) A. Turunen
 - [Беседы о русской культуре](https://arzamas.academy/special/lotman-lectures) Лотман
-- [A11Y Unraveled](https://learning.oreilly.com/library/view/a11y-unraveled-become/9781484290859/) D. Georgakas
