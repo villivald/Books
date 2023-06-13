@@ -210,9 +210,9 @@
 - [A11Y Unraveled](https://learning.oreilly.com/library/view/a11y-unraveled-become/9781484290859/) ⭐️⭐️⭐️ D. Georgakas @Jun 02, 2023
 - [Tuoksujen atlas](https://aulakustannus.fi/kirjat/tuoksujen-atlas) ⭐️⭐️⭐️⭐️⭐️ A. Turunen @Jun 07, 2023
 - [Лекарство для империи](https://www.litres.ru/book/boris-akunin/lekarstvo-dlya-imperii-istoriya-rossiyskogo-gosudarstva-car-o-64360732/) ⭐️⭐️⭐️⭐️ Акунин @Jun 11, 2023
+- [Беседы о русской культуре](https://arzamas.academy/special/lotman-lectures) ⭐️⭐️⭐️ Лотман @Jun 13, 2023
 
 ### In progress
 
 - [Alussa oli… Ihmiskunnan uusi historia](https://en.wikipedia.org/wiki/The_Dawn_of_Everything) D. Graeber, D. Wengrow
-- [Беседы о русской культуре](https://arzamas.academy/special/lotman-lectures) Лотман
 - [Аполлон Безобразов](http://az.lib.ru/p/poplawskij_b_j/text_0080.shtml) Поплавский
