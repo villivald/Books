@@ -216,3 +216,4 @@
 
 - [Alussa oli… Ihmiskunnan uusi historia](https://en.wikipedia.org/wiki/The_Dawn_of_Everything) D. Graeber, D. Wengrow
 - [Аполлон Безобразов](http://az.lib.ru/p/poplawskij_b_j/text_0080.shtml) Поплавский
+- [Friends, Lovers, and the Big Terrible Thing: A Memoir](https://www.amazon.com/Friends-Lovers-Big-Terrible-Thing-ebook/dp/B09M1RPWWL) M. Perry 
