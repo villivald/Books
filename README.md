@@ -211,10 +211,10 @@
 - [Tuoksujen atlas](https://aulakustannus.fi/kirjat/tuoksujen-atlas) ⭐️⭐️⭐️⭐️⭐️ A. Turunen @Jun 07, 2023
 - [Лекарство для империи](https://www.litres.ru/book/boris-akunin/lekarstvo-dlya-imperii-istoriya-rossiyskogo-gosudarstva-car-o-64360732/) ⭐️⭐️⭐️⭐️ Акунин @Jun 11, 2023
 - [Беседы о русской культуре](https://arzamas.academy/special/lotman-lectures) ⭐️⭐️⭐️ Лотман @Jun 13, 2023
+- [Аполлон Безобразов](http://az.lib.ru/p/poplawskij_b_j/text_0080.shtml) ⭐️⭐️⭐️⭐️ Поплавский @Jun 20, 2023
 
 ### In progress
 
 - [Alussa oli… Ihmiskunnan uusi historia](https://en.wikipedia.org/wiki/The_Dawn_of_Everything) D. Graeber, D. Wengrow
-- [Аполлон Безобразов](http://az.lib.ru/p/poplawskij_b_j/text_0080.shtml) Поплавский
 - [Friends, Lovers, and the Big Terrible Thing: A Memoir](https://www.amazon.com/Friends-Lovers-Big-Terrible-Thing-ebook/dp/B09M1RPWWL) M. Perry
 - [New York : maailman paras shithole city](https://avain.net/tuoteryhma/tulossa/1875496?product=9789523043978) J. Frondelius
