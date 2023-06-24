@@ -196,7 +196,7 @@
 - [Как убить дракона?](https://dragonbook.khodorkovsky.com/en/) ⭐️⭐️ Ходорковский @Jan 14, 2023
 - [Лотта в Веймаре](https://en.wikipedia.org/wiki/Lotte_in_Weimar:_The_Beloved_Returns) ⭐️⭐️⭐️⭐️ Т. Манн @Jan 30, 2023
 - [Code](https://en.wikipedia.org/wiki/Code:_The_Hidden_Language_of_Computer_Hardware_and_Software) ⭐️⭐️⭐️ Petzold @Feb 23, 2023
-- [The Designer's Dictionary of Type](https://www.abramsbooks.com/product/designers-dictionary-of-type_9781419737183/) ⭐️⭐️⭐️⭐️⭐️ S. Abrams @Mar 6, 2023
+- [The Designer's Dictionary of Type](https://www.abramsbooks.com/product/designers-dictionary-of-type_9781419737183/) ⭐️⭐️⭐️⭐️⭐️ S. Adams @Mar 6, 2023
 - [Мобилизованная нация](https://en.wikipedia.org/wiki/The_German_War) ⭐️⭐️⭐️⭐️ Н. Старгардт @Mar 11, 2023
 - [New York](https://www.readme.fi/kirja/new-york-tripsteri-matkaopas/) ⭐️⭐️⭐️⭐️ A. Haapasalo @Mar 18, 2023
 - [New York City](https://www.dk.com/uk/book/9780241417331-dk-eyewitness-new-york-city/) ⭐️⭐️⭐️ DK Eyewitness @Apr 02, 2023
@@ -218,3 +218,4 @@
 - [Alussa oli… Ihmiskunnan uusi historia](https://en.wikipedia.org/wiki/The_Dawn_of_Everything) D. Graeber, D. Wengrow
 - [Friends, Lovers, and the Big Terrible Thing: A Memoir](https://www.amazon.com/Friends-Lovers-Big-Terrible-Thing-ebook/dp/B09M1RPWWL) M. Perry
 - [New York : maailman paras shithole city](https://avain.net/tuoteryhma/tulossa/1875496?product=9789523043978) J. Frondelius
+- [The Designer's Dictionary of Color](https://www.abramsbooks.com/product/designers-dictionary-of-color_9781419723919/) S. Adams
