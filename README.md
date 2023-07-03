@@ -220,3 +220,4 @@
 - [Alussa oli… Ihmiskunnan uusi historia](https://en.wikipedia.org/wiki/The_Dawn_of_Everything) D. Graeber, D. Wengrow
 - [The Designer's Dictionary of Color](https://www.abramsbooks.com/product/designers-dictionary-of-color_9781419723919/) S. Adams
 - [Pyöräilyn lumo ja sen historia](https://aulakustannus.fi/kirjat/pyorailyn-lumo-ja-sen-historia) J. Rosen
+- [Designing Interfaces](https://www.oreilly.com/library/view/designing-interfaces-3rd/9781492051954/) J. Tidwell
