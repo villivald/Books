@@ -214,10 +214,10 @@
 - [Аполлон Безобразов](http://az.lib.ru/p/poplawskij_b_j/text_0080.shtml) ⭐️⭐️⭐️⭐️ Поплавский @Jun 20, 2023
 - [Friends, Lovers, and the Big Terrible Thing: A Memoir](https://www.amazon.com/Friends-Lovers-Big-Terrible-Thing-ebook/dp/B09M1RPWWL) ⭐️⭐️⭐️⭐️ M. Perry @Jun 26, 2023
 - [New York : maailman paras shithole city](https://avain.net/tuoteryhma/tulossa/1875496?product=9789523043978) ⭐️⭐️⭐️ J. Frondelius @Jun 26, 2023
+- [The Designer's Dictionary of Color](https://www.abramsbooks.com/product/designers-dictionary-of-color_9781419723919/) ⭐️⭐️⭐️⭐️⭐️ S. Adams @Jul 07, 2023
 
 ### In progress
 
 - [Alussa oli… Ihmiskunnan uusi historia](https://en.wikipedia.org/wiki/The_Dawn_of_Everything) D. Graeber, D. Wengrow
-- [The Designer's Dictionary of Color](https://www.abramsbooks.com/product/designers-dictionary-of-color_9781419723919/) S. Adams
 - [Pyöräilyn lumo ja sen historia](https://aulakustannus.fi/kirjat/pyorailyn-lumo-ja-sen-historia) J. Rosen
 - [Designing Interfaces](https://www.oreilly.com/library/view/designing-interfaces-3rd/9781492051954/) J. Tidwell
