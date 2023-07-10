@@ -212,15 +212,15 @@
 - [Лекарство для империи](https://www.litres.ru/book/boris-akunin/lekarstvo-dlya-imperii-istoriya-rossiyskogo-gosudarstva-car-o-64360732/) ⭐️⭐️⭐️⭐️ Акунин @Jun 11, 2023
 - [Беседы о русской культуре](https://arzamas.academy/special/lotman-lectures) ⭐️⭐️⭐️ Лотман @Jun 13, 2023
 - [Аполлон Безобразов](http://az.lib.ru/p/poplawskij_b_j/text_0080.shtml) ⭐️⭐️⭐️⭐️ Поплавский @Jun 20, 2023
-- [Friends, Lovers, and the Big Terrible Thing: A Memoir](https://www.amazon.com/Friends-Lovers-Big-Terrible-Thing-ebook/dp/B09M1RPWWL) ⭐️⭐️⭐️⭐️ M. Perry @Jun 26, 2023
+- [Friends, Lovers, and the Big Terrible Thing: A Memoir](https://www.amazon.com/Friends-Lovers-Big-Terrible-Thing-eubook/dp/B09M1RPWWL) ⭐️⭐️⭐️⭐️ M. Perry @Jun 26, 2023
 - [New York : maailman paras shithole city](https://avain.net/tuoteryhma/tulossa/1875496?product=9789523043978) ⭐️⭐️⭐️ J. Frondelius @Jun 26, 2023
 - [The Designer's Dictionary of Color](https://www.abramsbooks.com/product/designers-dictionary-of-color_9781419723919/) ⭐️⭐️⭐️⭐️⭐️ S. Adams @Jul 07, 2023
+- [Atomic Habits](https://jamesclear.com/atomic-habits) ⭐️⭐️⭐️ J. Clear @Jul 10, 2023
 
 ### In progress
 
 - [Alussa oli… Ihmiskunnan uusi historia](https://en.wikipedia.org/wiki/The_Dawn_of_Everything) D. Graeber, D. Wengrow
 - [Pyöräilyn lumo ja sen historia](https://aulakustannus.fi/kirjat/pyorailyn-lumo-ja-sen-historia) J. Rosen
 - [Designing Interfaces](https://www.oreilly.com/library/view/designing-interfaces-3rd/9781492051954/) J. Tidwell
-- [Atomic Habits](https://jamesclear.com/atomic-habits) J. Clear
 - [Velosaurus](https://www.penguin.com.au/books/boultings-velosaurus-9781473546455) N. Boulting
 - [The Monocle Travel Guide to New York](https://gestalten.com/products/monocle-travel-guide-new-york) Monocle
