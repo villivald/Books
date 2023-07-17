@@ -224,3 +224,4 @@
 - [Designing Interfaces](https://www.oreilly.com/library/view/designing-interfaces-3rd/9781492051954/) J. Tidwell
 - [Velosaurus](https://www.penguin.com.au/books/boultings-velosaurus-9781473546455) N. Boulting
 - [The Monocle Travel Guide to New York](https://gestalten.com/products/monocle-travel-guide-new-york) Monocle
+- [It's OK to Be Angry About Capitalism](https://en.wikipedia.org/wiki/It%27s_OK_to_Be_Angry_About_Capitalism) B. Sanders
