@@ -224,6 +224,7 @@
 - [Velosaurus](https://www.penguin.com.au/books/boultings-velosaurus-9781473546455) N. Boulting
 - [The Monocle Travel Guide to New York](https://gestalten.com/products/monocle-travel-guide-new-york) Monocle
 - [Design for Developers](https://www.manning.com/books/design-for-developers) S. Stimac
+- [Свои среди чужих](https://www.litres.ru/book/andrey-soldatov/svoi-sredi-chuzhih-politicheskie-emigranty-i-kreml-sootech-58102899/) А. Солдатов
 
 ### On hold
 
