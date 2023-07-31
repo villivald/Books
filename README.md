@@ -225,6 +225,8 @@
 ### In progress
 
 - [Design for Developers](https://www.manning.com/books/design-for-developers) S. Stimac
+- [Задача трёх тел](https://en.wikipedia.org/wiki/The_Three-Body_Problem_(novel)) Лю Цысинь
+- [Woke Up This Morning](https://www.amazon.com/Woke-Up-This-Morning-Definitive/dp/0063090023) Imperioli, Schirripa
 
 ### On hold
 
