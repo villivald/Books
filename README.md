@@ -221,11 +221,11 @@
 - [Velosaurus](https://www.penguin.com.au/books/boultings-velosaurus-9781473546455) ⭐️⭐️⭐️ N. Boulting @Jul 26, 2023
 - [Свои среди чужих](https://www.litres.ru/book/andrey-soldatov/svoi-sredi-chuzhih-politicheskie-emigranty-i-kreml-sootech-58102899/) ⭐️⭐️⭐️⭐️ А. Солдатов @Jul 30, 2023
 - [The Monocle Travel Guide to New York](https://gestalten.com/products/monocle-travel-guide-new-york) ⭐️⭐️⭐️⭐️ Monocle @Jul 30, 2023
+- [Задача трёх тел](https://en.wikipedia.org/wiki/The_Three-Body_Problem_(novel)) ⭐️⭐️⭐️⭐️ Лю Цысинь @Aug 03, 2023
 
 ### In progress
 
 - [Design for Developers](https://www.manning.com/books/design-for-developers) S. Stimac
-- [Задача трёх тел](https://en.wikipedia.org/wiki/The_Three-Body_Problem_(novel)) Лю Цысинь
 - [Woke Up This Morning](https://www.amazon.com/Woke-Up-This-Morning-Definitive/dp/0063090023) Imperioli, Schirripa
 
 ### On hold
