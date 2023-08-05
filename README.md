@@ -227,6 +227,7 @@
 
 - [Design for Developers](https://www.manning.com/books/design-for-developers) S. Stimac
 - [Woke Up This Morning](https://www.amazon.com/Woke-Up-This-Morning-Definitive/dp/0063090023) Imperioli, Schirripa
+- [Тёмный лес](https://en.wikipedia.org/wiki/The_Dark_Forest) Лю Цысинь
 
 ### On hold
 
