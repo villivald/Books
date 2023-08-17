@@ -222,12 +222,12 @@
 - [Свои среди чужих](https://www.litres.ru/book/andrey-soldatov/svoi-sredi-chuzhih-politicheskie-emigranty-i-kreml-sootech-58102899/) ⭐️⭐️⭐️⭐️ А. Солдатов @Jul 30, 2023
 - [The Monocle Travel Guide to New York](https://gestalten.com/products/monocle-travel-guide-new-york) ⭐️⭐️⭐️⭐️ Monocle @Jul 30, 2023
 - [Задача трёх тел](https://en.wikipedia.org/wiki/The_Three-Body_Problem_(novel)) ⭐️⭐️⭐️⭐️ Лю Цысинь @Aug 03, 2023
+- [Тёмный лес](https://en.wikipedia.org/wiki/The_Dark_Forest) ⭐️⭐️⭐️⭐️ Лю Цысинь @Aug 17, 2023
 
 ### In progress
 
 - [Design for Developers](https://www.manning.com/books/design-for-developers) S. Stimac
 - [Woke Up This Morning](https://www.amazon.com/Woke-Up-This-Morning-Definitive/dp/0063090023) Imperioli, Schirripa
-- [Тёмный лес](https://en.wikipedia.org/wiki/The_Dark_Forest) Лю Цысинь
 - [Harry Potter and the Philosopher's Stone](https://en.wikipedia.org/wiki/Harry_Potter_and_the_Philosopher%27s_Stone) J. Rowling
 
 ### On hold
