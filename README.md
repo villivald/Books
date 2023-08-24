@@ -224,11 +224,11 @@
 - [Задача трёх тел](https://en.wikipedia.org/wiki/The_Three-Body_Problem_(novel)) ⭐️⭐️⭐️⭐️ Лю Цысинь @Aug 03, 2023
 - [Тёмный лес](https://en.wikipedia.org/wiki/The_Dark_Forest) ⭐️⭐️⭐️⭐️ Лю Цысинь @Aug 17, 2023
 - [Harry Potter and the Philosopher's Stone](https://en.wikipedia.org/wiki/Harry_Potter_and_the_Philosopher%27s_Stone) ⭐️⭐️⭐️⭐️⭐️ J. Rowling @Aug 18, 2023
+- [Woke Up This Morning](https://www.amazon.com/Woke-Up-This-Morning-Definitive/dp/0063090023) ⭐️⭐️⭐️⭐️ Imperioli, Schirripa @Aug 22, 2023
 
 ### In progress
 
 - [Design for Developers](https://www.manning.com/books/design-for-developers) S. Stimac
-- [Woke Up This Morning](https://www.amazon.com/Woke-Up-This-Morning-Definitive/dp/0063090023) Imperioli, Schirripa
 - [Чумазое средневековье](https://www.labirint.ru/books/770633/) Е. Мишаненкова
 
 ### On hold
