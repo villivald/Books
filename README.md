@@ -232,6 +232,7 @@
 
 - [Design for Developers](https://www.manning.com/books/design-for-developers) S. Stimac
 - [The Joy of Basketball](https://www.abramsbooks.com/product/joy-of-basketball_9781419754821/) B. Detrick & A. Kuo
+- [Kahdeksan kuplan Suomi]() A. Kantola
 
 ### On hold
 
