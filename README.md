@@ -232,7 +232,8 @@
 
 - [Design for Developers](https://www.manning.com/books/design-for-developers) S. Stimac
 - [The Joy of Basketball](https://www.abramsbooks.com/product/joy-of-basketball_9781419754821/) B. Detrick & A. Kuo
-- [Kahdeksan kuplan Suomi]() A. Kantola
+- [Kahdeksan kuplan Suomi](https://www.gaudeamus.fi/teos/kahdeksan-kuplan-suomi/) A. Kantola
+- [После тяжёлой продолжительной болезни](https://www.litres.ru/book/boris-akunin/posle-tyazheloy-prodolzhitelnoy-bolezni-vremya-nikolaya-ii-66933693/) Акунин
 
 ### On hold
 
