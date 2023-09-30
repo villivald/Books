@@ -227,12 +227,12 @@
 - [Woke Up This Morning](https://www.amazon.com/Woke-Up-This-Morning-Definitive/dp/0063090023) ⭐️⭐️⭐️⭐️ Imperioli, Schirripa @Aug 22, 2023
 - [Чумазое средневековье](https://www.labirint.ru/books/770633/) ⭐️⭐️⭐️ Е. Мишаненкова @Sep 02, 2023
 - [Vaivan arvoista](https://fi.wikipedia.org/wiki/Vaivan_arvoista) ⭐️⭐️⭐️⭐️ Ville-Juhani Sutinen @Sep 19, 2023
+- [The Joy of Basketball](https://www.abramsbooks.com/product/joy-of-basketball_9781419754821/) ⭐️⭐️⭐️⭐️⭐️ B. Detrick & A. Kuo @Sep 30, 2023
+- [Kahdeksan kuplan Suomi](https://www.gaudeamus.fi/teos/kahdeksan-kuplan-suomi/) ⭐️⭐️⭐️⭐ A. Kantola @Sep 30, 2023
 
 ### In progress
 
 - [Design for Developers](https://www.manning.com/books/design-for-developers) S. Stimac
-- [The Joy of Basketball](https://www.abramsbooks.com/product/joy-of-basketball_9781419754821/) B. Detrick & A. Kuo
-- [Kahdeksan kuplan Suomi](https://www.gaudeamus.fi/teos/kahdeksan-kuplan-suomi/) A. Kantola
 - [После тяжёлой продолжительной болезни](https://www.litres.ru/book/boris-akunin/posle-tyazheloy-prodolzhitelnoy-bolezni-vremya-nikolaya-ii-66933693/) Акунин
 
 ### On hold
