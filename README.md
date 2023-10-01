@@ -234,6 +234,7 @@
 
 - [Design for Developers](https://www.manning.com/books/design-for-developers) S. Stimac
 - [После тяжёлой продолжительной болезни](https://www.litres.ru/book/boris-akunin/posle-tyazheloy-prodolzhitelnoy-bolezni-vremya-nikolaya-ii-66933693/) Акунин
+- [Просто Маса](https://ru.wikipedia.org/wiki/%D0%9F%D1%80%D0%BE%D1%81%D1%82%D0%BE_%D0%9C%D0%B0%D1%81%D0%B0) Акунин
 
 ### On hold
 
