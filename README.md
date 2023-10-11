@@ -236,6 +236,7 @@
 
 - [Design for Developers](https://www.manning.com/books/design-for-developers) S. Stimac
 - [Зоопарк в твоей голове](https://www.labirint.ru/books/901750/) Лабковский
+- [War and Punishment](https://www.simonandschuster.com/books/War-and-Punishment/Mikhail-Zygar/9781668013724) M. Zygar
 
 ### On hold
 
