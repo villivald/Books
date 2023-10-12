@@ -232,7 +232,7 @@
 - [Просто Маса](https://ru.wikipedia.org/wiki/%D0%9F%D1%80%D0%BE%D1%81%D1%82%D0%BE_%D0%9C%D0%B0%D1%81%D0%B0) ⭐️⭐️⭐️⭐ Акунин @Oct 04, 2023
 - [После тяжёлой продолжительной болезни](https://www.litres.ru/book/boris-akunin/posle-tyazheloy-prodolzhitelnoy-bolezni-vremya-nikolaya-ii-66933693/) ⭐️⭐️⭐️⭐ Акунин @Oct 10, 2023
 - [Зоопарк в твоей голове](https://www.labirint.ru/books/901750/) ⭐️⭐️ Лабковский @Oct 12, 2023
-- 
+
 ### In progress
 
 - [Design for Developers](https://www.manning.com/books/design-for-developers) S. Stimac
