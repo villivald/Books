@@ -237,4 +237,6 @@
 ### In progress
 
 - [Design for Developers](https://www.manning.com/books/design-for-developers) S. Stimac
-- [Israel: A Concise History of a Nation Reborn](https://www.amazon.com/Israel-Concise-History-Nation-Reborn/dp/0062368745) D. Gordis 
+- [Israel: A Concise History of a Nation Reborn](https://www.amazon.com/Israel-Concise-History-Nation-Reborn/dp/0062368745) D. Gordis
+- [Harry Potter and the Chamber of Secrets](https://en.wikipedia.org/wiki/Harry_Potter_and_the_Chamber_of_Secrets) J. Rowling
+- [The Unicorn Project](https://itrevolution.com/product/the-unicorn-project/) G. Kim
