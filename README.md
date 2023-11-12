@@ -233,11 +233,11 @@
 - [После тяжёлой продолжительной болезни](https://www.litres.ru/book/boris-akunin/posle-tyazheloy-prodolzhitelnoy-bolezni-vremya-nikolaya-ii-66933693/) ⭐️⭐️⭐️⭐ Акунин @Oct 10, 2023
 - [Зоопарк в твоей голове](https://www.labirint.ru/books/901750/) ⭐️⭐️ Лабковский @Oct 12, 2023
 - [War and Punishment](https://www.simonandschuster.com/books/War-and-Punishment/Mikhail-Zygar/9781668013724) ⭐️⭐️⭐️⭐️⭐️ M. Zygar @Oct 29, 2023
-- [Design for Developers](https://www.manning.com/books/design-for-developers) ⭐️⭐️⭐️ S. Stimac @Nov 26, 2023
-
+- [Design for Developers](https://www.manning.com/books/design-for-developers) ⭐️⭐️⭐️ S. Stimac @Nov 06, 2023
+- [1923: The Mystery of Lot 212 and a Tour de France Obsession](https://www.cyclist.co.uk/reviews/1923-ned-boulting-book-review) ⭐️⭐️⭐️ N. Boulting @Nov 12, 2023
+  
 ### In progress
 
 - [Israel: A Concise History of a Nation Reborn](https://www.amazon.com/Israel-Concise-History-Nation-Reborn/dp/0062368745) D. Gordis
 - [Harry Potter and the Chamber of Secrets](https://en.wikipedia.org/wiki/Harry_Potter_and_the_Chamber_of_Secrets) J. Rowling
 - [The Unicorn Project](https://itrevolution.com/product/the-unicorn-project/) G. Kim
-- [1923: The Mystery of Lot 212 and a Tour de France Obsession](https://www.cyclist.co.uk/reviews/1923-ned-boulting-book-review) N. Boulting
