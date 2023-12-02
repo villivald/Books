@@ -237,6 +237,7 @@
 - [1923: The Mystery of Lot 212 and a Tour de France Obsession](https://www.cyclist.co.uk/reviews/1923-ned-boulting-book-review) ⭐️⭐️⭐️ N. Boulting @Nov 12, 2023
 - [Harry Potter and the Chamber of Secrets](https://en.wikipedia.org/wiki/Harry_Potter_and_the_Chamber_of_Secrets) ⭐️⭐️⭐️⭐️⭐️ J. Rowling @Nov 15, 2023
 - [Яма](https://ru.wikipedia.org/wiki/%D0%AF%D0%BC%D0%B0_(%D1%80%D0%BE%D0%BC%D0%B0%D0%BD)) ⭐️⭐️⭐️⭐️ Акунин @Nov 21, 2023
+- [Basketball (and Other Things)](https://en.wikipedia.org/wiki/Basketball_(and_Other_Things)) ⭐️⭐️⭐️ S. Serrano @Dec 01, 2023
 
 ### In progress
 
