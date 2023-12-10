@@ -238,10 +238,10 @@
 - [Harry Potter and the Chamber of Secrets](https://en.wikipedia.org/wiki/Harry_Potter_and_the_Chamber_of_Secrets) ⭐️⭐️⭐️⭐️⭐️ J. Rowling @Nov 15, 2023
 - [Яма](https://ru.wikipedia.org/wiki/%D0%AF%D0%BC%D0%B0_(%D1%80%D0%BE%D0%BC%D0%B0%D0%BD)) ⭐️⭐️⭐️⭐️ Акунин @Nov 21, 2023
 - [Basketball (and Other Things)](https://en.wikipedia.org/wiki/Basketball_(and_Other_Things)) ⭐️⭐️⭐️ S. Serrano @Dec 01, 2023
+- [Israel: A Concise History of a Nation Reborn](https://www.amazon.com/Israel-Concise-History-Nation-Reborn/dp/0062368745) ⭐️⭐️⭐️ D. Gordis @Dec 10, 2023
 
 ### In progress
 
-- [Israel: A Concise History of a Nation Reborn](https://www.amazon.com/Israel-Concise-History-Nation-Reborn/dp/0062368745) D. Gordis
 - [The Unicorn Project](https://itrevolution.com/product/the-unicorn-project/) G. Kim
 - [Cyclopedia](https://road.cc/content/review/28417-william-fotheringham-cyclopedia) W. Fotheringham
 - [The Big Book of Perfume](https://www.nez-editions.us/products/the-big-book-of-perfume) J. Doré
