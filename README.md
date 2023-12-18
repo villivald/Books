@@ -245,3 +245,4 @@
 
 - [The Unicorn Project](https://itrevolution.com/product/the-unicorn-project/) G. Kim
 - [Cyclopedia](https://road.cc/content/review/28417-william-fotheringham-cyclopedia) W. Fotheringham
+- [К северу от 38-й параллели](https://www.amazon.com/%D1%81%D0%B5%D0%B2%D0%B5%D1%80%D1%83-%D0%BE%D1%82-38-%D0%B9-%D0%BF%D0%B0%D1%80%D0%B0%D0%BB%D0%BB%D0%B5%D0%BB%D0%B8-Russian-ebook/dp/B087N23HHR) Ланьков
