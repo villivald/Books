@@ -246,3 +246,4 @@
 ### In progress
 
 - [The Unicorn Project](https://itrevolution.com/product/the-unicorn-project/) G. Kim
+- [The Design of Everyday Things](https://en.wikipedia.org/wiki/The_Design_of_Everyday_Things) D. Norman
