@@ -247,3 +247,4 @@
 
 - [The Unicorn Project](https://itrevolution.com/product/the-unicorn-project/) G. Kim
 - [The Design of Everyday Things](https://en.wikipedia.org/wiki/The_Design_of_Everyday_Things) D. Norman
+- [Science: The Definitive Visual Guide](https://www.dk.com/us/book/9781465454201-science/) A. Hart-Davis
