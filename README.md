@@ -246,9 +246,9 @@
 ### 2024
 
 - [The Unicorn Project](https://itrevolution.com/product/the-unicorn-project/) ⭐️⭐️⭐️⭐️ G. Kim @Jan 06, 2024
+- [Huuhaa-Suomen historia](https://kirjat.finlit.fi/sivu/tuote/huuhaa-suomen-historia/4169903) ⭐️⭐️⭐️ V. Sisättö @Jan 08, 2024
 
 ### In progress
 
 - [The Design of Everyday Things](https://en.wikipedia.org/wiki/The_Design_of_Everyday_Things) D. Norman
 - [Science: The Definitive Visual Guide](https://www.dk.com/us/book/9781465454201-science/) A. Hart-Davis
-- [Huuhaa-Suomen historia](https://kirjat.finlit.fi/sivu/tuote/huuhaa-suomen-historia/4169903) V. Sisättö
