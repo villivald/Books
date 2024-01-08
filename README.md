@@ -252,3 +252,4 @@
 
 - [The Design of Everyday Things](https://en.wikipedia.org/wiki/The_Design_of_Everyday_Things) D. Norman
 - [Science: The Definitive Visual Guide](https://www.dk.com/us/book/9781465454201-science/) A. Hart-Davis
+- [Sota vai rauha](https://www.wsoy.fi/kirja/mihail-shishkin/sota-vai-rauha/9789510491850) M. Šiškin
