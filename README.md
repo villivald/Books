@@ -253,3 +253,4 @@
 
 - [Science: The Definitive Visual Guide](https://www.dk.com/us/book/9781465454201-science/) A. Hart-Davis
 - [Sota vai rauha](https://www.wsoy.fi/kirja/mihail-shishkin/sota-vai-rauha/9789510491850) M. Šiškin
+- [Graphic Design Bible](https://www.theoinglis.co.uk/GDB) T. Inglis
