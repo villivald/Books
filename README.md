@@ -250,11 +250,11 @@
 - [The Design of Everyday Things](https://en.wikipedia.org/wiki/The_Design_of_Everyday_Things) ⭐️⭐️⭐️⭐️⭐️ D. Norman @Jan 14, 2024
 - [Он уходя спросил](https://www.litres.ru/book/boris-akunin/on-uhodya-sprosil-67722378/) ⭐️⭐️⭐️⭐️ Акунин @Jan 23, 2024
 - [Утопия](https://en.wikipedia.org/wiki/Utopia_(More_book)) ⭐️⭐️⭐️ Т. Мор @Jan 26, 2024
+- [Graphic Design Bible](https://www.theoinglis.co.uk/GDB) ⭐️⭐️⭐️⭐️ T. Inglis @Feb 08, 2024
 
 ### In progress
 
 - [Science: The Definitive Visual Guide](https://www.dk.com/us/book/9781465454201-science/) A. Hart-Davis
 - [Sota vai rauha](https://www.wsoy.fi/kirja/mihail-shishkin/sota-vai-rauha/9789510491850) M. Šiškin
-- [Graphic Design Bible](https://www.theoinglis.co.uk/GDB) T. Inglis
 - [I Love Russia](https://time.com/collection/must-read-books-2023/6332706/i-love-russia/) E. Kostyuchenko
 - [Другая Россия](https://nplus1.ru/blog/2022/09/08/other-russia) О. Будницкий
