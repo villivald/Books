@@ -258,3 +258,4 @@
 - [Sota vai rauha](https://www.wsoy.fi/kirja/mihail-shishkin/sota-vai-rauha/9789510491850) M. Šiškin
 - [I Love Russia](https://time.com/collection/must-read-books-2023/6332706/i-love-russia/) E. Kostyuchenko
 - [Другая Россия](https://nplus1.ru/blog/2022/09/08/other-russia) О. Будницкий
+- [Making and Breaking the Grid](https://www.oreilly.com/library/view/making-and-breaking/9780760381946/) T. Samara
