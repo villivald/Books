@@ -252,11 +252,11 @@
 - [Утопия](https://en.wikipedia.org/wiki/Utopia_(More_book)) ⭐️⭐️⭐️ Т. Мор @Jan 26, 2024
 - [Graphic Design Bible](https://www.theoinglis.co.uk/GDB) ⭐️⭐️⭐️⭐️ T. Inglis @Feb 08, 2024
 - [I Love Russia](https://time.com/collection/must-read-books-2023/6332706/i-love-russia/) ⭐️⭐️⭐️⭐️ E. Kostyuchenko @Feb 13, 2024
+- [Другая Россия](https://nplus1.ru/blog/2022/09/08/other-russia) ⭐️⭐️⭐️⭐️ О. Будницкий @Mar 03, 2024
 
 ### In progress
 
 - [Science: The Definitive Visual Guide](https://www.dk.com/us/book/9781465454201-science/) A. Hart-Davis
 - [Sota vai rauha](https://www.wsoy.fi/kirja/mihail-shishkin/sota-vai-rauha/9789510491850) M. Šiškin
-- [Другая Россия](https://nplus1.ru/blog/2022/09/08/other-russia) О. Будницкий
 - [Making and Breaking the Grid](https://www.oreilly.com/library/view/making-and-breaking/9780760381946/) T. Samara
 - [Очерки русской смуты](https://ru.wikipedia.org/wiki/%D0%9E%D1%87%D0%B5%D1%80%D0%BA%D0%B8_%D1%80%D1%83%D1%81%D1%81%D0%BA%D0%BE%D0%B9_%D1%81%D0%BC%D1%83%D1%82%D1%8B) Деникин
