@@ -260,3 +260,5 @@
 - [Sota vai rauha](https://www.wsoy.fi/kirja/mihail-shishkin/sota-vai-rauha/9789510491850) M. Šiškin
 - [Making and Breaking the Grid](https://www.oreilly.com/library/view/making-and-breaking/9780760381946/) T. Samara
 - [Очерки русской смуты](https://ru.wikipedia.org/wiki/%D0%9E%D1%87%D0%B5%D1%80%D0%BA%D0%B8_%D1%80%D1%83%D1%81%D1%81%D0%BA%D0%BE%D0%B9_%D1%81%D0%BC%D1%83%D1%82%D1%8B) Деникин
+- [After the Romanovs](https://www.washingtonpost.com/outlook/2022/03/25/how-russian-emigres-scratched-out-living-once-they-lost-their-world-luxury/) H. Rappaport
+- [Страна имен](https://inde.io/article/28908-ulitsy-vysotskogo-esenina-tsoya-a-ryadom-vesennyaya-shkolnaya-zvonkaya-otryvok-iz-knigi-strana-imen) С. Никитин
