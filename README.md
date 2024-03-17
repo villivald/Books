@@ -256,6 +256,7 @@
 - [Страна имен](https://inde.io/article/28908-ulitsy-vysotskogo-esenina-tsoya-a-ryadom-vesennyaya-shkolnaya-zvonkaya-otryvok-iz-knigi-strana-imen) ⭐️⭐️⭐️ С. Никитин @Mar 07, 2024
 - [Sota vai rauha](https://www.wsoy.fi/kirja/mihail-shishkin/sota-vai-rauha/9789510491850) ⭐️⭐️⭐️⭐️ M. Šiškin @Mar 14, 2024
 - [After the Romanovs](https://www.washingtonpost.com/outlook/2022/03/25/how-russian-emigres-scratched-out-living-once-they-lost-their-world-luxury/) ⭐️⭐️⭐️⭐️ H. Rappaport @Mar 14, 2024
+- [Jäniksen vuosi](https://en.wikipedia.org/wiki/The_Year_of_the_Hare_(novel)) ⭐️⭐️⭐️⭐️ A. Paasilinna @Mar 17, 2024
   
 ### In progress
 
