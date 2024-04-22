@@ -259,6 +259,7 @@
 - [Jäniksen vuosi](https://en.wikipedia.org/wiki/The_Year_of_the_Hare_(novel)) ⭐️⭐️⭐️⭐️ A. Paasilinna @Mar 17, 2024
 - [Making and Breaking the Grid](https://www.oreilly.com/library/view/making-and-breaking/9780760381946/) ⭐️⭐️⭐️⭐️ T. Samara @Mar 29, 2024
 - [Naisvangit](https://www.siltalapublishing.fi/product/naisvangit/) ⭐️⭐️ S. Saarikoski @Mar 30, 2024
+- [Suomen tasavallan presidentit](https://www.tammi.fi/kirja/juhani-suomi/suomen-tasavallan-presidentit-1919-2023/9789520453817) ⭐️⭐️⭐️⭐️ J. Suomi @Apr 22, 2024
 
 ### In progress
 
@@ -266,4 +267,4 @@
 - [Eurooppa: poliittisen yhteisön historia](https://www.teos.fi/Eurooppa) T. Miettinen
 - [Design: The Definitive Visual History](https://www.dk.com/uk/book/9780241185650-design/) DK
 - [Не убоюсь зла](https://en.wikipedia.org/wiki/Fear_No_Evil_(book)) Н. Щаранский
-- [Suomen tasavallan presidentit](https://www.tammi.fi/kirja/juhani-suomi/suomen-tasavallan-presidentit-1919-2023/9789520453817) J. Suomi
+- [Perinnönjako](https://www.suomalainen.com/products/perinnonjako-2) M. Valkama
