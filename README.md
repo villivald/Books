@@ -261,12 +261,11 @@
 - [Naisvangit](https://www.siltalapublishing.fi/product/naisvangit/) ⭐️⭐️ S. Saarikoski @Mar 30, 2024
 - [Suomen tasavallan presidentit](https://www.tammi.fi/kirja/juhani-suomi/suomen-tasavallan-presidentit-1919-2023/9789520453817) ⭐️⭐️⭐️⭐️ J. Suomi @Apr 22, 2024
 - [Не убоюсь зла](https://en.wikipedia.org/wiki/Fear_No_Evil_(book)) ⭐️⭐️⭐️⭐️⭐️ Н. Щаранский @Apr 29, 2024
-- [Perinnönjako](https://www.suomalainen.com/products/perinnonjako-2) ⭐️⭐️ M. Valkama @Maн 02, 2024
+- [Perinnönjako](https://www.suomalainen.com/products/perinnonjako-2) ⭐️⭐️ M. Valkama @May 02, 2024
+- [Mimmit sijoittaa - Sijoitusopas](https://gummerus.fi/products/mimmit-sijoittaa-sijoitusopas) ⭐️⭐️⭐️ E. Lestinen @May 19, 2024
 
 ### In progress
 
-- [Очерки русской смуты](https://ru.wikipedia.org/wiki/%D0%9E%D1%87%D0%B5%D1%80%D0%BA%D0%B8_%D1%80%D1%83%D1%81%D1%81%D0%BA%D0%BE%D0%B9_%D1%81%D0%BC%D1%83%D1%82%D1%8B) Деникин
 - [Eurooppa: poliittisen yhteisön historia](https://www.teos.fi/Eurooppa) T. Miettinen
 - [Design: The Definitive Visual History](https://www.dk.com/uk/book/9780241185650-design/) DK
 - [Leonardo, Frida and the Others](https://prestelpublishing.penguinrandomhouse.de/book/Leonardo-Frida-and-the-Others/Camille-Jouneaux/Prestel-com/e621930.rhd) C. Jouneaux
-- [Mimmit sijoittaa - Sijoitusopas](https://gummerus.fi/products/mimmit-sijoittaa-sijoitusopas) E. Lestinen
