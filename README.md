@@ -263,6 +263,7 @@
 - [Не убоюсь зла](https://en.wikipedia.org/wiki/Fear_No_Evil_(book)) ⭐️⭐️⭐️⭐️⭐️ Н. Щаранский @Apr 29, 2024
 - [Perinnönjako](https://www.suomalainen.com/products/perinnonjako-2) ⭐️⭐️ M. Valkama @May 02, 2024
 - [Mimmit sijoittaa - Sijoitusopas](https://gummerus.fi/products/mimmit-sijoittaa-sijoitusopas) ⭐️⭐️⭐️ E. Lestinen @May 19, 2024
+- [Luovuus ja olemisen taito](https://sites.prh.com/thecreativeact) ⭐️⭐️ R. Rubin @May 27, 2024
 
 ### In progress
 
