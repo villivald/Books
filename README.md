@@ -271,3 +271,5 @@
 - [Eurooppa: poliittisen yhteisön historia](https://www.teos.fi/Eurooppa) T. Miettinen
 - [Design: The Definitive Visual History](https://www.dk.com/uk/book/9780241185650-design/) DK
 - [Leonardo, Frida and the Others](https://prestelpublishing.penguinrandomhouse.de/book/Leonardo-Frida-and-the-Others/Camille-Jouneaux/Prestel-com/e621930.rhd) C. Jouneaux
+- [Riding With The Rocketmen](https://road.cc/content/review/riding-rocketmen-301771) J. Witts
+- [Fluent React](https://www.oreilly.com/library/view/fluent-react/9781098138707/) T. Kumar
