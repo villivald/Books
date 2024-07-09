@@ -267,11 +267,11 @@
 - [Kapitalismin suuri illuusio](https://intokustannus.fi/kirja/kapitalismin-suuri-illuusio/) ⭐️⭐️⭐️⭐️ R. Tanskanen @Jun 03, 2024
 - [Riding With The Rocketmen](https://road.cc/content/review/riding-rocketmen-301771) ⭐️⭐️⭐️⭐️ J. Witts @Jun 22, 2024
 - [Ледяной поход](https://www.prlib.ru/item/716839) ⭐️⭐️⭐️⭐️ Р. Гуль @Jun 27, 2024
-
+- [Тело Папы](https://press.uchicago.edu/ucp/books/book/chicago/P/bo3631422.html) ⭐️⭐️⭐️ А. Паравичини-Бальяни @Jul 07, 2024
+  
 ### In progress
 
 - [Eurooppa: poliittisen yhteisön historia](https://www.teos.fi/Eurooppa) T. Miettinen
 - [Design: The Definitive Visual History](https://www.dk.com/uk/book/9780241185650-design/) DK
 - [Leonardo, Frida and the Others](https://prestelpublishing.penguinrandomhouse.de/book/Leonardo-Frida-and-the-Others/Camille-Jouneaux/Prestel-com/e621930.rhd) C. Jouneaux
 - [Fluent React](https://www.oreilly.com/library/view/fluent-react/9781098138707/) T. Kumar
-- [Тело Папы](https://press.uchicago.edu/ucp/books/book/chicago/P/bo3631422.html) А. Паравичини-Бальяни
