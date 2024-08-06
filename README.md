@@ -274,7 +274,7 @@
 
 ### In progress
 
-- [Eurooppa: poliittisen yhteisön historia](https://www.teos.fi/Eurooppa) T. Miettinen
-- [Design: The Definitive Visual History](https://www.dk.com/uk/book/9780241185650-design/) DK
 - [Fluent React](https://www.oreilly.com/library/view/fluent-react/9781098138707/) T. Kumar
-- [The Sopranos Sessions](https://www.abramsbooks.com/product/sopranos-sessions_9781419742835/) Alan Sepinwall
+- [The Sopranos Sessions](https://www.abramsbooks.com/product/sopranos-sessions_9781419742835/) A. Sepinwall
+- [French Revolutions: Cycling the Tour de France](https://www.goodreads.com/book/show/72455.French_Revolutions) T. Moore
+- [Tomorrow, and Tomorrow, and Tomorrow](https://en.wikipedia.org/wiki/Tomorrow,_and_Tomorrow,_and_Tomorrow) G. Zevin
