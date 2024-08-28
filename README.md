@@ -272,6 +272,7 @@
 - [Kahvivallankumous](https://like.fi/kirjat/kahvivallankumous/) ⭐️⭐️⭐️⭐️ L.Salomaa @Jul 27, 2024
 - [Leonardo, Frida and the Others](https://prestelpublishing.penguinrandomhouse.de/book/Leonardo-Frida-and-the-Others/Camille-Jouneaux/Prestel-com/e621930.rhd) ⭐️⭐️⭐️⭐️⭐️ C. Jouneaux @Jul 27, 2024
 - [Tomorrow, and Tomorrow, and Tomorrow](https://en.wikipedia.org/wiki/Tomorrow,_and_Tomorrow,_and_Tomorrow) ⭐️⭐️⭐️⭐️ G. Zevin @Aug 09, 2024
+- [Страдающее Средневековье](https://www.labirint.ru/books/780397/) ⭐️⭐️⭐️ Харман, Майзульс, Зотов @Aug 28, 2024
 
 ### In progress
 
