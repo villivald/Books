@@ -279,3 +279,5 @@
 - [Fluent React](https://www.oreilly.com/library/view/fluent-react/9781098138707/) T. Kumar
 - [The Sopranos Sessions](https://www.abramsbooks.com/product/sopranos-sessions_9781419742835/) A. Sepinwall
 - [French Revolutions: Cycling the Tour de France](https://www.goodreads.com/book/show/72455.French_Revolutions) T. Moore
+- [Työn historia](https://www.goodreads.com/book/show/54550359-work) J. Suzman
+- [Наш бизнес — смерть](https://meduza.io/feature/2024/03/15/v-aprele-v-izdatelstve-meduzy-vyhodit-kniga-nash-biznes-smert-ona-rasskazyvayut-polnuyu-istoriyu-chvk-vagner) Барабанов, Коротков
