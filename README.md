@@ -273,11 +273,11 @@
 - [Leonardo, Frida and the Others](https://prestelpublishing.penguinrandomhouse.de/book/Leonardo-Frida-and-the-Others/Camille-Jouneaux/Prestel-com/e621930.rhd) ⭐️⭐️⭐️⭐️⭐️ C. Jouneaux @Jul 27, 2024
 - [Tomorrow, and Tomorrow, and Tomorrow](https://en.wikipedia.org/wiki/Tomorrow,_and_Tomorrow,_and_Tomorrow) ⭐️⭐️⭐️⭐️ G. Zevin @Aug 09, 2024
 - [Страдающее Средневековье](https://www.labirint.ru/books/780397/) ⭐️⭐️⭐️ Харман, Майзульс, Зотов @Aug 28, 2024
+- [Työn historia](https://www.goodreads.com/book/show/54550359-work) ⭐️⭐️⭐️ J. Suzman @Sep 15, 2024
+- [Наш бизнес — смерть](https://meduza.io/feature/2024/03/15/v-aprele-v-izdatelstve-meduzy-vyhodit-kniga-nash-biznes-smert-ona-rasskazyvayut-polnuyu-istoriyu-chvk-vagner) ⭐️⭐️⭐️⭐️ Барабанов, Коротков @Aug Sep, 2024
 
 ### In progress
 
 - [Fluent React](https://www.oreilly.com/library/view/fluent-react/9781098138707/) T. Kumar
 - [The Sopranos Sessions](https://www.abramsbooks.com/product/sopranos-sessions_9781419742835/) A. Sepinwall
 - [French Revolutions: Cycling the Tour de France](https://www.goodreads.com/book/show/72455.French_Revolutions) T. Moore
-- [Työn historia](https://www.goodreads.com/book/show/54550359-work) J. Suzman
-- [Наш бизнес — смерть](https://meduza.io/feature/2024/03/15/v-aprele-v-izdatelstve-meduzy-vyhodit-kniga-nash-biznes-smert-ona-rasskazyvayut-polnuyu-istoriyu-chvk-vagner) Барабанов, Коротков
