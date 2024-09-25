@@ -281,3 +281,5 @@
 - [Fluent React](https://www.oreilly.com/library/view/fluent-react/9781098138707/) T. Kumar
 - [The Sopranos Sessions](https://www.abramsbooks.com/product/sopranos-sessions_9781419742835/) A. Sepinwall
 - [French Revolutions: Cycling the Tour de France](https://www.goodreads.com/book/show/72455.French_Revolutions) T. Moore
+- [Человек без свойств](https://en.wikipedia.org/wiki/The_Man_Without_Qualities) Музиль
+- [Не только кимчхи](https://www.litres.ru/book/andrey-nikolaevich-l/ne-tolko-kimchhi-istoriya-kultura-i-povsednevnaya-zhi-70602292/) Ланьков
