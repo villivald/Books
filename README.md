@@ -274,8 +274,8 @@
 - [Tomorrow, and Tomorrow, and Tomorrow](https://en.wikipedia.org/wiki/Tomorrow,_and_Tomorrow,_and_Tomorrow) ⭐️⭐️⭐️⭐️ G. Zevin @Aug 09, 2024
 - [Страдающее Средневековье](https://www.labirint.ru/books/780397/) ⭐️⭐️⭐️ Харман, Майзульс, Зотов @Aug 28, 2024
 - [Työn historia](https://www.goodreads.com/book/show/54550359-work) ⭐️⭐️⭐️ J. Suzman @Sep 15, 2024
-- [Наш бизнес — смерть](https://meduza.io/feature/2024/03/15/v-aprele-v-izdatelstve-meduzy-vyhodit-kniga-nash-biznes-smert-ona-rasskazyvayut-polnuyu-istoriyu-chvk-vagner) ⭐️⭐️⭐️⭐️ Барабанов, Коротков @Sep, 2024
-- [Не только кимчхи](https://www.litres.ru/book/andrey-nikolaevich-l/ne-tolko-kimchhi-istoriya-kultura-i-povsednevnaya-zhi-70602292/) ⭐️⭐️⭐️⭐️⭐️ Ланьков @Oct, 2024
+- [Наш бизнес — смерть](https://meduza.io/feature/2024/03/15/v-aprele-v-izdatelstve-meduzy-vyhodit-kniga-nash-biznes-smert-ona-rasskazyvayut-polnuyu-istoriyu-chvk-vagner) ⭐️⭐️⭐️⭐️ Барабанов, Коротков @Sep 17, 2024
+- [Не только кимчхи](https://www.litres.ru/book/andrey-nikolaevich-l/ne-tolko-kimchhi-istoriya-kultura-i-povsednevnaya-zhi-70602292/) ⭐️⭐️⭐️⭐️⭐️ Ланьков @Oct 16, 2024
   
 ### In progress
 
