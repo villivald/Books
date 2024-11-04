@@ -276,7 +276,7 @@
 - [Työn historia](https://www.goodreads.com/book/show/54550359-work) ⭐️⭐️⭐️ J. Suzman @Sep 15, 2024
 - [Наш бизнес — смерть](https://meduza.io/feature/2024/03/15/v-aprele-v-izdatelstve-meduzy-vyhodit-kniga-nash-biznes-smert-ona-rasskazyvayut-polnuyu-istoriyu-chvk-vagner) ⭐️⭐️⭐️⭐️ Барабанов, Коротков @Sep 17, 2024
 - [Не только кимчхи](https://www.litres.ru/book/andrey-nikolaevich-l/ne-tolko-kimchhi-istoriya-kultura-i-povsednevnaya-zhi-70602292/) ⭐️⭐️⭐️⭐️⭐️ Ланьков @Oct 16, 2024
-- [French Revolutions: Cycling the Tour de France](https://www.goodreads.com/book/show/72455.French_Revolutions) ⭐️⭐️⭐️⭐️ T. Moore @Nov 16, 2024
+- [French Revolutions: Cycling the Tour de France](https://www.goodreads.com/book/show/72455.French_Revolutions) ⭐️⭐️⭐️⭐️ T. Moore @Nov 04, 2024
 
 ### In progress
 
