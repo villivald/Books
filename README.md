@@ -284,3 +284,4 @@
 - [Fluent React](https://www.oreilly.com/library/view/fluent-react/9781098138707/) T. Kumar
 - [The Sopranos Sessions](https://www.abramsbooks.com/product/sopranos-sessions_9781419742835/) A. Sepinwall
 - [Человек без свойств](https://en.wikipedia.org/wiki/The_Man_Without_Qualities) Музиль
+- [Patriootti](https://en.wikipedia.org/wiki/Patriot_(book)) Navalnyi
