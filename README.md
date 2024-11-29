@@ -279,10 +279,11 @@
 - [French Revolutions: Cycling the Tour de France](https://www.goodreads.com/book/show/72455.French_Revolutions) ⭐️⭐️⭐️⭐️ T. Moore @Nov 04, 2024
 - [Ничего хорошего](https://bukinist.de/bookpod/ru/biografii-memuary-publicistika/373597-nichego-khoroshego-ot-nachala-vojny-do-pokhoron-navalnogo-9783689590000.html) ⭐️⭐️⭐️⭐️ Кашин @Nov 15, 2024
 - [Человек без свойств](https://en.wikipedia.org/wiki/The_Man_Without_Qualities) ⭐️⭐️⭐️⭐️ Музиль @Nov 24, 2024
+- [Приморские партизаны](https://foxbooks.ag/books/sovremennaya-proza/primorskie-partizany-57541) ⭐️⭐️⭐️⭐️ Кашин @Nov 29, 2024
 
 ### In progress
 
 - [Fluent React](https://www.oreilly.com/library/view/fluent-react/9781098138707/) T. Kumar
 - [The Sopranos Sessions](https://www.abramsbooks.com/product/sopranos-sessions_9781419742835/) A. Sepinwall
 - [Patriootti](https://en.wikipedia.org/wiki/Patriot_(book)) Navalnyi
-- [Приморские партизаны](https://foxbooks.ag/books/sovremennaya-proza/primorskie-partizany-57541) Кашин
+- [The Sleepwalkers](https://en.m.wikipedia.org/wiki/The_Sleepwalkers:_How_Europe_Went_to_War_in_1914) C. Clark
