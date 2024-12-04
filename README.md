@@ -287,3 +287,5 @@
 - [The Sopranos Sessions](https://www.abramsbooks.com/product/sopranos-sessions_9781419742835/) A. Sepinwall
 - [Patriootti](https://en.wikipedia.org/wiki/Patriot_(book)) Navalnyi
 - [The Sleepwalkers](https://en.m.wikipedia.org/wiki/The_Sleepwalkers:_How_Europe_Went_to_War_in_1914) C. Clark
+- [Факультет ненужных вещей](https://en.wikipedia.org/wiki/The_Faculty_of_Useless_Knowledge) Домбровский
+- [The Secret Lives of Colour](https://en.wikipedia.org/wiki/The_Secret_Lives_of_Colour) St. Clair
