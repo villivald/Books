@@ -280,11 +280,11 @@
 - [Ничего хорошего](https://bukinist.de/bookpod/ru/biografii-memuary-publicistika/373597-nichego-khoroshego-ot-nachala-vojny-do-pokhoron-navalnogo-9783689590000.html) ⭐️⭐️⭐️⭐️ Кашин @Nov 15, 2024
 - [Человек без свойств](https://en.wikipedia.org/wiki/The_Man_Without_Qualities) ⭐️⭐️⭐️⭐️ Музиль @Nov 24, 2024
 - [Приморские партизаны](https://foxbooks.ag/books/sovremennaya-proza/primorskie-partizany-57541) ⭐️⭐️⭐️⭐️ Кашин @Nov 29, 2024
-- [Факультет ненужных вещей](https://en.wikipedia.org/wiki/The_Faculty_of_Useless_Knowledge) ⭐️⭐️⭐️⭐️ Домбровский @Nov 22, 2024
+- [Факультет ненужных вещей](https://en.wikipedia.org/wiki/The_Faculty_of_Useless_Knowledge) ⭐️⭐️⭐️⭐️ Домбровский @Dec 22, 2024
+- [Evgenia Ivanovna](https://www.goodreads.com/book/show/16006033-evgenia-ivanovna) ⭐️⭐️⭐️⭐️ Леонов @Dec 23, 2024
 
 ### In progress
 
-- [Fluent React](https://www.oreilly.com/library/view/fluent-react/9781098138707/) T. Kumar
 - [The Sopranos Sessions](https://www.abramsbooks.com/product/sopranos-sessions_9781419742835/) A. Sepinwall
 - [Patriootti](https://en.wikipedia.org/wiki/Patriot_(book)) Navalnyi
 - [The Secret Lives of Colour](https://en.wikipedia.org/wiki/The_Secret_Lives_of_Colour) St. Clair
