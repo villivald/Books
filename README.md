@@ -282,9 +282,11 @@
 - [Приморские партизаны](https://foxbooks.ag/books/sovremennaya-proza/primorskie-partizany-57541) ⭐️⭐️⭐️⭐️ Кашин @Nov 29, 2024
 - [Факультет ненужных вещей](https://en.wikipedia.org/wiki/The_Faculty_of_Useless_Knowledge) ⭐️⭐️⭐️⭐️ Домбровский @Dec 22, 2024
 - [Evgenia Ivanovna](https://www.goodreads.com/book/show/16006033-evgenia-ivanovna) ⭐️⭐️⭐️⭐️ Леонов @Dec 23, 2024
+- [Patriootti](https://en.wikipedia.org/wiki/Patriot_(book)) ⭐️⭐️⭐️⭐️ Navalnyi @Dec 24, 2024
 
 ### In progress
 
 - [The Sopranos Sessions](https://www.abramsbooks.com/product/sopranos-sessions_9781419742835/) A. Sepinwall
-- [Patriootti](https://en.wikipedia.org/wiki/Patriot_(book)) Navalnyi
 - [The Secret Lives of Colour](https://en.wikipedia.org/wiki/The_Secret_Lives_of_Colour) St. Clair
+- [Допинг. Запрещенные страницы](https://meduza.io/book_landing/2024/12/23/grigoriy-rodchenkov) Родченков
+- [Мир и хохот](https://nonfiction.ru/books/mir-i-xoxot) Мамлеев
