@@ -284,6 +284,10 @@
 - [Evgenia Ivanovna](https://www.goodreads.com/book/show/16006033-evgenia-ivanovna) ⭐️⭐️⭐️⭐️ Леонов @Dec 23, 2024
 - [Patriootti](https://en.wikipedia.org/wiki/Patriot_(book)) ⭐️⭐️⭐️⭐️ Navalnyi @Dec 24, 2024
 
+### 2025
+
+- [Дни](https://imwerden.de/publ-8635) ⭐️⭐️⭐️ Шульгин @Jan 02, 2024
+
 ### In progress
 
 - [The Sopranos Sessions](https://www.abramsbooks.com/product/sopranos-sessions_9781419742835/) A. Sepinwall
