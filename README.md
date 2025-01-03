@@ -294,3 +294,4 @@
 - [The Secret Lives of Colour](https://en.wikipedia.org/wiki/The_Secret_Lives_of_Colour) St. Clair
 - [Допинг. Запрещенные страницы](https://meduza.io/book_landing/2024/12/23/grigoriy-rodchenkov) Родченков
 - [Мир и хохот](https://nonfiction.ru/books/mir-i-xoxot) Мамлеев
+- [Surun ja ilon kaupunki](https://fi.wikipedia.org/wiki/Surun_ja_ilon_kaupunki) M. Waltari
