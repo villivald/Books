@@ -287,11 +287,11 @@
 ### 2025
 
 - [Дни](https://imwerden.de/publ-8635) ⭐️⭐️⭐️ Шульгин @Jan 02, 2024
+- [Мир и хохот](https://nonfiction.ru/books/mir-i-xoxot) ⭐️⭐️ Мамлеев @Jan 10, 2024
+- [Surun ja ilon kaupunki](https://fi.wikipedia.org/wiki/Surun_ja_ilon_kaupunki) ⭐️⭐️⭐️ M. Waltari @Jan 10, 2024
 
 ### In progress
 
-- [The Sopranos Sessions](https://www.abramsbooks.com/product/sopranos-sessions_9781419742835/) A. Sepinwall
+- [Икс](https://www.livelib.ru/book/1006165912-iks-dmitrij-bykov) Быков
 - [The Secret Lives of Colour](https://en.wikipedia.org/wiki/The_Secret_Lives_of_Colour) St. Clair
 - [Допинг. Запрещенные страницы](https://meduza.io/book_landing/2024/12/23/grigoriy-rodchenkov) Родченков
-- [Мир и хохот](https://nonfiction.ru/books/mir-i-xoxot) Мамлеев
-- [Surun ja ilon kaupunki](https://fi.wikipedia.org/wiki/Surun_ja_ilon_kaupunki) M. Waltari
