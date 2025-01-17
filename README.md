@@ -290,8 +290,10 @@
 - [Мир и хохот](https://nonfiction.ru/books/mir-i-xoxot) ⭐️⭐️ Мамлеев @Jan 10, 2024
 - [Surun ja ilon kaupunki](https://fi.wikipedia.org/wiki/Surun_ja_ilon_kaupunki) ⭐️⭐️⭐️ M. Waltari @Jan 10, 2024
 - [Допинг. Запрещенные страницы](https://meduza.io/book_landing/2024/12/23/grigoriy-rodchenkov) ⭐️⭐️⭐️⭐️ Родченков @Jan 13, 2024
+- [Икс](https://www.livelib.ru/book/1006165912-iks-dmitrij-bykov) ⭐️⭐️⭐️ Быков @Jan 15, 2024
 
 ### In progress
 
-- [Икс](https://www.livelib.ru/book/1006165912-iks-dmitrij-bykov) Быков
 - [The Secret Lives of Colour](https://en.wikipedia.org/wiki/The_Secret_Lives_of_Colour) St. Clair
+- [War](https://en.wikipedia.org/wiki/War_(Woodward_book)) Woodward
+- [Жар-птица](https://freedomletters.org/books/zhar-ptitsa) А. Козырев
