@@ -286,12 +286,12 @@
 
 ### 2025
 
-- [Дни](https://imwerden.de/publ-8635) ⭐️⭐️⭐️ Шульгин @Jan 02, 2024
-- [Мир и хохот](https://nonfiction.ru/books/mir-i-xoxot) ⭐️⭐️ Мамлеев @Jan 10, 2024
-- [Surun ja ilon kaupunki](https://fi.wikipedia.org/wiki/Surun_ja_ilon_kaupunki) ⭐️⭐️⭐️ M. Waltari @Jan 10, 2024
-- [Допинг. Запрещенные страницы](https://meduza.io/book_landing/2024/12/23/grigoriy-rodchenkov) ⭐️⭐️⭐️⭐️ Родченков @Jan 13, 2024
-- [Икс](https://www.livelib.ru/book/1006165912-iks-dmitrij-bykov) ⭐️⭐️⭐️ Быков @Jan 15, 2024
-- [Жар-птица](https://freedomletters.org/books/zhar-ptitsa) ⭐️⭐️⭐️ А. Козырев @Jan 31, 2024
+- [Дни](https://imwerden.de/publ-8635) ⭐️⭐️⭐️ Шульгин @Jan 02, 2025
+- [Мир и хохот](https://nonfiction.ru/books/mir-i-xoxot) ⭐️⭐️ Мамлеев @Jan 10, 2025
+- [Surun ja ilon kaupunki](https://fi.wikipedia.org/wiki/Surun_ja_ilon_kaupunki) ⭐️⭐️⭐️ M. Waltari @Jan 10, 2025
+- [Допинг. Запрещенные страницы](https://meduza.io/book_landing/2024/12/23/grigoriy-rodchenkov) ⭐️⭐️⭐️⭐️ Родченков @Jan 13, 2025
+- [Икс](https://www.livelib.ru/book/1006165912-iks-dmitrij-bykov) ⭐️⭐️⭐️ Быков @Jan 15, 2025
+- [Жар-птица](https://freedomletters.org/books/zhar-ptitsa) ⭐️⭐️⭐️ А. Козырев @Jan 31, 2025
 
 ### In progress
 
