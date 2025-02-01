@@ -292,8 +292,9 @@
 - [Допинг. Запрещенные страницы](https://meduza.io/book_landing/2024/12/23/grigoriy-rodchenkov) ⭐️⭐️⭐️⭐️ Родченков @Jan 13, 2025
 - [Икс](https://www.livelib.ru/book/1006165912-iks-dmitrij-bykov) ⭐️⭐️⭐️ Быков @Jan 15, 2025
 - [Жар-птица](https://freedomletters.org/books/zhar-ptitsa) ⭐️⭐️⭐️ А. Козырев @Jan 31, 2025
+- [War](https://en.wikipedia.org/wiki/War_(Woodward_book)) ⭐️⭐️⭐️⭐️ Woodward @Feb 01, 2025
 
 ### In progress
 
 - [The Secret Lives of Colour](https://en.wikipedia.org/wiki/The_Secret_Lives_of_Colour) St. Clair
-- [War](https://en.wikipedia.org/wiki/War_(Woodward_book)) Woodward
+- [Некто Гитлер](https://en.wikipedia.org/wiki/The_Meaning_of_Hitler) С. Хафнер
