@@ -298,3 +298,4 @@
 
 - [The Secret Lives of Colour](https://en.wikipedia.org/wiki/The_Secret_Lives_of_Colour) St. Clair
 - [Некто Гитлер](https://en.wikipedia.org/wiki/The_Meaning_of_Hitler) С. Хафнер
+- [The Sopranos Sessions](https://www.abramsbooks.com/product/sopranos-sessions_9781419742835/) A. Sepinwall
