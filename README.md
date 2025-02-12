@@ -293,9 +293,9 @@
 - [Икс](https://www.livelib.ru/book/1006165912-iks-dmitrij-bykov) ⭐️⭐️⭐️ Быков @Jan 15, 2025
 - [Жар-птица](https://freedomletters.org/books/zhar-ptitsa) ⭐️⭐️⭐️ А. Козырев @Jan 31, 2025
 - [War](https://en.wikipedia.org/wiki/War_(Woodward_book)) ⭐️⭐️⭐️⭐️ Woodward @Feb 01, 2025
+- [Некто Гитлер](https://en.wikipedia.org/wiki/The_Meaning_of_Hitler) ⭐️⭐️⭐️⭐️ С. Хафнер @Feb 12, 2025
 
 ### In progress
 
 - [The Secret Lives of Colour](https://en.wikipedia.org/wiki/The_Secret_Lives_of_Colour) St. Clair
-- [Некто Гитлер](https://en.wikipedia.org/wiki/The_Meaning_of_Hitler) С. Хафнер
 - [The Sopranos Sessions](https://www.abramsbooks.com/product/sopranos-sessions_9781419742835/) A. Sepinwall
