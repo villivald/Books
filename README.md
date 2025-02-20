@@ -299,3 +299,5 @@
 ### In progress
 
 - [The Sopranos Sessions](https://www.abramsbooks.com/product/sopranos-sessions_9781419742835/) A. Sepinwall
+- [Сомнамбулы](https://en.wikipedia.org/wiki/The_Sleepwalkers:_How_Europe_Went_to_War_in_1914) К. Кларк
+- [Suuri valhe vammaisuudesta](https://www.tammi.fi/kirjat/suuri-valhe-vammaisuudesta/) S. Tawast, R. Leinonen
