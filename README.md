@@ -301,3 +301,4 @@
 
 - [Сомнамбулы](https://en.wikipedia.org/wiki/The_Sleepwalkers:_How_Europe_Went_to_War_in_1914) К. Кларк
 - [Suuri valhe vammaisuudesta](https://www.tammi.fi/kirjat/suuri-valhe-vammaisuudesta/) S. Tawast, R. Leinonen
+- [Воспоминания террориста](http://az.lib.ru/s/sawinkow_b_w/text_0010.shtml) Б. Савинков
