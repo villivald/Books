@@ -296,9 +296,9 @@
 - [Некто Гитлер](https://en.wikipedia.org/wiki/The_Meaning_of_Hitler) ⭐️⭐️⭐️⭐️ С. Хафнер @Feb 12, 2025
 - [The Secret Lives of Colour](https://en.wikipedia.org/wiki/The_Secret_Lives_of_Colour) ⭐️⭐️⭐️ St. Clair @Feb 16, 2025
 - [The Sopranos Sessions](https://www.abramsbooks.com/product/sopranos-sessions_9781419742835/) ⭐️⭐️⭐️⭐️ A. Sepinwall @Feb 22, 2025
+- [Воспоминания террориста](http://az.lib.ru/s/sawinkow_b_w/text_0010.shtml) ⭐️⭐️⭐️⭐️ Б. Савинков @Mar 03, 2025
 
 ### In progress
 
 - [Сомнамбулы](https://en.wikipedia.org/wiki/The_Sleepwalkers:_How_Europe_Went_to_War_in_1914) К. Кларк
 - [Suuri valhe vammaisuudesta](https://www.tammi.fi/kirjat/suuri-valhe-vammaisuudesta/) S. Tawast, R. Leinonen
-- [Воспоминания террориста](http://az.lib.ru/s/sawinkow_b_w/text_0010.shtml) Б. Савинков
