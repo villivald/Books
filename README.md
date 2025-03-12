@@ -302,3 +302,5 @@
 
 - [Сомнамбулы](https://en.wikipedia.org/wiki/The_Sleepwalkers:_How_Europe_Went_to_War_in_1914) К. Кларк
 - [Suuri valhe vammaisuudesta](https://www.tammi.fi/kirjat/suuri-valhe-vammaisuudesta/) S. Tawast, R. Leinonen
+- [Nuremberg Trial](https://www.amazon.com/Nuremberg-Trial-Ann-Tusa/dp/1616080213) Tusa
+- [The Camper Van Bible](http://martindorey.com/product/the-camper-van-bible-second-edition/) M. Dorey
