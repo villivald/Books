@@ -297,10 +297,10 @@
 - [The Secret Lives of Colour](https://en.wikipedia.org/wiki/The_Secret_Lives_of_Colour) ⭐️⭐️⭐️ St. Clair @Feb 16, 2025
 - [The Sopranos Sessions](https://www.abramsbooks.com/product/sopranos-sessions_9781419742835/) ⭐️⭐️⭐️⭐️ A. Sepinwall @Feb 22, 2025
 - [Воспоминания террориста](http://az.lib.ru/s/sawinkow_b_w/text_0010.shtml) ⭐️⭐️⭐️⭐️ Б. Савинков @Mar 03, 2025
+- [The Camper Van Bible](http://martindorey.com/product/the-camper-van-bible-second-edition/) ⭐️⭐️ M. Dorey @Mar 21, 2025
 
 ### In progress
 
 - [Сомнамбулы](https://en.wikipedia.org/wiki/The_Sleepwalkers:_How_Europe_Went_to_War_in_1914) К. Кларк
 - [Suuri valhe vammaisuudesta](https://www.tammi.fi/kirjat/suuri-valhe-vammaisuudesta/) S. Tawast, R. Leinonen
 - [Nuremberg Trial](https://www.amazon.com/Nuremberg-Trial-Ann-Tusa/dp/1616080213) Tusa
-- [The Camper Van Bible](http://martindorey.com/product/the-camper-van-bible-second-edition/) M. Dorey
