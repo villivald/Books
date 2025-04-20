@@ -277,7 +277,6 @@
 - [Наш бизнес — смерть](https://meduza.io/feature/2024/03/15/v-aprele-v-izdatelstve-meduzy-vyhodit-kniga-nash-biznes-smert-ona-rasskazyvayut-polnuyu-istoriyu-chvk-vagner) ⭐️⭐️⭐️⭐️ Барабанов, Коротков @Sep 17, 2024
 - [Не только кимчхи](https://www.litres.ru/book/andrey-nikolaevich-l/ne-tolko-kimchhi-istoriya-kultura-i-povsednevnaya-zhi-70602292/) ⭐️⭐️⭐️⭐️⭐️ Ланьков @Oct 16, 2024
 - [French Revolutions: Cycling the Tour de France](https://www.goodreads.com/book/show/72455.French_Revolutions) ⭐️⭐️⭐️⭐️ T. Moore @Nov 04, 2024
-- [Ничего хорошего](https://bukinist.de/bookpod/ru/biografii-memuary-publicistika/373597-nichego-khoroshego-ot-nachala-vojny-do-pokhoron-navalnogo-9783689590000.html) ⭐️⭐️⭐️⭐️ Кашин @Nov 15, 2024
 - [Человек без свойств](https://en.wikipedia.org/wiki/The_Man_Without_Qualities) ⭐️⭐️⭐️⭐️ Музиль @Nov 24, 2024
 - [Приморские партизаны](https://foxbooks.ag/books/sovremennaya-proza/primorskie-partizany-57541) ⭐️⭐️⭐️⭐️ Кашин @Nov 29, 2024
 - [Факультет ненужных вещей](https://en.wikipedia.org/wiki/The_Faculty_of_Useless_Knowledge) ⭐️⭐️⭐️⭐️ Домбровский @Dec 22, 2024
@@ -300,8 +299,10 @@
 - [The Camper Van Bible](http://martindorey.com/product/the-camper-van-bible-second-edition/) ⭐️⭐️ M. Dorey @Mar 21, 2025
 - [Nuremberg Trial](https://www.amazon.com/Nuremberg-Trial-Ann-Tusa/dp/1616080213) ⭐️⭐️⭐️ Tusa @Apr 04, 2025
 - [Сомнамбулы](https://en.wikipedia.org/wiki/The_Sleepwalkers:_How_Europe_Went_to_War_in_1914) ⭐️⭐️⭐️⭐️ К. Кларк @Apr 08, 2025
+- [How to Watch Basketball Like a Genius](https://www.amazon.com/Watch-Basketball-Like-Genius-Astrophysicists/dp/1419744801) ⭐️⭐️⭐️ N. Greene @Apr 19, 2025
 
 ### In progress
 
 - [Suuri valhe vammaisuudesta](https://www.tammi.fi/kirjat/suuri-valhe-vammaisuudesta/) S. Tawast, R. Leinonen
-- [How to Watch Basketball Like a Genius](https://www.amazon.com/Watch-Basketball-Like-Genius-Astrophysicists/dp/1419744801) N. Greene
+- [Näin Helsingin kasvavan](https://www.ellibs.com/fi/book/9789519870465/n-in-helsingin-kasvavan) V. Tanner
+- [Ничего хорошего](https://echo-books.com/shop/nichego-horoshego-ot-nachala-vojny-do-pohoron-navalnogo/) Кашин
