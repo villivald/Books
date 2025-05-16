@@ -302,6 +302,7 @@
 - [How to Watch Basketball Like a Genius](https://www.amazon.com/Watch-Basketball-Like-Genius-Astrophysicists/dp/1419744801) ⭐️⭐️⭐️ N. Greene @Apr 19, 2025
 - [Näin Helsingin kasvavan](https://www.ellibs.com/fi/book/9789519870465/n-in-helsingin-kasvavan) ⭐️⭐️⭐️⭐️⭐️ V. Tanner @Apr 26, 2025
 - [Nuorukainen etsii sijaansa yhteiskunnassa](https://www.ellibs.com/fi/book/9789519870489/nuorukainen-etsii-sijaansa-yhteiskunnassa) ⭐️⭐️⭐️⭐️ V. Tanner @May 07, 2025
+- [Poverty, by America](https://en.wikipedia.org/wiki/Poverty,_by_America) ⭐️⭐️⭐️ M. Desmond @May 16, 2025
 
 ### In progress
 
