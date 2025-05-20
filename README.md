@@ -309,3 +309,4 @@
 - [Suuri valhe vammaisuudesta](https://www.tammi.fi/kirjat/suuri-valhe-vammaisuudesta/) S. Tawast, R. Leinonen
 - [Ничего хорошего](https://echo-books.com/shop/nichego-horoshego-ot-nachala-vojny-do-pohoron-navalnogo/) Кашин
 - [The Cyclist’s Training Bible](https://joefrieltraining.com/book/the-cyclists-training-bible-5th-ed/) J. Friel
+- [The Last Tsar](https://www.goodreads.com/book/show/210594681-the-last-tsar) Hasegawa
