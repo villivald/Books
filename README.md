@@ -303,10 +303,10 @@
 - [Näin Helsingin kasvavan](https://www.ellibs.com/fi/book/9789519870465/n-in-helsingin-kasvavan) ⭐️⭐️⭐️⭐️⭐️ V. Tanner @Apr 26, 2025
 - [Nuorukainen etsii sijaansa yhteiskunnassa](https://www.ellibs.com/fi/book/9789519870489/nuorukainen-etsii-sijaansa-yhteiskunnassa) ⭐️⭐️⭐️⭐️ V. Tanner @May 07, 2025
 - [Poverty, by America](https://en.wikipedia.org/wiki/Poverty,_by_America) ⭐️⭐️⭐️ M. Desmond @May 16, 2025
+- [Ничего хорошего](https://echo-books.com/shop/nichego-horoshego-ot-nachala-vojny-do-pohoron-navalnogo/) ⭐️⭐️⭐️⭐️ Кашин @May 29, 2025
 
 ### In progress
 
 - [Suuri valhe vammaisuudesta](https://www.tammi.fi/kirjat/suuri-valhe-vammaisuudesta/) S. Tawast, R. Leinonen
-- [Ничего хорошего](https://echo-books.com/shop/nichego-horoshego-ot-nachala-vojny-do-pohoron-navalnogo/) Кашин
 - [The Cyclist’s Training Bible](https://joefrieltraining.com/book/the-cyclists-training-bible-5th-ed/) J. Friel
 - [The Last Tsar](https://www.goodreads.com/book/show/210594681-the-last-tsar) Hasegawa
