@@ -304,9 +304,10 @@
 - [Nuorukainen etsii sijaansa yhteiskunnassa](https://www.ellibs.com/fi/book/9789519870489/nuorukainen-etsii-sijaansa-yhteiskunnassa) ⭐️⭐️⭐️⭐️ V. Tanner @May 07, 2025
 - [Poverty, by America](https://en.wikipedia.org/wiki/Poverty,_by_America) ⭐️⭐️⭐️ M. Desmond @May 16, 2025
 - [Ничего хорошего](https://echo-books.com/shop/nichego-horoshego-ot-nachala-vojny-do-pohoron-navalnogo/) ⭐️⭐️⭐️⭐️ Кашин @May 29, 2025
+- [The Last Tsar](https://www.goodreads.com/book/show/210594681-the-last-tsar) ⭐️⭐️⭐️⭐️ Hasegawa @May 31, 2025
 
 ### In progress
 
 - [Suuri valhe vammaisuudesta](https://www.tammi.fi/kirjat/suuri-valhe-vammaisuudesta/) S. Tawast, R. Leinonen
 - [The Cyclist’s Training Bible](https://joefrieltraining.com/book/the-cyclists-training-bible-5th-ed/) J. Friel
-- [The Last Tsar](https://www.goodreads.com/book/show/210594681-the-last-tsar) Hasegawa
+- [The Showman](https://en.wikipedia.org/wiki/The_Showman) Shuster
