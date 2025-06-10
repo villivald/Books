@@ -305,6 +305,7 @@
 - [Poverty, by America](https://en.wikipedia.org/wiki/Poverty,_by_America) ⭐️⭐️⭐️ M. Desmond @May 16, 2025
 - [Ничего хорошего](https://echo-books.com/shop/nichego-horoshego-ot-nachala-vojny-do-pohoron-navalnogo/) ⭐️⭐️⭐️⭐️ Кашин @May 29, 2025
 - [The Last Tsar](https://www.goodreads.com/book/show/210594681-the-last-tsar) ⭐️⭐️⭐️⭐️ Hasegawa @May 31, 2025
+- [Original Sin](https://en.wikipedia.org/wiki/Original_Sin_(Tapper_and_Thompson_book)) ⭐️⭐️⭐️⭐️ J. Tapper @Jun 10, 2025
 
 ### In progress
 
