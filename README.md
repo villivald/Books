@@ -312,3 +312,4 @@
 - [Suuri valhe vammaisuudesta](https://www.tammi.fi/kirjat/suuri-valhe-vammaisuudesta/) S. Tawast, R. Leinonen
 - [The Cyclist’s Training Bible](https://joefrieltraining.com/book/the-cyclists-training-bible-5th-ed/) J. Friel
 - [The Showman](https://en.wikipedia.org/wiki/The_Showman) Shuster
+- [Незамеченное поколение. Контекст. Судьбы. Темы](https://childrenofgutenberg.de/ru/products/nezamechennoe-pokolenie-kontekst-sudby-temy?srsltid=AfmBOorkTBv1pPBntMaHjQ3do-VGj7k4VmWJRsmSGbQC3i00NZuMScvw) Проскурина-Янович
