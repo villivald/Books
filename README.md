@@ -313,3 +313,5 @@
 
 - [Suuri valhe vammaisuudesta](https://www.tammi.fi/kirjat/suuri-valhe-vammaisuudesta/) S. Tawast, R. Leinonen
 - [The Cyclist’s Training Bible](https://joefrieltraining.com/book/the-cyclists-training-bible-5th-ed/) J. Friel
+- [Роман с кокаином](https://en.wikipedia.org/wiki/Novel_with_Cocaine) М. Агеев
+- [Большой стиль](https://echo-books.com/shop/bolshoj-stil-nekrologi-i-panegiriki/) Кашин
