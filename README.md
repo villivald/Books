@@ -308,10 +308,10 @@
 - [Original Sin](https://en.wikipedia.org/wiki/Original_Sin_(Tapper_and_Thompson_book)) ⭐️⭐️⭐️⭐️ J. Tapper @Jun 10, 2025
 - [The Showman](https://en.wikipedia.org/wiki/The_Showman) ⭐️⭐️⭐️⭐️ Shuster @Jun 20, 2025
 - [Незамеченное поколение. Контекст. Судьбы. Темы](https://childrenofgutenberg.de/ru/products/nezamechennoe-pokolenie-kontekst-sudby-temy?srsltid=AfmBOorkTBv1pPBntMaHjQ3do-VGj7k4VmWJRsmSGbQC3i00NZuMScvw) ⭐️⭐️⭐️⭐️⭐️ Проскурина-Янович @Jun 24, 2025
+- [Роман с кокаином](https://en.wikipedia.org/wiki/Novel_with_Cocaine) ⭐️⭐️⭐️ М. Агеев @Jun 28, 2025
 
 ### In progress
 
 - [Suuri valhe vammaisuudesta](https://www.tammi.fi/kirjat/suuri-valhe-vammaisuudesta/) S. Tawast, R. Leinonen
 - [The Cyclist’s Training Bible](https://joefrieltraining.com/book/the-cyclists-training-bible-5th-ed/) J. Friel
-- [Роман с кокаином](https://en.wikipedia.org/wiki/Novel_with_Cocaine) М. Агеев
 - [Большой стиль](https://echo-books.com/shop/bolshoj-stil-nekrologi-i-panegiriki/) Кашин
