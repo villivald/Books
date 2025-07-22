@@ -315,3 +315,4 @@
 - [Suuri valhe vammaisuudesta](https://www.tammi.fi/kirjat/suuri-valhe-vammaisuudesta/) S. Tawast, R. Leinonen
 - [The Cyclist’s Training Bible](https://joefrieltraining.com/book/the-cyclists-training-bible-5th-ed/) J. Friel
 - [Большой стиль](https://echo-books.com/shop/bolshoj-stil-nekrologi-i-panegiriki/) Кашин
+- [Похождения бравого солдата Швейка](https://en.wikipedia.org/wiki/The_Good_Soldier_%C5%A0vejk) Гашек
