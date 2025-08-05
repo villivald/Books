@@ -310,10 +310,10 @@
 - [Незамеченное поколение. Контекст. Судьбы. Темы](https://childrenofgutenberg.de/ru/products/nezamechennoe-pokolenie-kontekst-sudby-temy?srsltid=AfmBOorkTBv1pPBntMaHjQ3do-VGj7k4VmWJRsmSGbQC3i00NZuMScvw) ⭐️⭐️⭐️⭐️⭐️ Проскурина-Янович @Jun 24, 2025
 - [Роман с кокаином](https://en.wikipedia.org/wiki/Novel_with_Cocaine) ⭐️⭐️⭐️ М. Агеев @Jun 28, 2025
 - [Большой стиль](https://echo-books.com/shop/bolshoj-stil-nekrologi-i-panegiriki/) ⭐️⭐️⭐️⭐️ Кашин @Aug 03, 2025
+- [The Secret Diary of Laura Palmer](https://en.wikipedia.org/wiki/The_Secret_Diary_of_Laura_Palmer) ⭐️⭐️⭐️ J. Lynch @Aug 04, 2025
 
 ### In progress
 
 - [Suuri valhe vammaisuudesta](https://www.tammi.fi/kirjat/suuri-valhe-vammaisuudesta/) S. Tawast, R. Leinonen
 - [The Cyclist’s Training Bible](https://joefrieltraining.com/book/the-cyclists-training-bible-5th-ed/) J. Friel
 - [Похождения бравого солдата Швейка](https://en.wikipedia.org/wiki/The_Good_Soldier_%C5%A0vejk) Гашек
-- [The Secret Diary of Laura Palmer](https://en.wikipedia.org/wiki/The_Secret_Diary_of_Laura_Palmer) J. Lynch
