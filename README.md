@@ -311,9 +311,10 @@
 - [Роман с кокаином](https://en.wikipedia.org/wiki/Novel_with_Cocaine) ⭐️⭐️⭐️ М. Агеев @Jun 28, 2025
 - [Большой стиль](https://echo-books.com/shop/bolshoj-stil-nekrologi-i-panegiriki/) ⭐️⭐️⭐️⭐️ Кашин @Aug 03, 2025
 - [The Secret Diary of Laura Palmer](https://en.wikipedia.org/wiki/The_Secret_Diary_of_Laura_Palmer) ⭐️⭐️⭐️ J. Lynch @Aug 04, 2025
+- [Похождения бравого солдата Швейка](https://en.wikipedia.org/wiki/The_Good_Soldier_%C5%A0vejk) ⭐️⭐️⭐️⭐️ Гашек @Aug 07, 2025
 
 ### In progress
 
 - [Suuri valhe vammaisuudesta](https://www.tammi.fi/kirjat/suuri-valhe-vammaisuudesta/) S. Tawast, R. Leinonen
 - [The Cyclist’s Training Bible](https://joefrieltraining.com/book/the-cyclists-training-bible-5th-ed/) J. Friel
-- [Похождения бравого солдата Швейка](https://en.wikipedia.org/wiki/The_Good_Soldier_%C5%A0vejk) Гашек
+- [Тайная история Твин-Пикс](https://ru.wikipedia.org/wiki/%D0%A2%D0%B0%D0%B9%D0%BD%D0%B0%D1%8F_%D0%B8%D1%81%D1%82%D0%BE%D1%80%D0%B8%D1%8F_%D0%A2%D0%B2%D0%B8%D0%BD-%D0%9F%D0%B8%D0%BA%D1%81) М. Фрост
