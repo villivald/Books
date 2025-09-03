@@ -321,3 +321,5 @@
 
 - [The Cyclist’s Training Bible](https://joefrieltraining.com/book/the-cyclists-training-bible-5th-ed/) J. Friel
 - [The Guns of August](https://en.wikipedia.org/wiki/The_Guns_of_August) B. Tuchman
+- [Vauva: omistajan opas](https://akateeminen.com/tuote/louis-borgenicht/vauva-omistajan-opas-k%C3%A4ytt%C3%B6ohjeet-vianm%C3%A4%C3%A4ritys-ja/9789511389767) Borgenicht
+- [Французские дети не плюются едой](https://www.amazon.com/Bringing-Up-B%C3%A9b%C3%A9-Discovers-Parenting/dp/0143122967) Druckerman
