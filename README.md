@@ -316,10 +316,11 @@
 - [Twin Peaks: The Final Dossier](https://en.wikipedia.org/wiki/Twin_Peaks:_The_Final_Dossier) ⭐️⭐️⭐️⭐️⭐️ M. Frost @Aug 20, 2025
 - [Suuri valhe vammaisuudesta](https://www.tammi.fi/kirjat/suuri-valhe-vammaisuudesta/) ⭐️⭐️⭐️ S. Tawast, R. Leinonen @Aug 23, 2025
 - [Careless People](https://en.wikipedia.org/wiki/Careless_People) ⭐️⭐️⭐️⭐️ S. Wynn-Williams @Aug 24, 2025
+- [Французские дети не плюются едой](https://www.amazon.com/Bringing-Up-B%C3%A9b%C3%A9-Discovers-Parenting/dp/0143122967) ⭐️⭐️⭐️⭐️ Druckerman @Sep 05, 2025
 
 ### In progress
 
 - [The Cyclist’s Training Bible](https://joefrieltraining.com/book/the-cyclists-training-bible-5th-ed/) J. Friel
 - [The Guns of August](https://en.wikipedia.org/wiki/The_Guns_of_August) B. Tuchman
 - [Vauva: omistajan opas](https://akateeminen.com/tuote/louis-borgenicht/vauva-omistajan-opas-k%C3%A4ytt%C3%B6ohjeet-vianm%C3%A4%C3%A4ritys-ja/9789511389767) Borgenicht
-- [Французские дети не плюются едой](https://www.amazon.com/Bringing-Up-B%C3%A9b%C3%A9-Discovers-Parenting/dp/0143122967) Druckerman
+- [Как жаль, что мои родители об этом не знали](https://www.litres.ru/book/filippa-perri/kak-zhal-chto-moi-roditeli-ob-etom-ne-znali-i-kak-povezlo-mo-50194618/) Ф. Перри
