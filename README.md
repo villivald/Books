@@ -324,3 +324,4 @@
 - [The Cyclist’s Training Bible](https://joefrieltraining.com/book/the-cyclists-training-bible-5th-ed/) J. Friel
 - [The Guns of August](https://en.wikipedia.org/wiki/The_Guns_of_August) B. Tuchman
 - [Как жаль, что мои родители об этом не знали](https://www.litres.ru/book/filippa-perri/kak-zhal-chto-moi-roditeli-ob-etom-ne-znali-i-kak-povezlo-mo-50194618/) Ф. Перри
+- [The Modern Midwife's Guide to Pregnancy, Birth and Beyond](https://www.amazon.com/Modern-Midwifes-Guide-Pregnancy-Beyond/dp/1785042963) Marie Louise
