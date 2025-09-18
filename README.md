@@ -325,3 +325,4 @@
 - [The Cyclist’s Training Bible](https://joefrieltraining.com/book/the-cyclists-training-bible-5th-ed/) J. Friel
 - [The Guns of August](https://en.wikipedia.org/wiki/The_Guns_of_August) B. Tuchman
 - [The Modern Midwife's Guide to Pregnancy, Birth and Beyond](https://www.amazon.com/Modern-Midwifes-Guide-Pregnancy-Beyond/dp/1785042963) Marie Louise
+- [The Secret of Secrets](https://en.wikipedia.org/wiki/The_Secret_of_Secrets_(Brown_novel)) D. Brown
