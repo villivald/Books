@@ -320,10 +320,11 @@
 - [Vauva: omistajan opas](https://akateeminen.com/tuote/louis-borgenicht/vauva-omistajan-opas-k%C3%A4ytt%C3%B6ohjeet-vianm%C3%A4%C3%A4ritys-ja/9789511389767) ⭐️⭐️⭐️ Borgenicht @Sep 06, 2025
 - [Как жаль, что мои родители об этом не знали](https://www.litres.ru/book/filippa-perri/kak-zhal-chto-moi-roditeli-ob-etom-ne-znali-i-kak-povezlo-mo-50194618/) ⭐️⭐️ Ф. Перри @Sep 16, 2025
 - [The Secret of Secrets](https://en.wikipedia.org/wiki/The_Secret_of_Secrets_(Brown_novel)) ⭐️⭐️ D. Brown @Oct 09, 2025
+- [Американские каникулы](https://www.goodreads.com/book/show/63202130) ⭐️⭐️⭐️⭐️ Лимонов @Oct 11, 2025
+- [Благими намерениями](https://www.straightforward.foundation/ru-books/at-the-gates-of-hell-how-the-russian-orthodox-church-got-free-and-sold-its-soul-to-putins-regime) ⭐️⭐️⭐️⭐️⭐️ К. Лученко @Oct 12, 2025
 
 ### In progress
 
 - [The Cyclist’s Training Bible](https://joefrieltraining.com/book/the-cyclists-training-bible-5th-ed/) J. Friel
 - [The Guns of August](https://en.wikipedia.org/wiki/The_Guns_of_August) B. Tuchman
 - [The Modern Midwife's Guide to Pregnancy, Birth and Beyond](https://www.amazon.com/Modern-Midwifes-Guide-Pregnancy-Beyond/dp/1785042963) Marie Louise
-- [Благими намерениями](https://www.straightforward.foundation/ru-books/at-the-gates-of-hell-how-the-russian-orthodox-church-got-free-and-sold-its-soul-to-putins-regime) К. Лученко
