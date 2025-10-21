@@ -322,10 +322,10 @@
 - [The Secret of Secrets](https://en.wikipedia.org/wiki/The_Secret_of_Secrets_(Brown_novel)) ⭐️⭐️ D. Brown @Oct 09, 2025
 - [Американские каникулы](https://www.goodreads.com/book/show/63202130) ⭐️⭐️⭐️⭐️ Лимонов @Oct 11, 2025
 - [Благими намерениями](https://www.straightforward.foundation/ru-books/at-the-gates-of-hell-how-the-russian-orthodox-church-got-free-and-sold-its-soul-to-putins-regime) ⭐️⭐️⭐️⭐️⭐️ К. Лученко @Oct 12, 2025
+- [The Modern Midwife's Guide to Pregnancy, Birth and Beyond](https://www.amazon.com/Modern-Midwifes-Guide-Pregnancy-Beyond/dp/1785042963) ⭐️⭐️⭐️ Marie Louise @Oct 21, 2025
 
 ### In progress
 
 - [The Cyclist’s Training Bible](https://joefrieltraining.com/book/the-cyclists-training-bible-5th-ed/) J. Friel
 - [The Guns of August](https://en.wikipedia.org/wiki/The_Guns_of_August) B. Tuchman
-- [The Modern Midwife's Guide to Pregnancy, Birth and Beyond](https://www.amazon.com/Modern-Midwifes-Guide-Pregnancy-Beyond/dp/1785042963) Marie Louise
 - [Убийство часового](https://homeread.net/book/ubiystvo-chasovogo-dnevnik-grazhdanina-eduard-limonov) Лимонов
