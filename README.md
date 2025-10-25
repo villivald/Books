@@ -323,6 +323,7 @@
 - [Американские каникулы](https://www.goodreads.com/book/show/63202130) ⭐️⭐️⭐️⭐️ Лимонов @Oct 11, 2025
 - [Благими намерениями](https://www.straightforward.foundation/ru-books/at-the-gates-of-hell-how-the-russian-orthodox-church-got-free-and-sold-its-soul-to-putins-regime) ⭐️⭐️⭐️⭐️⭐️ К. Лученко @Oct 12, 2025
 - [The Modern Midwife's Guide to Pregnancy, Birth and Beyond](https://www.amazon.com/Modern-Midwifes-Guide-Pregnancy-Beyond/dp/1785042963) ⭐️⭐️⭐️ Marie Louise @Oct 21, 2025
+- [Лемнер](https://en.wikipedia.org/wiki/Lemner) ⭐️⭐️⭐️⭐️ Проханов @Oct 25, 2025
 
 ### In progress
 
