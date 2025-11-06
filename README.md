@@ -330,3 +330,4 @@
 - [The Cyclist’s Training Bible](https://joefrieltraining.com/book/the-cyclists-training-bible-5th-ed/) J. Friel
 - [The Guns of August](https://en.wikipedia.org/wiki/The_Guns_of_August) B. Tuchman
 - [Убийство часового](https://homeread.net/book/ubiystvo-chasovogo-dnevnik-grazhdanina-eduard-limonov) Лимонов
+- [Морфология сказки](https://ru.wikipedia.org/wiki/%D0%9C%D0%BE%D1%80%D1%84%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F_%D1%81%D0%BA%D0%B0%D0%B7%D0%BA%D0%B8) Пропп
