@@ -324,10 +324,10 @@
 - [Благими намерениями](https://www.straightforward.foundation/ru-books/at-the-gates-of-hell-how-the-russian-orthodox-church-got-free-and-sold-its-soul-to-putins-regime) ⭐️⭐️⭐️⭐️⭐️ К. Лученко @Oct 12, 2025
 - [The Modern Midwife's Guide to Pregnancy, Birth and Beyond](https://www.amazon.com/Modern-Midwifes-Guide-Pregnancy-Beyond/dp/1785042963) ⭐️⭐️⭐️ Marie Louise @Oct 21, 2025
 - [Лемнер](https://en.wikipedia.org/wiki/Lemner) ⭐️⭐️⭐️⭐️ Проханов @Oct 25, 2025
+- [The Guns of August](https://en.wikipedia.org/wiki/The_Guns_of_August) ⭐️⭐️⭐️ B. Tuchman @Nov 11, 2025
 
 ### In progress
 
 - [The Cyclist’s Training Bible](https://joefrieltraining.com/book/the-cyclists-training-bible-5th-ed/) J. Friel
-- [The Guns of August](https://en.wikipedia.org/wiki/The_Guns_of_August) B. Tuchman
 - [Убийство часового](https://homeread.net/book/ubiystvo-chasovogo-dnevnik-grazhdanina-eduard-limonov) Лимонов
 - [Морфология сказки](https://ru.wikipedia.org/wiki/%D0%9C%D0%BE%D1%80%D1%84%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F_%D1%81%D0%BA%D0%B0%D0%B7%D0%BA%D0%B8) Пропп
