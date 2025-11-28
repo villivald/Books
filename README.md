@@ -328,9 +328,9 @@
 - [Убийство часового](https://homeread.net/book/ubiystvo-chasovogo-dnevnik-grazhdanina-eduard-limonov) ⭐️⭐️⭐️ Лимонов @Nov 16, 2025
 - [Эмигрантские тетради](https://www.amazon.com/Audible-%D0%AD%D0%BC%D0%B8%D0%B3%D1%80%D0%B0%D0%BD%D1%82%D1%81%D0%BA%D0%B8%D0%B5-%D1%82%D0%B5%D1%82%D1%80%D0%B0%D0%B4%D0%B8-%D0%98%D1%81%D1%85%D0%BE%D0%B4/dp/B0FVFCCBNV) ⭐️⭐️⭐️ Ф. Челноков @Nov 18, 2025
 - [Nuclear War: A Scenario](https://en.wikipedia.org/wiki/Nuclear_War:_A_Scenario) ⭐️⭐️⭐️⭐️ A. Jacobsen @Nov 27, 2025
+- [Морфология сказки](https://ru.wikipedia.org/wiki/%D0%9C%D0%BE%D1%80%D1%84%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F_%D1%81%D0%BA%D0%B0%D0%B7%D0%BA%D0%B8) ⭐️⭐️⭐️⭐️ Пропп @Nov 28, 2025
 
 ### In progress
 
 - [The Cyclist’s Training Bible](https://joefrieltraining.com/book/the-cyclists-training-bible-5th-ed/) J. Friel
-- [Морфология сказки](https://ru.wikipedia.org/wiki/%D0%9C%D0%BE%D1%80%D1%84%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F_%D1%81%D0%BA%D0%B0%D0%B7%D0%BA%D0%B8) Пропп
 - [1913. Лето целого века](https://www.theguardian.com/books/2013/jul/19/1913-before-storm-florian-illies-review) Илиес
