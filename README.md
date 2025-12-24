@@ -330,8 +330,12 @@
 - [Nuclear War: A Scenario](https://en.wikipedia.org/wiki/Nuclear_War:_A_Scenario) ⭐️⭐️⭐️⭐️ A. Jacobsen @Nov 27, 2025
 - [Морфология сказки](https://ru.wikipedia.org/wiki/%D0%9C%D0%BE%D1%80%D1%84%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F_%D1%81%D0%BA%D0%B0%D0%B7%D0%BA%D0%B8) ⭐️⭐️⭐️⭐️ Пропп @Nov 28, 2025
 - [1913. Лето целого века](https://www.theguardian.com/books/2013/jul/19/1913-before-storm-florian-illies-review) ⭐️⭐️⭐️⭐️ Илиес @Dec 13, 2025
+- [The Expectant Father](https://www.amazon.com/Expectant-Father-Ultimate-Dads-Be/dp/0789214040/) ⭐️⭐️⭐️⭐️ Brott @Dec 16, 2025
 
 ### In progress
 
 - [The Cyclist’s Training Bible](https://joefrieltraining.com/book/the-cyclists-training-bible-5th-ed/) J. Friel
-- [The Expectant Father](https://www.amazon.com/Expectant-Father-Ultimate-Dads-Be/dp/0789214040/) Brott
+- [Критический словарь Русской революции](https://www.labirint.ru/books/457065/) Актон, Розенберг, Черняев
+- [Sociopath](https://www.goodreads.com/book/show/176443093-sociopath) P. Gagne
+- [The Dark Side of the Earth](https://www.simonandschuster.com/books/The-Dark-Side-of-the-Earth/Mikhail-Zygar/9781668013908) M. Zygar
+- [Город в деталях](https://www.labirint.ru/books/844718/) Марс, Кольстедт
