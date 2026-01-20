@@ -333,9 +333,12 @@
 - [The Expectant Father](https://www.amazon.com/Expectant-Father-Ultimate-Dads-Be/dp/0789214040/) ⭐️⭐️⭐️⭐️ Brott @Dec 16, 2025
 - [Sociopath](https://www.goodreads.com/book/show/176443093-sociopath) ⭐️⭐️⭐️⭐️ P. Gagne @Dec 27, 2025
 
+### 2026
+
+- [The Dark Side of the Earth](https://www.simonandschuster.com/books/The-Dark-Side-of-the-Earth/Mikhail-Zygar/9781668013908) ⭐️⭐️⭐️ M. Zygar @Jan 20, 2025
+
 ### In progress
 
 - [The Cyclist’s Training Bible](https://joefrieltraining.com/book/the-cyclists-training-bible-5th-ed/) J. Friel
 - [Критический словарь Русской революции](https://www.labirint.ru/books/457065/) Актон, Розенберг, Черняев
-- [The Dark Side of the Earth](https://www.simonandschuster.com/books/The-Dark-Side-of-the-Earth/Mikhail-Zygar/9781668013908) M. Zygar
 - [Город в деталях](https://www.labirint.ru/books/844718/) Марс, Кольстедт
