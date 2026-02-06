@@ -336,6 +336,7 @@
 ### 2026
 
 - [The Dark Side of the Earth](https://www.simonandschuster.com/books/The-Dark-Side-of-the-Earth/Mikhail-Zygar/9781668013908) ⭐️⭐️⭐️ M. Zygar @Jan 20, 2025
+- [Москва майская](https://snob.ru/literature/moskva-maiskaia-uteriannyi-roman-eduarda-limonova/) ⭐️⭐️⭐️⭐️⭐️ Лимонов @Feb 20, 2025
 
 ### In progress
 
