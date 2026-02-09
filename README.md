@@ -343,3 +343,5 @@
 - [The Cyclist’s Training Bible](https://joefrieltraining.com/book/the-cyclists-training-bible-5th-ed/) J. Friel
 - [Критический словарь Русской революции](https://www.labirint.ru/books/457065/) Актон, Розенберг, Черняев
 - [Город в деталях](https://www.labirint.ru/books/844718/) Марс, Кольстедт
+- [Храм войны](https://meduza.io/feature/2025/10/21/hram-voyny-istorika-ili-venyavkina-novaya-kniga-izdatelstva-meduzy) И. Венявкин
+- [Empire of AI](https://en.wikipedia.org/wiki/Empire_of_AI) K. Hao
