@@ -336,12 +336,12 @@
 ### 2026
 
 - [The Dark Side of the Earth](https://www.simonandschuster.com/books/The-Dark-Side-of-the-Earth/Mikhail-Zygar/9781668013908) ⭐️⭐️⭐️ M. Zygar @Jan 20, 2025
-- [Москва майская](https://snob.ru/literature/moskva-maiskaia-uteriannyi-roman-eduarda-limonova/) ⭐️⭐️⭐️⭐️⭐️ Лимонов @Feb 20, 2025
+- [Москва майская](https://snob.ru/literature/moskva-maiskaia-uteriannyi-roman-eduarda-limonova/) ⭐️⭐️⭐️⭐️⭐️ Лимонов @Feb 07, 2025
+- [Empire of AI](https://en.wikipedia.org/wiki/Empire_of_AI) ⭐️⭐️ K. Hao @Feb 21, 2025
 
 ### In progress
 
 - [The Cyclist’s Training Bible](https://joefrieltraining.com/book/the-cyclists-training-bible-5th-ed/) J. Friel
 - [Критический словарь Русской революции](https://www.labirint.ru/books/457065/) Актон, Розенберг, Черняев
-- [Город в деталях](https://www.labirint.ru/books/844718/) Марс, Кольстедт
 - [Храм войны](https://meduza.io/feature/2025/10/21/hram-voyny-istorika-ili-venyavkina-novaya-kniga-izdatelstva-meduzy) И. Венявкин
-- [Empire of AI](https://en.wikipedia.org/wiki/Empire_of_AI) K. Hao
+- [This Is for Everyone](https://www.goodreads.com/book/show/222376492-this-is-for-everyone) Tim Berners-Lee
