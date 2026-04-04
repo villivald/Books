@@ -341,10 +341,12 @@
 - [Храм войны](https://meduza.io/feature/2025/10/21/hram-voyny-istorika-ili-venyavkina-novaya-kniga-izdatelstva-meduzy) ⭐️⭐️⭐️⭐️ И. Венявкин @Mar 07, 2025
 - [This Is for Everyone](https://www.goodreads.com/book/show/222376492-this-is-for-everyone) ⭐️⭐️⭐️⭐️⭐️ Tim Berners-Lee @Mar 10, 2025
 - [Simulaatioteoria](https://www.tammi.fi/kirjat/simulaatioteoria/) ⭐️⭐️⭐️ Sissi Enestam @Mar 22, 2025
+- [Ластики](https://ru.wikipedia.org/wiki/%D0%9B%D0%B0%D1%81%D1%82%D0%B8%D0%BA%D0%B8_(%D1%80%D0%BE%D0%BC%D0%B0%D0%BD)) ⭐️⭐️⭐️ Роб-Грийе @Apr 04, 2025
 
 ### In progress
 
 - [The Cyclist’s Training Bible](https://joefrieltraining.com/book/the-cyclists-training-bible-5th-ed/) J. Friel
 - [Критический словарь Русской революции](https://www.labirint.ru/books/457065/) Актон, Розенберг, Черняев
-- [Ластики](https://ru.wikipedia.org/wiki/%D0%9B%D0%B0%D1%81%D1%82%D0%B8%D0%BA%D0%B8_(%D1%80%D0%BE%D0%BC%D0%B0%D0%BD)) Роб-Грийе
 - [A City on Mars](https://en.wikipedia.org/wiki/A_City_on_Mars) Weinersmith
+- [Федиатрия](https://individuum.ru/books/fediatriya-netrevozhnyy-podkhod-k-rebenku/) Катасонов
+ 
