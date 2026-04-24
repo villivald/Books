@@ -335,18 +335,17 @@
 
 ### 2026
 
-- [The Dark Side of the Earth](https://www.simonandschuster.com/books/The-Dark-Side-of-the-Earth/Mikhail-Zygar/9781668013908) ⭐️⭐️⭐️ M. Zygar @Jan 20, 2025
-- [Москва майская](https://snob.ru/literature/moskva-maiskaia-uteriannyi-roman-eduarda-limonova/) ⭐️⭐️⭐️⭐️⭐️ Лимонов @Feb 07, 2025
-- [Empire of AI](https://en.wikipedia.org/wiki/Empire_of_AI) ⭐️⭐️ K. Hao @Feb 21, 2025
-- [Храм войны](https://meduza.io/feature/2025/10/21/hram-voyny-istorika-ili-venyavkina-novaya-kniga-izdatelstva-meduzy) ⭐️⭐️⭐️⭐️ И. Венявкин @Mar 07, 2025
-- [This Is for Everyone](https://www.goodreads.com/book/show/222376492-this-is-for-everyone) ⭐️⭐️⭐️⭐️⭐️ Tim Berners-Lee @Mar 10, 2025
-- [Simulaatioteoria](https://www.tammi.fi/kirjat/simulaatioteoria/) ⭐️⭐️⭐️ Sissi Enestam @Mar 22, 2025
-- [Ластики](https://ru.wikipedia.org/wiki/%D0%9B%D0%B0%D1%81%D1%82%D0%B8%D0%BA%D0%B8_(%D1%80%D0%BE%D0%BC%D0%B0%D0%BD)) ⭐️⭐️⭐️ Роб-Грийе @Apr 04, 2025
-
+- [The Dark Side of the Earth](https://www.simonandschuster.com/books/The-Dark-Side-of-the-Earth/Mikhail-Zygar/9781668013908) ⭐️⭐️⭐️ M. Zygar @Jan 20, 2026
+- [Москва майская](https://snob.ru/literature/moskva-maiskaia-uteriannyi-roman-eduarda-limonova/) ⭐️⭐️⭐️⭐️⭐️ Лимонов @Feb 07, 2026
+- [Empire of AI](https://en.wikipedia.org/wiki/Empire_of_AI) ⭐️⭐️ K. Hao @Feb 21, 2026
+- [Храм войны](https://meduza.io/feature/2025/10/21/hram-voyny-istorika-ili-venyavkina-novaya-kniga-izdatelstva-meduzy) ⭐️⭐️⭐️⭐️ И. Венявкин @Mar 07, 2026
+- [This Is for Everyone](https://www.goodreads.com/book/show/222376492-this-is-for-everyone) ⭐️⭐️⭐️⭐️⭐️ Tim Berners-Lee @Mar 10, 2026
+- [Simulaatioteoria](https://www.tammi.fi/kirjat/simulaatioteoria/) ⭐️⭐️⭐️ Sissi Enestam @Mar 22, 2026
+- [Ластики](https://ru.wikipedia.org/wiki/%D0%9B%D0%B0%D1%81%D1%82%D0%B8%D0%BA%D0%B8_(%D1%80%D0%BE%D0%BC%D0%B0%D0%BD)) ⭐️⭐️⭐️ Роб-Грийе @Apr 04, 2026
+- [A City on Mars](https://en.wikipedia.org/wiki/A_City_on_Mars) ⭐️⭐️⭐️ Weinersmith @Apr 15, 2026
+- [Федиатрия](https://individuum.ru/books/fediatriya-netrevozhnyy-podkhod-k-rebenku/) ⭐️⭐️ Катасонов @Apr 23, 2026
+ 
 ### In progress
 
-- [The Cyclist’s Training Bible](https://joefrieltraining.com/book/the-cyclists-training-bible-5th-ed/) J. Friel
-- [Критический словарь Русской революции](https://www.labirint.ru/books/457065/) Актон, Розенберг, Черняев
-- [A City on Mars](https://en.wikipedia.org/wiki/A_City_on_Mars) Weinersmith
-- [Федиатрия](https://individuum.ru/books/fediatriya-netrevozhnyy-podkhod-k-rebenku/) Катасонов
- 
+- [Расходящиеся тропы](https://novayagazeta.eu/articles/2026/04/04/kniga-vzorvannykh-sudeb) Сенников
+- [Hyvän vanhemman salaisuus](https://www.finna.fi/Record/helmet.2528072) Pöyhönen
