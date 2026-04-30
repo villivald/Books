@@ -344,8 +344,8 @@
 - [Ластики](https://ru.wikipedia.org/wiki/%D0%9B%D0%B0%D1%81%D1%82%D0%B8%D0%BA%D0%B8_(%D1%80%D0%BE%D0%BC%D0%B0%D0%BD)) ⭐️⭐️⭐️ Роб-Грийе @Apr 04, 2026
 - [A City on Mars](https://en.wikipedia.org/wiki/A_City_on_Mars) ⭐️⭐️⭐️ Weinersmith @Apr 15, 2026
 - [Федиатрия](https://individuum.ru/books/fediatriya-netrevozhnyy-podkhod-k-rebenku/) ⭐️⭐️ Катасонов @Apr 23, 2026
- 
+- [Расходящиеся тропы](https://novayagazeta.eu/articles/2026/04/04/kniga-vzorvannykh-sudeb) ⭐️⭐️⭐️ Сенников @Apr 30, 2026
+
 ### In progress
 
-- [Расходящиеся тропы](https://novayagazeta.eu/articles/2026/04/04/kniga-vzorvannykh-sudeb) Сенников
 - [Hyvän vanhemman salaisuus](https://www.finna.fi/Record/helmet.2528072) Pöyhönen
