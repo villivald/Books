@@ -349,3 +349,5 @@
 ### In progress
 
 - [Hyvän vanhemman salaisuus](https://www.finna.fi/Record/helmet.2528072) Pöyhönen
+- [Соучастники](https://www.straightforward.foundation/ru-books/sluzhilye-lyudi-rossiyskie-elity-i-voyna-v-ukraine) Прокопенко
+- [Homelands](https://www.goodreads.com/book/show/62347050-homelands) Garton Ash
