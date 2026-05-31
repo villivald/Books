@@ -346,8 +346,8 @@
 - [Федиатрия](https://individuum.ru/books/fediatriya-netrevozhnyy-podkhod-k-rebenku/) ⭐️⭐️ Катасонов @Apr 23, 2026
 - [Расходящиеся тропы](https://novayagazeta.eu/articles/2026/04/04/kniga-vzorvannykh-sudeb) ⭐️⭐️⭐️ Сенников @Apr 30, 2026
 - [Homelands](https://www.goodreads.com/book/show/62347050-homelands) Garton Ash ⭐️⭐️⭐️⭐️ @May 28, 2026
+- [Соучастники](https://www.straightforward.foundation/ru-books/sluzhilye-lyudi-rossiyskie-elity-i-voyna-v-ukraine) Прокопенко ⭐️⭐️⭐️⭐️ @May 30, 2026
 
 ### In progress
 
-- [Соучастники](https://www.straightforward.foundation/ru-books/sluzhilye-lyudi-rossiyskie-elity-i-voyna-v-ukraine) Прокопенко
 - [Around the World in 80 Trains](https://www.amazon.com/Around-World-80-Trains-Adventure/dp/1408869756) M. Rajesh 
