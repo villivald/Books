@@ -352,3 +352,4 @@
 
 - [Around the World in 80 Trains](https://www.amazon.com/Around-World-80-Trains-Adventure/dp/1408869756) M. Rajesh
 - [A Travel Guide to the Middle Ages](https://www.goodreads.com/en/book/show/150779189-a-travel-guide-to-the-middle-ages) A. Bale
+- [Alien Earths](https://www.penguin.co.uk/books/460729/alien-earths-by-kaltenegger-lisa/9781802064919) L. Kaltenegger
