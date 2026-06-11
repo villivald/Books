@@ -347,9 +347,9 @@
 - [Расходящиеся тропы](https://novayagazeta.eu/articles/2026/04/04/kniga-vzorvannykh-sudeb) ⭐️⭐️⭐️ Сенников @Apr 30, 2026
 - [Homelands](https://www.goodreads.com/book/show/62347050-homelands) Garton Ash ⭐️⭐️⭐️⭐️ @May 28, 2026
 - [Соучастники](https://www.straightforward.foundation/ru-books/sluzhilye-lyudi-rossiyskie-elity-i-voyna-v-ukraine) Прокопенко ⭐️⭐️⭐️⭐️ @May 30, 2026
+- [Alien Earths](https://www.penguin.co.uk/books/460729/alien-earths-by-kaltenegger-lisa/9781802064919) ⭐️⭐️⭐️ L. Kaltenegger @Jun 11, 2026
 
 ### In progress
 
 - [Around the World in 80 Trains](https://www.amazon.com/Around-World-80-Trains-Adventure/dp/1408869756) M. Rajesh
 - [A Travel Guide to the Middle Ages](https://www.goodreads.com/en/book/show/150779189-a-travel-guide-to-the-middle-ages) A. Bale
-- [Alien Earths](https://www.penguin.co.uk/books/460729/alien-earths-by-kaltenegger-lisa/9781802064919) L. Kaltenegger
