@@ -354,3 +354,4 @@
 
 - [A Travel Guide to the Middle Ages](https://www.goodreads.com/en/book/show/150779189-a-travel-guide-to-the-middle-ages) A. Bale
 - [The World Atlas of Coffee](https://www.theworldatlasofcoffee.com/) J. Hoffmann
+- [The Successor](https://pushkinpress.com/book/the-successor/) M. Fishman
