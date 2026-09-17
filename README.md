@@ -352,12 +352,13 @@
 - [Hapanjuurileipurien parhaat](https://www.suomalainen.com/products/hapanjuurileipurien-parhaat-uudet-reseptit?srsltid=AfmBOooGru5fugmIcDuNFfQiWUYny0rlGYMiVBEnAViRna-vBnfPGx65) ⭐️⭐️⭐️⭐️ Kuusela @Jul 29, 2026
 - [The Accidental Tour-ist](https://www.amazon.com/Accidental-Tour-ist-Final-Dispatches-Road/dp/139941982X) ⭐️⭐️⭐️ Boulting @Aug 2, 2026
 - [Take Me to Your Leader](https://en.wikipedia.org/wiki/Take_Me_to_Your_Leader_(book)) ⭐️⭐️⭐️ Neil deGrasse Tyson @Aug 17, 2026
+- [The Perfect Loaf](https://www.theperfectloaf.com/the-perfect-loaf-cookbook-is-now-available/) ⭐️⭐️⭐️⭐️⭐️ Maurizio Leo @Sep 10, 2026
+- [Blank Space](https://www.goodreads.com/en/book/show/228142774-blank-space) ⭐️⭐️⭐️⭐️⭐️ W. David Marx @Sep 17, 2026
 
 ### In progress
 
 - [A Travel Guide to the Middle Ages](https://www.goodreads.com/en/book/show/150779189-a-travel-guide-to-the-middle-ages) A. Bale
 - [The World Atlas of Coffee](https://www.theworldatlasofcoffee.com/) J. Hoffmann
 - [The Successor](https://pushkinpress.com/book/the-successor/) M. Fishman
-- [The Perfect Loaf](https://www.theperfectloaf.com/the-perfect-loaf-cookbook-is-now-available/) Maurizio Leo
 - [Cribsheet](https://www.penguinrandomhouse.com/books/572658/cribsheet-by-emily-oster/) Emily Oster
-- [Blank Space](https://www.goodreads.com/en/book/show/228142774-blank-space) W. David Marx
+- [I Like to Watch](https://www.penguinrandomhouse.com/books/563025/i-like-to-watch-by-emily-nussbaum/) Emily Nussbaum
