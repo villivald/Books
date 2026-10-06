@@ -354,11 +354,9 @@
 - [Take Me to Your Leader](https://en.wikipedia.org/wiki/Take_Me_to_Your_Leader_(book)) ⭐️⭐️⭐️ Neil deGrasse Tyson @Aug 17, 2026
 - [The Perfect Loaf](https://www.theperfectloaf.com/the-perfect-loaf-cookbook-is-now-available/) ⭐️⭐️⭐️⭐️⭐️ Maurizio Leo @Sep 10, 2026
 - [Blank Space](https://www.goodreads.com/en/book/show/228142774-blank-space) ⭐️⭐️⭐️⭐️⭐️ W. David Marx @Sep 17, 2026
+- [I Like to Watch](https://www.penguinrandomhouse.com/books/563025/i-like-to-watch-by-emily-nussbaum/) ⭐️⭐️⭐️⭐️ Emily Nussbaum @Oct 3, 2026
 
 ### In progress
 
-- [A Travel Guide to the Middle Ages](https://www.goodreads.com/en/book/show/150779189-a-travel-guide-to-the-middle-ages) A. Bale
-- [The World Atlas of Coffee](https://www.theworldatlasofcoffee.com/) J. Hoffmann
-- [The Successor](https://pushkinpress.com/book/the-successor/) M. Fishman
 - [Cribsheet](https://www.penguinrandomhouse.com/books/572658/cribsheet-by-emily-oster/) Emily Oster
-- [I Like to Watch](https://www.penguinrandomhouse.com/books/563025/i-like-to-watch-by-emily-nussbaum/) Emily Nussbaum
+- [Fictional Selves](https://www.penguinrandomhouse.com/books/783767/fictional-selves-by-kyle-maclachlan/) Kyle MacLachlan
