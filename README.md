@@ -355,8 +355,11 @@
 - [The Perfect Loaf](https://www.theperfectloaf.com/the-perfect-loaf-cookbook-is-now-available/) ⭐️⭐️⭐️⭐️⭐️ Maurizio Leo @Sep 10, 2026
 - [Blank Space](https://www.goodreads.com/en/book/show/228142774-blank-space) ⭐️⭐️⭐️⭐️⭐️ W. David Marx @Sep 17, 2026
 - [I Like to Watch](https://www.penguinrandomhouse.com/books/563025/i-like-to-watch-by-emily-nussbaum/) ⭐️⭐️⭐️⭐️ Emily Nussbaum @Oct 3, 2026
+- [The AGI Chronicles](https://theagichronicles.com/) ⭐️⭐️⭐️ Kevin Roose @Nov 22, 2026
 
 ### In progress
 
 - [Cribsheet](https://www.penguinrandomhouse.com/books/572658/cribsheet-by-emily-oster/) Emily Oster
 - [Fictional Selves](https://www.penguinrandomhouse.com/books/783767/fictional-selves-by-kyle-maclachlan/) Kyle MacLachlan
+- [A Place Both Wonderful and Strange](https://scottmeslow.com/books/a-place-both-wonderful-and-strange) Scott Meslow
+- [Когда мы поём, поднимается ветер](https://meduza.io/book_landing/2026/10/21/aleksandr-gorbachev) Александр Горбачев
