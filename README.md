@@ -356,6 +356,7 @@
 - [Blank Space](https://www.goodreads.com/en/book/show/228142774-blank-space) ⭐️⭐️⭐️⭐️⭐️ W. David Marx @Sep 17, 2026
 - [I Like to Watch](https://www.penguinrandomhouse.com/books/563025/i-like-to-watch-by-emily-nussbaum/) ⭐️⭐️⭐️⭐️ Emily Nussbaum @Oct 3, 2026
 - [The AGI Chronicles](https://theagichronicles.com/) ⭐️⭐️⭐️ Kevin Roose @Nov 22, 2026
+- [There's Always This Year](https://www.penguinrandomhouse.com/books/695817/theres-always-this-year-by-hanif-abdurraqib/) ⭐️⭐️ Hanif Abdurraqib @Nov 25, 2026
 
 ### In progress
 
